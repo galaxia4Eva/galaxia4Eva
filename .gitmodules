@@ -1,0 +1,3 @@
+[submodule "private"]
+	path = private
+	url = git@bitbucket.org:galaxia4eva/private-notes.git
