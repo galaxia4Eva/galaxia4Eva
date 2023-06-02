@@ -1,3 +1,6 @@
 [submodule "private"]
 	path = private
 	url = git@bitbucket.org:galaxia4eva/private-notes.git
+[submodule ".obsidian"]
+	path = .obsidian
+	url = git@bitbucket.org:galaxia4eva/.obsidian.git
