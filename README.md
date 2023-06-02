@@ -1,3 +1,4 @@
+![](media/Stand_with_Ukraine.svg)
 # η Δεμερζελ's flying discourse
 
 ## Hello, Galaxy
