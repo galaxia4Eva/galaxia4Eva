@@ -37,6 +37,7 @@
 33. https://arxiv.org/abs/2303.15437
     1. https://github.com/apple/ml-facelit
 34. https://arxiv.org/pdf/2305.18404.pdf
+35. https://huggingface.co/papers/2306.00238
 
 # Tutorials and courses
 1. https://huggingface.co/docs/transformers/tokenizer_summary
