@@ -1,4 +1,7 @@
-#folklore #pop-culture 
+#folklore #poop-culture
+# Твоя підпільна гуманітарка
+1. https://humanitarka.com
+
 # Triage
 1. https://en.m.wikipedia.org/wiki/Let_It_Bleed
 2. https://en.m.wikipedia.org/wiki/Shapeshifting
