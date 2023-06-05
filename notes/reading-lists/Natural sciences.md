@@ -7,6 +7,8 @@
 4. https://www.cl.cam.ac.uk/seminars/wednesday/video/
 5. http://www.wiki.cl.cam.ac.uk/rowiki/NaturalLanguage/ALTA
 6. http://talks.cam.ac.uk/show/index/39731
+7. https://github.com/typst/typst
+8. 
 
 ## News
 1. https://www.cst.cam.ac.uk/dr-andreas-vlachos-wins-erc-grant-project-combats-fake-news
@@ -51,8 +53,25 @@
 37. https://andreasvlachos.github.io//projects/
 38. https://tomstafford.sites.sheffield.ac.uk/research
 39. https://arxiv.org/pdf/2305.17564.pdf
+40. https://arxiv.org/abs/2101.01816
+41. https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8373
+42. https://sites.google.com/berkeley.edu/dfuq-22/home?authuser=0
+43. https://docs.google.com/spreadsheets/d/10-lexYyn9TEy9R5KZHv3qLNAfGO8ubRVTSQoEfqj05s/edit#gid=0
+44. https://www.sciencedirect.com/journal/hardwarex/about/news?utm_campaign=STMJ_1685025236_SC&utm_medium=SPPC&utm_source=TW&dgcid=STMJ_1685025236_SC#author-interview-monitoring-aquatic-ecosystems-with-emersense
+45. https://www.quantamagazine.org/the-electron-is-so-round-that-its-ruling-out-new-particles-20230410/
+46. https://djalil.chafai.net/blog/2020/01/22/about-the-hellinger-distance/
+47. https://www.quantamagazine.org/how-lossless-data-compression-works-20230531/
+48. https://en.wikipedia.org/wiki/Balmer_jump
+49. https://www.quantamagazine.org/shadows-in-the-big-bang-afterglow-reveal-invisible-cosmic-structures-20230313/
+50. https://peterrohde.org/how-do-photonic-bell-measurements-work/
+51. https://www.quantamagazine.org/how-3d-changes-in-the-genome-turned-sharks-into-skates-20230530/
+52. 
 
 
 # Type theory
 1. https://en.wikipedia.org/wiki/Type_theory
 2. https://en.wikipedia.org/wiki/Type_system
+
+# Source code
+## Triage
+1. https://github.com/I2PC/xmipp

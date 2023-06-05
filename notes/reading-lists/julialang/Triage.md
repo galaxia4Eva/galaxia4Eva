@@ -1,2 +1,9 @@
 1. https://m3g.github.io/JuliaNotes.jl/stable/
 2. https://franklinjl.org
+    - https://opensourc.es/
+    - https://ronnybergmann.net/
+    - https://fredrikekre.se/
+    - https://jacobzelko.com/
+    - https://huijzer.xyz/
+    - https://rmsrosa.github.io/en/
+3. https://github.com/rust-lang/compiler-team/issues/462

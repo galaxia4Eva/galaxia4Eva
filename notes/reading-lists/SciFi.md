@@ -4,6 +4,8 @@
 3. https://www.writersdigest.com/write-better-fiction/c-e-mcgill-on-revisiting-classic-science-fiction
 4. https://en.m.wikipedia.org/wiki/Robots_and_Empire
 5. https://qntm.org/mmacevedo
+6. https://i.4pcdn.org/tg/1599529933107.pdf
+7. 
 
 # Writing
 1. https://writeandimprove.com

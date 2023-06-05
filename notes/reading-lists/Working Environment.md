@@ -31,11 +31,23 @@
 10. https://github.com/rbtnn/vim-jumptoline
 11. http://jkff.info/software/timeplotters/
 12. https://github.com/rbtnn/vim-vimconsole
-# nodejs
-1. https://pnpm.io/motivation
-# github
-#github
-1. https://docs.github.com/en/pages
+13. https://github.com/gregsexton/VimCalc
+14. 
+
+# md
+1. https://github.com/obsidianmd
+    1. https://github.com/kepano/obsidian-minimal
+    2. https://github.com/argenos/obsidian-tutorial-researcher/tree/main
+    3. https://minimal.guide/Home
+2. https://twitter.com/meekaale/status/1665055353384435714?s=20
+3. https://hackmd.io
+
+# pdf
+1. https://www.xpdfreader.com/download.html ?
+2. https://okular.kde.org/en-gb/download/ ?
+
+# scripting
+1. https://github.com/raycast/script-commands
 
 # macOS
 1. [Hyperduck](https://apps.apple.com/app/id6444667067)
@@ -58,4 +70,5 @@
 12. https://github.com/apple/MaterialX
 13. https://github.com/munki/macadmin-scripts
 14. https://github.com/corpnewt/gibMacOS
-15. 
+15. https://dortania.github.io/GPU-Buyers-Guide/#a-quick-refresher-with-nvidia-and-web-drivers
+16. 

@@ -38,6 +38,15 @@
     1. https://github.com/apple/ml-facelit
 34. https://arxiv.org/pdf/2305.18404.pdf
 35. https://huggingface.co/papers/2306.00238
+36. https://arxiv.org/abs/2103.16997
+    1. https://github.com/grammarly/ua-gec
+37. https://huggingface.co/papers/2306.00802
+38. https://arxiv.org/abs/2306.00323
+39. https://github.com/BlinkDL/RWKV-LM
+40. https://llava-vl.github.io
+    1. https://arxiv.org/abs/2304.08485
+41. https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/
+42. 
 
 # Tutorials and courses
 1. https://huggingface.co/docs/transformers/tokenizer_summary
@@ -65,4 +74,4 @@
 5. https://github.com/magenta/magenta
 6. https://github.com/mrry/ciel
     1. https://github.com/mrry/ciel-c
-7. 
+7. https://github.com/microprediction/microprediction

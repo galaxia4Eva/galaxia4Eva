@@ -20,3 +20,14 @@
 18. https://orthochristian.com/137710.html
 19. https://arxiv.org/abs/2201.10346
 20. https://pages.cdbb.uk
+21. https://core.ac.uk/download/pdf/190331679.pdf
+22. https://dl.acm.org/doi/10.1145/3173574.3174226
+23. https://ieeexplore.ieee.org/document/7458136
+24. https://github.com/valeman/awesome-conformal-prediction
+    1. https://youtu.be/xZbuFKWV5NA
+25. https://axiosis.github.io/books/ffj/ffj.pdf
+26. https://public.summaries.com/files/1-page-summary/hacking-growth.pdf
+27. https://www.quantamagazine.org/how-math-has-changed-the-shape-of-gerrymandering-20230601/
+28. https://www.turingpost.com/p/anthropomorphisminai
+29. https://link.springer.com/article/10.1007/s10519-022-10107-w
+30. 

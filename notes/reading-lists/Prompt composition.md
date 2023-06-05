@@ -23,6 +23,11 @@
 22. https://www.crassh.cam.ac.uk/events/29885/
 23. https://www.crassh.cam.ac.uk/events/37922/
 24. https://www.crassh.cam.ac.uk/research/projects-centres/giving-voice-to-digital-democracies/
+25. [Guest Post: Stop Hallucinations From Hurting your LLM Powered Apps*](https://open.substack.com/pub/thesequence/p/guest-post-stop-hallucinations-from?r=8ogxd&utm_campaign=post&utm_medium=web)
+26. https://doi.org/10.48550/arXiv.2305.09800
+27. https://www.lesswrong.com/posts/LAxAmooK4uDfWmbep/anomalous-tokens-reveal-the-original-identities-of-instruct
+28. https://www.lesswrong.com/posts/kmWrwtGE9B9hpbgRT/a-search-for-more-chatgpt-gpt-3-5-gpt-4-unspeakable-glitch
+29. 
 
 # Mode collapse
 1. [Visualizing mode collapse with block multiverse plots :: — Moire (generative.ink)](https://generative.ink/plots/block-multiverse-mode-collapse/)

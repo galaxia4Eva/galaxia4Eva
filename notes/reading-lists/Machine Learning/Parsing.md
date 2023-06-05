@@ -19,3 +19,7 @@
 16. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8124527/
 17. https://github.com/adbar/German-NLP/blob/master/README.md
 18. https://github.com/inhabitedtype/angstrom
+19. https://github.com/apple-oss-distributions/xelf/tree/main
+> flex is a tool for generating scanners: programs which recognized lexical patterns in text.
+> 
+> http://www.icir.org/vern/
