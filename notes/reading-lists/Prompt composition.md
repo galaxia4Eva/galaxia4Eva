@@ -27,7 +27,7 @@
 26. https://doi.org/10.48550/arXiv.2305.09800
 27. https://www.lesswrong.com/posts/LAxAmooK4uDfWmbep/anomalous-tokens-reveal-the-original-identities-of-instruct
 28. https://www.lesswrong.com/posts/kmWrwtGE9B9hpbgRT/a-search-for-more-chatgpt-gpt-3-5-gpt-4-unspeakable-glitch
-29. 
+29. [BSI  -  P464](https://www.bsi.bund.de/EN/Service-Navi/Publikationen/Studien/Projekt_P464/Projekt_P464_node.html)
 
 # Mode collapse
 1. [Visualizing mode collapse with block multiverse plots :: — Moire (generative.ink)](https://generative.ink/plots/block-multiverse-mode-collapse/)

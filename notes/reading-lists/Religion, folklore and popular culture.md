@@ -32,5 +32,5 @@
 26. https://public.summaries.com/files/1-page-summary/hacking-growth.pdf
 27. https://www.quantamagazine.org/how-math-has-changed-the-shape-of-gerrymandering-20230601/
 28. https://www.turingpost.com/p/anthropomorphisminai
-29. https://link.springer.com/article/10.1007/s10519-022-10107-w
+29. 
 30. 

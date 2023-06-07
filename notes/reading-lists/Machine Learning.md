@@ -1,77 +1,86 @@
 #reading-list #nlp #transformers #triage
 # Triage
-1. https://sebastianraschka.com/blog/2023/llm-reading-list.html
-2. https://www.eleuther.ai/projects/polyglot
+1. [Understanding Large Language Models -- A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
+2. [Polyglot — EleutherAI](https://www.eleuther.ai/projects/polyglot)
 3. https://galactica.org/static/paper.pdf
-    1. https://huggingface.co/facebook/galactica-120b
-4. [2303.18223.pdf (arxiv.org)](https://arxiv.org/pdf/2303.18223.pdf)
-5. https://spacy.io
-6. http://www2.statmt.org/moses/?n=Development.GetStarted
-7. https://platform.openai.com/tokenizer
-8. https://stanfordnlp.github.io/stanza/
-9. https://arxiv.org/abs/2305.10626
-10. https://arxiv.org/abs/2305.14342
-11. https://arxiv.org/abs/2305.09137
-12. https://arxiv.org/abs/2305.10425
-13. https://huggingface.co/papers/2305.13048
-14. https://arxiv.org/abs/2305.10601
-15. https://en.m.wikipedia.org/wiki/Byte_pair_encoding
-16. https://github.com/openai/tiktoken
-17. https://arxiv.org/abs/2305.06983
-18. https://arxiv.org/abs/2305.04388
-19. https://arxiv.org/abs/2305.07440
-20. https://github.com/tensorflow/tensorflow
-21. https://arxiv.org/abs/2208.10264
-22. https://stability.ai/blog/deepfloyd-if-text-to-image-model
-23. https://www.nature.com/articles/s41593-023-01304-9.epdf
-24. https://universaldependencies.org/u/overview/tokenization.html
-25. https://arxiv.org/abs/2004.07780
-26. https://youtu.be/H-x_upYg-JY
-27. https://www.youtube.com/watch?v=bZQun8Y4L2A
-28. https://link.springer.com/article/10.1007/s43681-023-00289-2
-29. https://huggingface.co/papers/2305.18654
-30. https://arxiv.org/abs/2305.19472
-31. https://arxiv.org/abs/2109.13916
-32. https://arxiv.org/abs/2203.12575
-    1. https://github.com/apple/ml-neuman
-33. https://arxiv.org/abs/2303.15437
-    1. https://github.com/apple/ml-facelit
-34. https://arxiv.org/pdf/2305.18404.pdf
-35. https://huggingface.co/papers/2306.00238
-36. https://arxiv.org/abs/2103.16997
-    1. https://github.com/grammarly/ua-gec
-37. https://huggingface.co/papers/2306.00802
-38. https://arxiv.org/abs/2306.00323
-39. https://github.com/BlinkDL/RWKV-LM
-40. https://llava-vl.github.io
-    1. https://arxiv.org/abs/2304.08485
-41. https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/
-42. 
+    1. [facebook/galactica-120b · Hugging Face](https://huggingface.co/facebook/galactica-120b)
+4. [[2303.18223] A Survey of Large Language Models](https://arxiv.org/abs/2303.18223.pdf)
+5. [spaCy · Industrial-strength Natural Language Processing in Python](https://spacy.io/)
+6. [Moses - Development/GetStarted](http://www2.statmt.org/moses/?n=Development.GetStarted)
+7. [OpenAI API](https://platform.openai.com/tokenizer)
+8. [Overview - StanzaOverview | StanzaLink](https://stanfordnlp.github.io/stanza/)
+9. [[2305.10626] Language Models Meet World Models: Embodied Experiences Enhance Language Models](https://arxiv.org/abs/2305.10626)
+10. [[2305.14342] Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training](https://arxiv.org/abs/2305.14342)
+11. [[2305.09137] Pre-Training to Learn in Context](https://arxiv.org/abs/2305.09137)
+12. [[2305.10425] SLiC-HF: Sequence Likelihood Calibration with Human Feedback](https://arxiv.org/abs/2305.10425)
+13. [Paper page - RWKV: Reinventing RNNs for the Transformer Era](https://huggingface.co/papers/2305.13048)
+14. [[2305.10601] Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
+15. [Byte pair encoding - Wikipedia](https://en.m.wikipedia.org/wiki/Byte_pair_encoding)
+16. [GitHub - openai/tiktoken: tiktoken is a fast BPE tokeniser for use with OpenAI's models.](https://github.com/openai/tiktoken)
+17. [[2305.06983] Active Retrieval Augmented Generation](https://arxiv.org/abs/2305.06983)
+18. [[2305.04388] Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting](https://arxiv.org/abs/2305.04388)
+19. [[2305.07440] Optimizing Memory Mapping Using Deep Reinforcement Learning](https://arxiv.org/abs/2305.07440)
+20. [GitHub - tensorflow/tensorflow: An Open Source Machine Learning Framework for Everyone](https://github.com/tensorflow/tensorflow)
+21. [[2208.10264] Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://arxiv.org/abs/2208.10264)
+22. [Stability AI releases DeepFloyd IF, a powerful text-to-image model that can smartly integrate text into images — Stability AI](https://stability.ai/blog/deepfloyd-if-text-to-image-model)
+23. [Semantic reconstruction of continuous language from non-invasive brain recordings | Nature Neuroscience](https://www.nature.com/articles/s41593-023-01304-9.epdf)
+24. [Tokenization and Word Segmentation](https://universaldependencies.org/u/overview/tokenization.html)
+25. [[2004.07780] Shortcut Learning in Deep Neural Networks](https://arxiv.org/abs/2004.07780)
+26. [Gail Weiss: Thinking like Transformers - YouTube](https://youtu.be/H-x_upYg-JY)
+27. [State of GPT | BRK216HFS - YouTube](https://www.youtube.com/watch?v=bZQun8Y4L2A)
+28. [Auditing large language models: a three-layered approach | SpringerLink](https://link.springer.com/article/10.1007/s43681-023-00289-2)
+29. [Paper page - Faith and Fate: Limits of Transformers on Compositionality](https://huggingface.co/papers/2305.18654)
+30. [[2305.19472] PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning](https://arxiv.org/abs/2305.19472)
+31. [[2109.13916] Unsolved Problems in ML Safety](https://arxiv.org/abs/2109.13916)
+32. [[2203.12575] NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575)
+    1. [GitHub - apple/ml-neuman: Official repository of NeuMan: Neural Human Radiance Field from a Single Video (ECCV 2022)](https://github.com/apple/ml-neuman)
+33. [[2303.15437] FaceLit: Neural 3D Relightable Faces](https://arxiv.org/abs/2303.15437)
+    1. [GitHub - apple/ml-facelit: Official repository of FaceLit: Neural 3D Relightable Faces (CVPR 2023)](https://github.com/apple/ml-facelit)
+34. [[2305.18404] Conformal Prediction with Large Language Models for Multi-Choice Question Answering](https://arxiv.org/abs/2305.18404.pdf)
+35. [Paper page - Bytes Are All You Need: Transformers Operating Directly On File Bytes](https://huggingface.co/papers/2306.00238)
+36. [[2103.16997] UA-GEC: Grammatical Error Correction and Fluency Corpus for the Ukrainian Language](https://arxiv.org/abs/2103.16997)
+    1. [GitHub - grammarly/ua-gec: UA-GEC: Grammatical Error Correction and Fluency Corpus for the Ukrainian Language](https://github.com/grammarly/ua-gec)
+37. [Paper page - Birth of a Transformer: A Memory Viewpoint](https://huggingface.co/papers/2306.00802)
+38. [[2306.00323] Thought Cloning: Learning to Think while Acting by Imitating Human Thinking](https://arxiv.org/abs/2306.00323)
+39. [GitHub - BlinkDL/RWKV-LM: RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.](https://github.com/BlinkDL/RWKV-LM)
+40. [LLaVA](https://llava-vl.github.io/)
+    1. [[2304.08485] Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
+41. [Quanta MagazineSave ArticleSave Article](https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/)
+42. [[2305.16264] Scaling Data-Constrained Language Models](https://doi.org/10.48550/arXiv.2305.16264)
+43. [[2306.01828] Unifying (Machine) Vision via Counterfactual World Modeling](https://doi.org/10.48550/arXiv.2306.01828)
+44. [Paper page - Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://huggingface.co/papers/2306.02858)
+45. [[2306.02707] Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://doi.org/10.48550/arXiv.2306.02707)
+46. [Paper page - PokemonChat: Auditing ChatGPT for Pokémon Universe Knowledge](https://huggingface.co/papers/2306.03024)
+47. [[2011.09350] Asymmetric Private Set Intersection with Applications to Contact Tracing and Private Vertical Federated Machine Learning](https://doi.org/10.48550/arXiv.2011.09350)
+48. [[2104.00489] PyVertical: A Vertical Federated Learning Framework for Multi-headed SplitNN](https://doi.org/10.48550/arXiv.2104.00489)
+49. [Transformer Taxonomy (the last lit review) | kipply's blog](https://kipp.ly/blog/transformer-taxonomy/)
+50. [[2306.03901] ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory](https://doi.org/10.48550/arXiv.2306.03901)
 
 # Tutorials and courses
-1. https://huggingface.co/docs/transformers/tokenizer_summary
-2. https://www.udemy.com/course/parsing-in-natural-language-processing/
-3. https://web.stanford.edu/class/cs224n/
-	1. https://web.stanford.edu/~jurafsky/slp3/
-	2. https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
-4. https://github.com/SkalskiP/courses
-5.  https://avehtari.github.io/BDA_course_Aalto/
+1. [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)
+2. [Free Natural Language Processing Tutorial - Parsing in Natural Language Processing | Udemy](https://www.udemy.com/course/parsing-in-natural-language-processing/)
+3. [Stanford CS 224N | Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
+	1. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+	2. [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2021 - YouTube](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+4. [GitHub - SkalskiP/courses: This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)](https://github.com/SkalskiP/courses)
+5.  [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto/)
     1. https://users.aalto.fi/~ave/BDA3.pdf
-    2. https://avehtari.github.io/BDA_course_Aalto/gsu2023.html
-6. https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+    2. [Bayesian Data Analysis course - GSU 2023](https://avehtari.github.io/BDA_course_Aalto/gsu2023.html)
+6. [Stanford CS224W: Machine Learning with Graphs - YouTube](https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+7. [Generative AI learning path | Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/118)
 
 # Books
 1. https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
 
 # Source code
-1. https://github.com/unicode-org
+1. [The Unicode Consortium · GitHubTwitterYouTube](https://github.com/unicode-org)
 
 ## Triage
-1. https://github.com/orgs/sillsdev/
-2. https://github.com/PromtEngineer/localGPT
-3. https://github.com/lyuchenyang/Macaw-LLM
-4. https://github.com/ggerganov/llama.cpp/pull/1472
-5. https://github.com/magenta/magenta
-6. https://github.com/mrry/ciel
-    1. https://github.com/mrry/ciel-c
-7. https://github.com/microprediction/microprediction
+1. [SIL LSDev · GitHub](https://github.com/orgs/sillsdev/)
+2. [GitHub - PromtEngineer/localGPT: Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.](https://github.com/PromtEngineer/localGPT)
+3. [GitHub - lyuchenyang/Macaw-LLM: Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration](https://github.com/lyuchenyang/Macaw-LLM)
+4. [[Research] Steering vectors by SlyEcho · Pull Request #1472 · ggerganov/llama.cpp · GitHub](https://github.com/ggerganov/llama.cpp/pull/1472)
+5. [GitHub - magenta/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/magenta/magenta)
+6. [GitHub - mrry/ciel: A distributed execution engine for cloud computing](https://github.com/mrry/ciel)
+    1. [GitHub - mrry/ciel-c: C bindings for CIEL](https://github.com/mrry/ciel-c)
+7. [GitHub - microprediction/microprediction: If you can measure it, consider it predicted](https://github.com/microprediction/microprediction)
