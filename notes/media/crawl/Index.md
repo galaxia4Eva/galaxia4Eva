@@ -1,8 +1,8 @@
 # Youtube
-1. https://github.com/Abstraxt-AA/playlist-youtube-vlc
-2. https://github.com/Acconut/polyplayer
-3. https://github.com/leandromoreira/ffmpeg-libav-tutorial
-4. https://www.youtube.com/watch?v=doqLWb5ghCI&t=137s
+1. [GitHub - Abstraxt-AA/playlist-youtube-vlc: Lua plugin to parse Youtube playlists](https://github.com/Abstraxt-AA/playlist-youtube-vlc)
+2. [GitHub - Acconut/polyplayer: Rule YouTube, Soundcloud and Vimeo player with one API](https://github.com/Acconut/polyplayer)
+3. [GitHub - leandromoreira/ffmpeg-libav-tutorial: FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
+4. [Transistor Bass | Introduction - YouTube](https://www.youtube.com/watch?v=doqLWb5ghCI&t=137s)
 5. 
 
 # Twitter
@@ -28,7 +28,10 @@
 19. https://twitter.com/TranslatedCats/status/1664999511868030977?s=20
 20. https://twitter.com/HumansNoContext/status/1665327770170273793?s=20
 21. https://twitter.com/buitengebieden/status/1665585804830203904?s=20
-22. 
+22. https://twitter.com/ReduxxMag/status/1665629530336432128?s=20
+23. https://twitter.com/HumansNoContext/status/1666139463750123520?s=20
+5. https://twitter.com/shouldhaveanima/status/1666188837352267776?s=20
+24. https://twitter.com/todayyearsoldig/status/1666178329811243010?s=20
 
 # Reddit
 1. https://www.reddit.com/r/YUROP/comments/13py38s/the_greeks_are_not_happy/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&utm_content=1&utm_term=15
