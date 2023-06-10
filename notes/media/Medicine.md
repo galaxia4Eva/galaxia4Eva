@@ -5,4 +5,18 @@
 4. https://twitter.com/chrost_hugo/status/1666041493650325505?s=20
 6. https://twitter.com/slava__bobrov/status/1666051336067055617?s=20
 7. https://twitter.com/chrost_hugo/status/1666075971261464580?s=20
-8. 
+8. https://twitter.com/chrost_hugo/status/1666439365135040512?s=20
+9. https://twitter.com/chrost_hugo/status/1666630876845813760?s=20
+10. https://twitter.com/chrost_hugo/status/1666696811304693760?s=20
+11. https://twitter.com/chrost_hugo/status/1666860389311864832?s=20
+12. https://twitter.com/chrost_hugo/status/1667002827737116673?s=12
+13. https://twitter.com/chrost_hugo/status/1666888574829228032?s=12
+14. https://twitter.com/chrost_hugo/status/1667058695849799680?s=12
+15. https://twitter.com/chrost_hugo/status/1667160114371911683?s=20
+16. https://doi.org/10.1016/j.jclinepi.2023.05.017
+17. https://twitter.com/NeuroscienceNew/status/1666863333545213961?s=20
+18. https://twitter.com/CellPressNews/status/1666928088154886144?s=20
+19. https://twitter.com/chrost_hugo/status/1667224538726420480?s=20
+20. https://twitter.com/chrost_hugo/status/1667323188680720384?s=20
+21. https://twitter.com/chrost_hugo/status/1667461600704331779?s=20
+22. 
