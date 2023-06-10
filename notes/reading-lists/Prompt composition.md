@@ -28,9 +28,15 @@
 27. https://www.lesswrong.com/posts/LAxAmooK4uDfWmbep/anomalous-tokens-reveal-the-original-identities-of-instruct
 28. https://www.lesswrong.com/posts/kmWrwtGE9B9hpbgRT/a-search-for-more-chatgpt-gpt-3-5-gpt-4-unspeakable-glitch
 29. [BSI  -  P464](https://www.bsi.bund.de/EN/Service-Navi/Publikationen/Studien/Projekt_P464/Projekt_P464_node.html)
+30. https://lumpenspace.substack.com/p/the-map-becomes-the-territory-wmtp
+31. https://bigthink.com/the-future/ai-problems-solutions-framework/
+32. https://www.strangeloopcanon.com/p/how-do-you-govern-something-thats
+33. https://twitter.com/growing_daniel/status/1667380340346765313?s=20
+34. 
 
 # Mode collapse
 1. [Visualizing mode collapse with block multiverse plots :: — Moire (generative.ink)](https://generative.ink/plots/block-multiverse-mode-collapse/)
 2. [Remarks 1–18 on GPT (compressed) - LessWrong](https://www.lesswrong.com/posts/7qSHKYRnqyrumEfbt/remarks-1-18-on-gpt-compressed)
 3. [RLHF does not appear to differentially cause mode-collapse - LessWrong](https://www.lesswrong.com/posts/pjesEx526ngE6dnmr/rlhf-does-not-appear-to-differentially-cause-mode-collapse)
 4. [Mysteries of mode collapse - LessWrong](https://www.lesswrong.com/posts/t9svvNPNmFf5Qa3TA/mysteries-of-mode-collapse)
+5. [Mysteries of mode collapse - LessWrong](https://www.lesswrong.com/posts/t9svvNPNmFf5Qa3TA/mysteries-of-mode-collapse)

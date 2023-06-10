@@ -2,7 +2,11 @@
 
 # Awesome lists
 1. [GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge)
-2. https://apps.apple.com/de/story/id1623645889?l=en
+2. 
+# Apple Store promotional materials
+4. https://apps.apple.com/story/id1623645889?l=en
+5. https://apps.apple.com/story/id1618337014?l=en
+6. https://developer.apple.com/app-store/small-business-program/
 # Development
 #dev
 1. [Appwrite - Open-Source End-to-End Backend Server](https://appwrite.io/)
@@ -71,6 +75,7 @@
     1. [matrix.org · GitHubMastodon](https://github.com/matrix-org)
     2. [GitHub - tleb/awesome-mastodon: Curated list of awesome Mastodon-related stuff!](https://github.com/tleb/awesome-mastodon)
 37. [GitHub - facebook/docusaurus: Easy to maintain open source documentation websites.](https://github.com/facebook/docusaurus)
+38. [GitHub - sparkle-project/Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
 
 ![Apple](notes/reading-lists/Software/Apple.md)
 

@@ -68,6 +68,15 @@
 52. OFBW60 [Wave Scattering in Complex Matter: Advances in Material Characterisation and the Design of Materials](https://www.youtube.com/live/SdxS55aMxVU?feature=share)
 53. MWSW04 [Multiple scattering in engineering and applied sciences](https://youtu.be/-UCRBEgtZfo)
 54. https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/
+55. https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/
+56. https://www.quantamagazine.org/ocean-vent-explorer-guides-nasas-look-at-icy-alien-worlds-20230607/
+57. https://www.nature.com/articles/s41586-023-06004-9
+58. https://today.tamu.edu/2023/06/05/webb-telescope-detects-universes-most-distant-organic-molecules/
+59. https://www.quantamagazine.org/wildfires-of-varying-intensity-can-be-good-for-biodiversity-20211129/
+60. https://www.psypost.org/2023/06/landmark-study-challenges-century-old-neuroscience-paradigm-brain-shape-might-trump-connectivity-164252
+61. https://www.sciencenews.org/article/parker-solar-probe-origin-winds-sun
+62. https://www.quantamagazine.org/sparse-neural-networks-point-physicists-to-useful-data-20230608/
+63. https://www.quantamagazine.org/dinosaur-bone-study-reveals-that-not-all-giants-grew-alike-20230320/
 
 
 # Type theory

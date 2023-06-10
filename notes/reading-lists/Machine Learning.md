@@ -55,6 +55,25 @@
 48. [[2104.00489] PyVertical: A Vertical Federated Learning Framework for Multi-headed SplitNN](https://doi.org/10.48550/arXiv.2104.00489)
 49. [Transformer Taxonomy (the last lit review) | kipply's blog](https://kipp.ly/blog/transformer-taxonomy/)
 50. [[2306.03901] ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory](https://doi.org/10.48550/arXiv.2306.03901)
+51. https://huggingface.co/facebook/bart-large-cnn
+52. https://huggingface.co/openai/whisper-large-v2/discussions/13
+53. https://huggingface.co/openai/whisper-large
+54. https://arxiv.org/abs/2306.00323
+55. https://www.nature.com/articles/s41586-023-06004-9
+56. https://gwern.net/note/fc
+57. https://arxiv.org/abs/2306.04031
+58. https://huggingface.co/papers/2306.04050
+59. https://doi.org/10.48550/arXiv.2306.04031
+60. https://doi.org/10.48550/arXiv.2306.03091
+61. https://doi.org/10.48550/arXiv.2305.18654
+62. https://arxiv.org/abs/2305.14825
+63. https://arxiv.org/abs/2304.02819
+64. https://arxiv.org/abs/2306.04031
+65. https://huggingface.co/papers/2306.04528
+66. https://arxiv.org/abs/2306.04488
+67. https://arxiv.org/abs/2306.04563
+68. https://huggingface.co/papers/2306.05284
+69. https://arxiv.org/abs/2306.04637
 
 # Tutorials and courses
 1. [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)
@@ -68,6 +87,12 @@
     2. [Bayesian Data Analysis course - GSU 2023](https://avehtari.github.io/BDA_course_Aalto/gsu2023.html)
 6. [Stanford CS224W: Machine Learning with Graphs - YouTube](https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 7. [Generative AI learning path | Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/118)
+8. [OpenAI Whisper tutorial: How to use OpenAI Whisper](https://lablab.ai/t/whisper-tutorial)
+9. [Whisper Installation Guide | TroubleChute Hub](https://hub.tcno.co/ai/whisper/install/)
+10. [How to Use Whisper: A Free Speech-to-Text AI Tool by OpenAI](https://bytexd.com/how-to-use-whisper-a-free-speech-to-text-ai-tool-by-openai/)
+11. [Transcribing Audio locally in realtime with a OpenAI's Whisper Project - YouTube](https://youtu.be/RS5RSCRpasA)
+12. [Tree of Thoughts: Deliberate Problem Solving with Large Language Models (Full Paper Review) - YouTube](https://www.youtube.com/watch?v=ut5kp56wW_4)
+13. 
 
 # Books
 1. https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
@@ -84,3 +109,44 @@
 6. [GitHub - mrry/ciel: A distributed execution engine for cloud computing](https://github.com/mrry/ciel)
     1. [GitHub - mrry/ciel-c: C bindings for CIEL](https://github.com/mrry/ciel-c)
 7. [GitHub - microprediction/microprediction: If you can measure it, consider it predicted](https://github.com/microprediction/microprediction)
+8. https://github.com/openai/whisper
+9. https://github.com/openai/staged-recipes
+10. https://github.com/openai/weightnorm
+11. https://github.com/openai/summarize-from-feedback
+12. https://www.assemblyai.com/blog/how-to-run-openais-whisper-speech-recognition-model/
+13. https://github.com/openai/distribution_augmentation
+14. https://github.com/openai/pytorch
+15. https://github.com/openai/understanding-rl-vision
+16. https://github.com/openai/gym
+17. https://github.com/openai/lean-gym
+18. https://github.com/openai/requests-for-research
+19. https://github.com/openai/box2d-py
+20. https://hub.docker.com/r/onerahmet/openai-whisper-asr-webservice
+21. https://github.com/openai/grok
+22. https://www.voiceflow.com/blog/openai-whisper-model-asr
+23. https://github.com/openai/supervised-reptile
+24. https://github.com/openai/ml-agents
+25. https://github.com/openai/universe-starter-agent
+26. https://youtu.be/ldD1m_fg-3c
+27. https://github.com/openai/triton
+28. https://github.com/openai/gym-recording
+29. https://replicate.com/openai/whisper
+30. https://github.com/openai/EPG
+31. https://github.com/openai/lucid
+32. https://github.com/openai/vime
+33. https://github.com/openai/openai-gemm
+34. https://github.com/openai/imitation
+35. https://github.com/openai/universe
+36. https://github.com/openai/phasic-policy-gradient
+37. https://github.com/openai/vdvae
+38. https://github.com/openai/deeptype
+39. https://github.com/openai/coinrun
+40. https://github.com/openai/ot-gan
+41. https://github.com/openai/human-eval-infilling
+42. https://github.com/openai/CLIP
+43. https://github.com/openai/multiagent-particle-envs
+44. https://github.com/openai/human-eval
+45. https://github.com/openai/prm800k
+46. https://github.com/openai/gpt-2-output-dataset
+47. https://github.com/openai/neural-gpu
+48. 

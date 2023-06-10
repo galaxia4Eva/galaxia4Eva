@@ -13,3 +13,5 @@
 12. https://developer.apple.com/documentation/scriptingbridge
 13. https://developer.apple.com/documentation/kernel
 14. https://developer.apple.com/documentation/dispatch
+15. https://learn.applepay.apple/security-de
+16. 

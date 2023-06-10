@@ -10,4 +10,5 @@
 8. [Explained: Why Dutch farmers are protesting over emissions](https://indianexpress.com/article/explained/netherlands-emissions-plan-farmers-protest-explained-7999870/)
 9. [Cambridge Language Sciences | Interdisciplinary Research Centre](https://www.languagesciences.cam.ac.uk/)
 10. [Human Capital Mediates Natural Selection in Contemporary Humans | SpringerLink](https://link.springer.com/article/10.1007/s10519-022-10107-w)
-11. 
+11. [Fergus Fettes - Primer for the Age of Polygenic Screening, Present and Future](https://www.fergusfettes.com/Talks/Epilogenics.html#/title-slide)
+12. 

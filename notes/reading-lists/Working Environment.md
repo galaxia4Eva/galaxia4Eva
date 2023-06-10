@@ -51,37 +51,59 @@
     1. [GitHub - Cubxity/typstudio: A W.I.P desktop application for a new typesetting language, typst.](https://github.com/Cubxity/typstudio)
     2. [GitHub - qjcg/awesome-typst: Awesome Typst Links](https://github.com/qjcg/awesome-typst)
     3. [GitHub - pascal-huber/typst-letter-template: Extendable typst letter template with some standardized defaults.](https://github.com/pascal-huber/typst-letter-template)
-    4. 
+    4. https://github.com/Myriad-Dreamin/typst.ts/tree/main/packages/hexo-renderer-typst
+    5. https://github.com/jomaway/typst-teacher-templates
+    6. https://github.com/crdevio/typst-themes/tree/main/typing-course%20template
+    7. https://github.com/elteammate/typst-shell-escape
+    8. https://github.com/Mc-Zen/typst-doc
+    9. https://github.com/Swordfish90/cool-retro-term/blob/master/app/qml/fonts/1971-ibm-3278/README.md
 
 # pdf
 1. [Download Xpdf and XpdfReader](https://www.xpdfreader.com/download.html)?
 2. [Download - Okular](https://okular.kde.org/en-gb/download/)?
 
+# Static file generators
+1. https://github.com/myles/awesome-static-generators
+2. https://about.gitlab.com/blog/2022/04/18/comparing-static-site-generators/
+3. https://github.com/typst/typst/discussions/197
+4. https://notes.nicolevanderhoeven.com/Static+site+generator
+5. https://jekyllrb.com/docs/
+6. https://forum.obsidian.md/t/static-site-generators-any-guides/8915
+7. https://github.com/teesloane/esker
+8. 
+
 # scripting
 1. [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
 
+# broadcasting
+1. https://github.com/obsproject
+2. https://github.com/keycastr/keycastr
+
 # macOS
 1. [Hyperduck](https://apps.apple.com/app/id6444667067)
-2. [GitHub - apple/fstools: The Filesystem Tools project is a place where the Apple filesystem teams will be publishing some of the tools we use to test the filesystems that are part of macOS. These tools will be useful to developers who are writing new macOS filesystems, or testing macOS network filesystems against their servers.](https://github.com/apple/fstools)
-3. Window manager
+2. https://macreplacementkeys.com
+3. https://keyshorts.com/collections/macbook-keyboard-decals
+4. [GitHub - apple/fstools: The Filesystem Tools project is a place where the Apple filesystem teams will be publishing some of the tools we use to test the filesystems that are part of macOS. These tools will be useful to developers who are writing new macOS filesystems, or testing macOS network filesystems against their servers.](https://github.com/apple/fstools)
+5. Window manager
     1. [GitHub - rxhanson/Rectangle: Move and resize windows on macOS with keyboard shortcuts and snap areas](https://github.com/rxhanson/Rectangle)
     2. [Amethyst | ianyh](https://ianyh.com/amethyst/)
     3. [GitHub - koekeishiya/yabai: A tiling window manager for macOS based on binary space partitioning](https://github.com/koekeishiya/yabai)
     4. Tiling manager that allows Tile windows to left, right, bottom, top et cetera? #question
-4. [macos - Where did Icon Composer go from Xcode? - Ask Different](https://apple.stackexchange.com/questions/59561/where-did-icon-composer-go-from-xcode)
-5. [Apple Open Source](https://opensource.apple.com/releases/)
-6. [Apple OSS Distributions · GitHub](https://github.com/apple-oss-distributions)
-7. [Download HyperDock for Mac | MacUpdate](https://www.macupdate.com/app/mac/35317/hyperdock)
-8. xen hypervisor on macOS? [How to install Xen on MacBookPro – Field Effect, LLC](https://fieldeffect.info/wp/frontpage/xenonmacbookpro/)
-9. Winamp classic on macOS? #question
+6. [macos - Where did Icon Composer go from Xcode? - Ask Different](https://apple.stackexchange.com/questions/59561/where-did-icon-composer-go-from-xcode)
+7. [Apple Open Source](https://opensource.apple.com/releases/)
+8. [Apple OSS Distributions · GitHub](https://github.com/apple-oss-distributions)
+9. [Download HyperDock for Mac | MacUpdate](https://www.macupdate.com/app/mac/35317/hyperdock)
+10. xen hypervisor on macOS? [How to install Xen on MacBookPro – Field Effect, LLC](https://fieldeffect.info/wp/frontpage/xenonmacbookpro/)
+11. Winamp classic on macOS? #question
     1. [Winamp CLASSIC on macOS Catalina - YouTube](https://youtu.be/tJpWG2YnOeM)
-10. [GitHub - jaywcjlove/awesome-mac:  Now we have become very big, Different from the original idea. Collect premium software in various categories.](https://github.com/jaywcjlove/awesome-mac)
+12. [GitHub - jaywcjlove/awesome-mac:  Now we have become very big, Different from the original idea. Collect premium software in various categories.](https://github.com/jaywcjlove/awesome-mac)
     1. [GitHub - greenboxal/awesome-osx-command-line: Use your OS X terminal shell to do awesome things.](https://github.com/greenboxal/awesome-osx-command-line)
-11. [GitHub - Carthage/Carthage: A simple, decentralized dependency manager for Cocoa](https://github.com/Carthage/Carthage)
-12. [GitHub - apple/MaterialX: MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.](https://github.com/apple/MaterialX)
-13. [GitHub - munki/macadmin-scripts: Scripts of possible interest to macOS admins](https://github.com/munki/macadmin-scripts)
-14. [GitHub - corpnewt/gibMacOS: Py2/py3 script that can download macOS components direct from Apple](https://github.com/corpnewt/gibMacOS)
-15. [Introduction | GPU Buyers Guide](https://dortania.github.io/GPU-Buyers-Guide/#a-quick-refresher-with-nvidia-and-web-drivers)
-16. [Sketch · Design, collaborate, prototype and handofficon-close](https://www.sketch.com/)
-17. https://www.apple.com/newsroom/2023/06/apple-introduces-m2-ultra/
-18. 
+13. [GitHub - Carthage/Carthage: A simple, decentralized dependency manager for Cocoa](https://github.com/Carthage/Carthage)
+14. [GitHub - apple/MaterialX: MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.](https://github.com/apple/MaterialX)
+15. [GitHub - munki/macadmin-scripts: Scripts of possible interest to macOS admins](https://github.com/munki/macadmin-scripts)
+16. [GitHub - corpnewt/gibMacOS: Py2/py3 script that can download macOS components direct from Apple](https://github.com/corpnewt/gibMacOS)
+17. [Introduction | GPU Buyers Guide](https://dortania.github.io/GPU-Buyers-Guide/#a-quick-refresher-with-nvidia-and-web-drivers)
+18. [Sketch · Design, collaborate, prototype and handofficon-close](https://www.sketch.com/)
+19. https://www.apple.com/newsroom/2023/06/apple-introduces-m2-ultra/
+20. https://apps.apple.com/app/serial/id877615577?l=en&mt=12
+21. https://apps.apple.com/app/webssh-sysadmin-tools/id497714887?l=en

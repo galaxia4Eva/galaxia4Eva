@@ -28,5 +28,15 @@
 2. [GitHub - avsm/xen-minios: Really mini operating system (extracted from xen-unstable, and much stuff removed)](https://github.com/avsm/xen-minios)
 3. [libbsd / libbsd · GitLab](https://gitlab.freedesktop.org/libbsd/libbsd)
 4. [Department of Computer Science and Technology: Temporally Enhanced Security Logic Assertions (TESLA)](https://www.cl.cam.ac.uk/research/security/ctsrd/tesla/)
+5. https://wiki.lustre.org/Main_Page
+6. https://superuser.com/questions/945910/how-to-select-paravirtualization-interface-in-virtualbox
 
+# Hypervise macOS from Linux on Mac platform
+1. https://kubadownload.com/news/setting-up-arch-linux-on-your-macbook/
+2. https://snapcraft.io/install/openstack-hypervisor/arch
+3. https://www.reddit.com/r/archlinux/comments/4s8wsq/people_who_run_osx_virtual_machines_inside_arch/
+4. 
+
+# jailbreaking
+1. https://ios.cfw.guide
 [developer.apple:hypervisor]: https://developer.apple.com/documentation/hypervisor
