@@ -71,6 +71,7 @@
 63. https://www.quantamagazine.org/dinosaur-bone-study-reveals-that-not-all-giants-grew-alike-20230320/
 64. https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/
 65. https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/
+66. https://www.quantamagazine.org/sparse-neural-networks-point-physicists-to-useful-data-20230608/
 
 
 # Type theory

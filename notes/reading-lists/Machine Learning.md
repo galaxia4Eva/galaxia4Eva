@@ -74,6 +74,9 @@
 67. https://arxiv.org/abs/2306.04563
 68. https://huggingface.co/papers/2306.05284
 69. https://arxiv.org/abs/2306.04637
+70. [Gorilla](https://shishirpatil.github.io/gorilla/)
+    1. [TheBloke/gorilla-7B-GGML · Hugging Face](https://huggingface.co/TheBloke/gorilla-7B-GGML)
+71. 
 
 # Tutorials and courses
 1. [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)
