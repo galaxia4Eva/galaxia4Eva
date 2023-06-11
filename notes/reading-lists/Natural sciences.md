@@ -72,6 +72,7 @@
 64. https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/
 65. https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/
 66. https://www.quantamagazine.org/sparse-neural-networks-point-physicists-to-useful-data-20230608/
+67. https://www.quantamagazine.org/first-year-graduate-finds-paradoxical-number-set-20230605/
 
 
 # Type theory
