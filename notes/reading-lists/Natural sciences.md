@@ -1,14 +1,6 @@
 #mathematics #physics #reading-list 
 # General
-## Open Science 
-1. [MacTeX - TeX Users Group](https://tug.org/mactex/)
-2. [GitHub - lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.](https://github.com/lervag/vimtex)
-3. [teaserbot-labs/delightful-open-science: Curated list of resources, organizations and free software that are supporting the field of open science. - delightful-open-science - Codeberg.org](https://codeberg.org/teaserbot-labs/delightful-open-science)
-4. [Department of Computer Science and Technology: Recordings](https://www.cl.cam.ac.uk/seminars/wednesday/video/)
-5. [NaturalLanguage/ALTA - CL Wiki (read only)](http://www.wiki.cl.cam.ac.uk/rowiki/NaturalLanguage/ALTA)
-6. [talks.cam : CUED Speech Group Seminars](http://talks.cam.ac.uk/show/index/39731)
-7. [GitHub - typst/typst: A new markup-based typesetting system that is powerful and easy to learn.](https://github.com/typst/typst)
-8. [GitHub - amaxwell/tlutility: TeX Live Utility, a Mac OS GUI for the TeX Live Manager](https://github.com/amaxwell/tlutility)
+![Open Science](notes/reading-lists/Open%20Science.md)
 
 ## News
 1. [Dr Andreas Vlachos wins an ERC Grant for a project that combats fake news](https://www.cst.cam.ac.uk/dr-andreas-vlachos-wins-erc-grant-project-combats-fake-news)
@@ -77,6 +69,8 @@
 61. https://www.sciencenews.org/article/parker-solar-probe-origin-winds-sun
 62. https://www.quantamagazine.org/sparse-neural-networks-point-physicists-to-useful-data-20230608/
 63. https://www.quantamagazine.org/dinosaur-bone-study-reveals-that-not-all-giants-grew-alike-20230320/
+64. https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/
+65. https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/
 
 
 # Type theory
