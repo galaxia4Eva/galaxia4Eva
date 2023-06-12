@@ -9,3 +9,4 @@
     - [Ricardo M. S. Rosa](https://rmsrosa.github.io/en/)
 3. [Tier 3 target proposal: x86_64-unknown-none (freestanding/bare-metal x86-64) · Issue #462 · rust-lang/compiler-team · GitHub](https://github.com/rust-lang/compiler-team/issues/462)
 4. https://viralinstruction.com/posts/latency/
+5. https://discourse.julialang.org/t/building-julia-documentation-using-typst/97498

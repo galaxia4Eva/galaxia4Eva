@@ -78,7 +78,8 @@
     1. [TheBloke/gorilla-7B-GGML · Hugging Face](https://huggingface.co/TheBloke/gorilla-7B-GGML)
 71. https://github.com/csinva/imodels
     1. https://github.com/csinva/imodelsX
-72. 
+72. https://doi.org/10.48550/arXiv.2306.06031
+73. https://doi.org/10.48550/arXiv.2306.05836
 
 # Tutorials and courses
 1. [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)

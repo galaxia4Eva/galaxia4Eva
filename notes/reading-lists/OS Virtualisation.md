@@ -39,4 +39,7 @@
 
 # jailbreaking
 1. https://ios.cfw.guide
+2. https://dhiyaneshgeek.github.io/mobile/security/2021/12/25/hopper-disassembler/
+    1. https://github.com/phracker/HopperScripts
+
 [developer.apple:hypervisor]: https://developer.apple.com/documentation/hypervisor

@@ -57,6 +57,7 @@
     7. https://github.com/elteammate/typst-shell-escape
     8. https://github.com/Mc-Zen/typst-doc
     9. https://github.com/Swordfish90/cool-retro-term/blob/master/app/qml/fonts/1971-ibm-3278/README.md
+2. https://github.com/ansilove
 
 # pdf
 1. [Download Xpdf and XpdfReader](https://www.xpdfreader.com/download.html)?
@@ -107,3 +108,25 @@
 19. https://www.apple.com/newsroom/2023/06/apple-introduces-m2-ultra/
 20. https://apps.apple.com/app/serial/id877615577?l=en&mt=12
 21. https://apps.apple.com/app/webssh-sysadmin-tools/id497714887?l=en
+
+# Translation
+1. [Dictionaries for Mac](https://dictionaries.io/)
+2. [GitHub - jjgod/mac-dictionary-kit: Dictionary conversion tool for Mac OS X 10.5 and above](https://github.com/jjgod/mac-dictionary-kit)
+3. https://support.apple.com/lv-lv/guide/japanese-input-method/jpim10226/mac
+4. https://superuser.com/q/136236
+5. https://osxdaily.com/2022/12/15/how-to-edit-the-mac-dictionary/
+6. https://fmentzer.github.io/posts/2020/dictionary/
+    1. https://github.com/fab-jul/parse_dictionaries
+    2. https://news.ycombinator.com/item?id=28505406
+        1. https://github.com/ReFirmLabs/binwalk
+        2. https://github.com/phracker/MacOSX-SDKs/blob/master/MacOSX10.7.sdk/usr/include/IndexedSearch.h
+        3. https://github.com/takumakei/osx-dictionary
+        4. https://en.wikipedia.org/wiki/DICT
+        5. https://github.com/solarmist/apple-peeler
+        6. https://linux.die.net/man/1/dictfmt
+        7. http://www.catb.org/jargon/oldversions/jarg447.txt
+        8. https://github.com/nikvdp/dictionary-api/blob/master/convertDicts.js
+7. [Корпус сучасної української мови (БрУК) · GitHub](https://github.com/brown-uk)
+    1. [GitHub - brown-uk/corpus: Браунський корпус української мови](https://github.com/brown-uk/corpus)
+    2. [GitHub - brown-uk/dict_uk: Project to generate POS tag dictionary for Ukrainian language](https://github.com/brown-uk/dict_uk)
+    3. [GitHub - brown-uk/e2u.org.ua: Англо-українські словники](https://github.com/brown-uk/e2u.org.ua)

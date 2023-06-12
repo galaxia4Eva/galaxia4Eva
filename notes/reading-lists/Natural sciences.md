@@ -73,6 +73,7 @@
 65. https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/
 66. https://www.quantamagazine.org/sparse-neural-networks-point-physicists-to-useful-data-20230608/
 67. https://www.quantamagazine.org/first-year-graduate-finds-paradoxical-number-set-20230605/
+68. https://doi.org/10.1126/science.adf2027
 
 
 # Type theory
