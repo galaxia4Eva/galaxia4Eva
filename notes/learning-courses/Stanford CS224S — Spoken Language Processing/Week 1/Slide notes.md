@@ -237,7 +237,8 @@ Spectrogram of a phrase "She came back and started again":
 # Words
 >  utterance; HSR versus ASR; syllables and phones and _whatnot_; uvula;  velum – soft palate; hard palate; Venturi tube effect; syllabic function; intonational phonology; suprasegmental phonetic features; prosody;
 # Comment
-Comment: quite dense material. Next steps are:
+Comment: quite dense material.
+
 # References
 - [ ] [A Course in Phonetics](https://linguistics.berkeley.edu/acip/)
     - [ ] [Home | Linguistics](https://lx.berkeley.edu/)
