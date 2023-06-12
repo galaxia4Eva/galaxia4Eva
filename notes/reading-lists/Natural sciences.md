@@ -74,6 +74,8 @@
 66. https://www.quantamagazine.org/sparse-neural-networks-point-physicists-to-useful-data-20230608/
 67. https://www.quantamagazine.org/first-year-graduate-finds-paradoxical-number-set-20230605/
 68. https://doi.org/10.1126/science.adf2027
+69. https://www.quantamagazine.org/how-lossless-data-compression-works-20230531/
+70. https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/
 
 
 # Type theory
