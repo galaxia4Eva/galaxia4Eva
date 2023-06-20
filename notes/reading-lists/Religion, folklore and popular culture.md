@@ -35,3 +35,15 @@
 29. https://twitter.com/sranysovok/status/1667030296141733889?s=12
 30. https://www.youtube.com/watch?v=6vj96QetfTg
 31. https://www.lesswrong.com/posts/pFaLqTHqBtAYfzAgx/the-dictatorship-problem
+32. https://kinderfilosofie.nl/artikelen/filosoferen-is-burgerschapsvorming-oefenen/
+33. https://twitter.com/culturaltutor/status/1668436653877219328?s=20
+34. https://www.quantamagazine.org/cynthia-rudin-builds-ai-that-humans-can-understand-20230427
+35. https://www.quantamagazine.org/embryo-models-challenge-legal-ethical-and-biological-concepts-20230613/
+36. https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit
+    1. https://en.wikipedia.org/wiki/Nick_Land
+    2. https://en.wikipedia.org/wiki/Curtis_Yarvin
+37. https://www.universal-sci.com/article/the-role-of-funghi-in-carbon-storage
+38. https://www.quantamagazine.org/embryo-models-challenge-legal-ethical-and-biological-concepts-20230613/
+39. https://www.nature.com/articles/s41586-023-06204-3
+40. https://www.quantamagazine.org/embryo-models-challenge-legal-ethical-and-biological-concepts-20230613/
+41. 

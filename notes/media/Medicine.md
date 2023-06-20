@@ -22,3 +22,16 @@
 22. https://twitter.com/chrost_hugo/status/1667549429447163905?s=20
 23. [Decoding Dreams: The Intriguing Link Between Sleep and Memory - Neuroscience News - YouTube](https://youtu.be/E1qHo3wA3Wo)
 24. https://twitter.com/chrost_hugo/status/1667848399423680512?s=20
+25. https://twitter.com/chrost_hugo/status/1668335610023792641?s=20
+26. https://twitter.com/chrost_hugo/status/1669306259131236352?s=20
+27. https://twitter.com/chrost_hugo/status/1669794472891129876?s=20
+28. https://twitter.com/Rainmaker1973/status/1670152929246838786?s=20
+29. https://twitter.com/OGdukeneurosurg/status/1670365574189252608?s=20
+30. https://twitter.com/OGdukeneurosurg/status/1670148246759518209?s=20
+31. https://twitter.com/chrost_hugo/status/1670319180162162688?s=20
+32. https://twitter.com/chrost_hugo/status/1670421604906532865?s=20
+33. https://twitter.com/OGdukeneurosurg/status/1670435288789688320?s=20
+34. https://twitter.com/chrost_hugo/status/1670455075947331586?s=20
+35. https://twitter.com/chrost_hugo/status/1670581911368998913?s=20
+36. https://twitter.com/chrost_hugo/status/1670785502721503232?s=20
+37. 

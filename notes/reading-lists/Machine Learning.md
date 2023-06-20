@@ -1,4 +1,6 @@
 #reading-list #nlp #transformers #triage
+# News
+1. https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-puts-pressure-on-google-and
 # Triage
 1. [Understanding Large Language Models -- A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
 2. [Polyglot — EleutherAI](https://www.eleuther.ai/projects/polyglot)
@@ -80,6 +82,22 @@
     1. https://github.com/csinva/imodelsX
 72. https://doi.org/10.48550/arXiv.2306.06031
 73. https://doi.org/10.48550/arXiv.2306.05836
+74. https://doi.org/10.48550/arXiv.2302.06675
+75. https://doi.org/10.48550/arXiv.2306.05949
+76. https://doi.org/10.1101/2023.06.08.544175
+77. https://doi.org/10.48550/arXiv.2306.05836
+    1. https://github.com/causalNLP/corr2cause
+    2. https://huggingface.co/datasets/causalnlp/corr2cause
+78. https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html
+79. https://doi.org/10.48550/arXiv.2211.15661
+80. https://huggingface.co/papers/2306.07967
+81. https://huggingface.co/papers/2306.08161
+82. https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/
+83. https://doi.org/10.48550/arXiv.2102.07350
+84. https://doi.org/10.48550/arXiv.2306.08302
+85. https://wayve.ai/thinking/introducing-gaia1/
+86. https://doi.org/10.48550/arXiv.2306.09896
+87. 
 
 # Tutorials and courses
 1. [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)
@@ -98,7 +116,8 @@
 10. [How to Use Whisper: A Free Speech-to-Text AI Tool by OpenAI](https://bytexd.com/how-to-use-whisper-a-free-speech-to-text-ai-tool-by-openai/)
 11. [Transcribing Audio locally in realtime with a OpenAI's Whisper Project - YouTube](https://youtu.be/RS5RSCRpasA)
 12. [Tree of Thoughts: Deliberate Problem Solving with Large Language Models (Full Paper Review) - YouTube](https://www.youtube.com/watch?v=ut5kp56wW_4)
-13. 
+13. https://www.altdeep.ai/p/causalml
+14. 
 
 # Books
 1. https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
@@ -155,4 +174,9 @@
 45. https://github.com/openai/prm800k
 46. https://github.com/openai/gpt-2-output-dataset
 47. https://github.com/openai/neural-gpu
-48. 
+48. https://github.com/facebookresearch/audiocraft
+49.  https://github.com/pytorch/pytorch
+50. https://pytorch.org/get-started/locally/
+51. https://gist.github.com/danwritecode/c98e895c84d883467112ece495c295f5
+52. https://huggingface.co/openlm-research/open_llama_13b
+53. 

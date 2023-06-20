@@ -76,7 +76,40 @@
 68. https://doi.org/10.1126/science.adf2027
 69. https://www.quantamagazine.org/how-lossless-data-compression-works-20230531/
 70. https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/
+71. https://www.quantamagazine.org/simple-gene-circuits-hint-at-how-stem-cells-differentiate-20220519/
+72. https://projecteuclid.org/journals/journal-of-the-mathematical-society-of-japan/volume-39/issue-4/Uniqueness-of-viscosity-solutions-of-Hamilton-Jacobi-equations-revisited/10.2969/jmsj/03940581.full
+73. https://joss.theoj.org/papers/10.21105/joss.02579
+74. https://www.sciencenews.org/article/bowhead-whales-cancer-dna-repair
+75. https://neurosciencenews.com/antihistamine-myelin-multiple-sclerosis-23453/
+76. https://doi.org/10.1073/pnas.2217635120
+77. https://www.quantamagazine.org/a-new-theory-for-the-assembly-of-life-in-the-universe-20230504/
+78. https://en.wikipedia.org/wiki/Constant-Q_transform
+79. https://www.quantamagazine.org/mental-phenomena-dont-map-into-the-brain-as-expected-20210824
+80. https://www.quantamagazine.org/flow-proof-helps-mathematicians-find-stability-in-chaos-20230615/
+81. https://www.quantamagazine.org/ocean-vent-explorer-guides-nasas-look-at-icy-alien-worlds-20230607/
+82. https://www.sciencenews.org/article/supermassive-black-hole-orbit-blazar
+83. https://www.quantamagazine.org/what-causes-giant-rogue-waves-20230614/
+84. https://www.quantamagazine.org/new-proof-shows-when-structure-must-emerge-in-graphs-20220623/
+85. https://www.quantamagazine.org/nasty-geometry-breaks-decades-old-tiling-conjecture-20221215/
+86. https://www.quantamagazine.org/embryo-models-challenge-legal-ethical-and-biological-concepts-20230613/
+87. https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/
+88. https://www.quantamagazine.org/what-causes-giant-rogue-waves-20230614/
+89. https://arstechnica.com/science/2023/06/ibm-compensates-for-errors-gets-usable-results-out-of-quantum-processor/
+90. https://www.quantamagazine.org/simpler-math-predicts-how-close-ecosystems-are-to-collapse-20230306/
+91. https://doi.org/10.48550/arXiv.2303.14448
+92. https://www.quantamagazine.org/black-holes-will-destroy-all-quantum-states-researchers-argue-20230307/
+93. https://www.quantamagazine.org/flow-proof-helps-mathematicians-find-stability-in-chaos-20230615/
+94. https://www.quantamagazine.org/computer-helps-prove-long-sought-fluid-equation-singularity-20221116/
+95. https://www.quantamagazine.org/alan-turings-most-important-machine-was-never-built-20230503
+96. https://www.quantamagazine.org/memories-help-brains-recognize-new-events-worth-remembering-20230517/
+97. https://www.sciencenews.org/article/one-photon-photosynthesis-light
+98. https://atmos.earth/overview-spider-web-consciousness-extended-cognition/
+99. 
 
+# Mathematics
+1. https://www.whitman.edu/mathematics/multivariable/multivariable.pdf
+2. https://web.stanford.edu/~boyd/vmls/vmls.pdf
+3. 
 
 # Type theory
 1. [Type theory - Wikipedia](https://en.wikipedia.org/wiki/Type_theory)
@@ -86,3 +119,16 @@
 # Source code
 ## Triage
 1. [GitHub - I2PC/xmipp: Xmipp is a suite of image processing programs, primarily aimed at single-particle 3D electron microscopy.](https://github.com/I2PC/xmipp)
+2. [Laboratory of Systems Pharmacology @ Harvard · GitHub](https://github.com/labsyspharm)
+3. https://structbio.vanderbilt.edu/~cmoth/mddisplay/
+4. http://www.csb.yale.edu/userguides/graphics/molmol/molmol_descrip.html
+5. https://octave.org
+    1. https://www.wolfram.com/mathematica/
+6. https://github.com/mattrajca/CQTKit
+7. [Getting Started with Deep MNIST and TensorFlow on iOS](https://www.mattrajca.com/2016/11/25/getting-started-with-deep-mnist-and-tensorflow-on-ios.html)
+    1. https://github.com/mattrajca/MNIST
+8. `port search elmerfem`
+9. `port search stanmath`
+10. https://github.com/patrick-kidger/equinox
+13. https://github.com/sanjoy/pyano
+14. https://github.com/lattice

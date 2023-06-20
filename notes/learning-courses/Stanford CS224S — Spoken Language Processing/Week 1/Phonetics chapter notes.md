@@ -156,10 +156,58 @@ Various algorithms exist for automatically extracting F0. In a slight abuse of t
 
 ### Interpretation of Phones from a Waveform
 
+![Phonetics_14](notes/learning-courses/Stanford%20CS224S%20—%20Spoken%20Language%20Processing/Week%201/figures/Phonetics_14.png)
+A waveform of the sentence _She just had a baby_ from the [Switchboard corpus](https://doi.org/10.1109/ICASSP.1992.225858) (conversation 4325). The speaker is female, was 20 years old in 1991, which is approximately when the recording was made, and speaks the South Midlands dialect of American English.
+
+Much can be learned from a visual inspection of a waveform. For example, vowels are pretty easy to spot. Vowels are voiced. Another property of vowels is that they tend to be long and are relatively loud. Length in time manifests itself directly on the x-axis, and loudness is related to (the square of) amplitude on the y-axis. Voicing is realised by regular peaks in amplitude. Each of the six vowels in figure above: `iy`, `ax`, `ae`, `ax`, `ey`, `iy`, all have regular amplitude peaks indicating voicing.
+
+For a stop consonant, which consists of a closure followed by a release, we can often see a period of silence or near silence followed by a slight burst of amplitude. It is true for both of the `b`’s in _baby_ in the figure above.
+
+Another phone that is often quite recognizable in a waveform is a fricative. Re- call that fricatives, especially very strident fricatives like `sh`, are made when a narrow channel for airflow causes noisy, turbulent air. The resulting hissy sounds have a noisy, irregular waveform.
+
+![Phonetics_15](notes/learning-courses/Stanford%20CS224S%20—%20Spoken%20Language%20Processing/Week%201/figures/Phonetics_15.png)
+A more detailed view of the first word _she_ extracted from the wave–file in the previous figure. Notice the difference between the random noise of the fricative `sh` and the regular voicing of the vowel `iy`.
+
+### Spectra and the Frequency Domain
+While some broad phonetic features (such as energy, pitch, and the presence of voic- ing, stop closures, or fricatives) can be interpreted directly from the waveform, most computational applications such as speech recognition (as well as human auditory processing) are based on a different representation of the sound in terms of its com- ponent frequencies. The insight of **Fourier analysis** is that every complex wave can be represented as a sum of many sine waves of different frequencies. We can represent these component frequencies with a **spectrum**.
+
+Figure below shows part of the waveform for the vowel `ae` of the word _had_
+![Phonetics_16](notes/learning-courses/Stanford%20CS224S%20—%20Spoken%20Language%20Processing/Week%201/figures/Phonetics_16.png)
+The waveform of part of the vowel `ae` from the word _had_
+
+Note that there is a complex wave that repeats about ten times in the figure; but there is also a smaller repeated wave that repeats four times for every larger pattern (notice the four small peaks inside each repeated wave). The complex wave has a frequency of about 234 Hz (we can figure this out since it repeats roughly 10 times in .0427 seconds, and 10 cycles/.0427 seconds = 234 Hz).
+
+The smaller wave then should have a frequency of roughly four times the frequency of the larger wave, or roughly 936 Hz. Then, if you look carefully, you can see two little waves on the peak of many of the 936 Hz waves. The frequency of this tiniest wave must be roughly twice that of the 936 Hz wave, hence 1872 Hz.
+
+Figure below shows a smoothed spectrum for the waveform in the previous figure, computed with a discrete Fourier transform (DFT).
+![Phonetics_17](notes/learning-courses/Stanford%20CS224S%20—%20Spoken%20Language%20Processing/Week%201/figures/Phonetics_17.png)
+A spectrum for the vowel `ae` from the word _had_ in the waveform of _She just had a baby_
+
+The $x$-axis of a spectrum shows frequency, and the $y$-axis shows some measure of the magnitude of each frequency component (in decibels (dB), a logarithmic measure of amplitude that we saw earlier). Thus, spectrum figure shows significant frequency components at around 930 Hz, 1860 Hz, and 3020 Hz, along with many other lower-magnitude frequency components. These first two components are just what we noticed in the time domain by looking at the wave figure!
+
+Why is a spectrum useful? It turns out that these spectral peaks that are easily visible in a spectrum are characteristic of different phones; phones have characteristic spectral “signatures”. Just as chemical elements give off different wavelengths of light when they burn (sic! rather when their electrons change energy levels), allowing us to detect elements in stars by looking at the spectrum of the light, we can detect the characteristic signature of the different phones by looking at the spectrum of a waveform. This use of spectral information is essential to both human and machine speech recognition. In human audition, the function of the **cochlea**, or **inner ear**, is to compute a spectrum of the incoming waveform. Similarly, the acoustic features used in speech recognition are spectral representations.
+
+Let’s look at the spectrum of different vowels. Since some vowels change over time, we’ll use a different kind of plot called a **spectrogram**. While a spectrum shows the frequency components of a wave at one point in time, a **spectrogram** is a way of envisioning how the different frequencies that make up a waveform change over time. The $x$-axis shows time, as it did for the waveform, but the $y$-axis now shows frequencies in hertz. The darkness of a point on a spectrogram corresponds to the amplitude of the frequency component. Very dark points have high amplitude, light points have low amplitude. Thus, the spectrogram is a useful way of visualising the three dimensions ($time \times frequency \times amplitude$).
+
+![Phonetics_18](notes/learning-courses/Stanford%20CS224S%20—%20Spoken%20Language%20Processing/Week%201/figures/Phonetics_18.png)
+Spectrograms for three American English vowels, `ih`, `ae`, and `uh`
+
+Each dark bar (or spectral peak) is called a **formant**. As we discuss below, a formant is a frequency band that is particularly amplified by the vocal tract. Since different vowels are produced with the vocal tract in different positions, they will produce different kinds of amplifications or resonances. Let’s look at the first two formants, called F1 and F2. Note that F1, the dark bar closest to the bottom, is in a different position for the three vowels; it’s low for `ih` (centered at about 470 Hz) and somewhat higher for `ae` and `ah` (somewhere around 800 Hz). By contrast, F2, the second dark bar from the bottom, is highest for `ih`, in the middle for `ae`, and lowest for `ah`.
+
+We can see the same formants in running speech, although the reduction and coarticulation processes make them somewhat harder to see. F1 and F2 (and also F3) are pretty clear for the `ax` of _just_, the `ae` of _had_, and the `ey` of _baby_.
+![Phonetics_19](notes/learning-courses/Stanford%20CS224S%20—%20Spoken%20Language%20Processing/Week%201/figures/Phonetics_19.png)
+A spectrogram of the sentence _“she just had a baby”_ whose waveform was shown previously. We can think of a spectrogram as a collection of spectra (time slices) placed end to end.
+
+What specific clues can spectral representations give for phone identification? First, since different vowels have their formants at characteristic places, the spectrum can distinguish vowels from each other. We’ve seen that `ae` in the sample waveform had formants at 930 Hz, 1860 Hz, and 3020 Hz. Consider the vowel `iy` at the beginning of the utterance. The spectrum for this vowel is shown below. The first formant of `iy` is 540 Hz, much lower than the first formant for `ae`, and the second formant (2581 Hz) is much higher than the second formant for `ae`. If you look carefully, you can see these formants as dark bars in the previous figure just around 0.5 seconds.
+![Phonetics_20](notes/learning-courses/Stanford%20CS224S%20—%20Spoken%20Language%20Processing/Week%201/figures/Phonetics_20.png)
+A smoothed (LPC) spectrum for the vowel `iy` at the start of _She just had a baby_.
+
+The location of the first two formants (called F1 and F2) plays a large role in de- termining vowel identity, although the formants still differ from speaker to speaker. Higher formants tend to be caused more by general characteristics of a speaker’s vocal tract rather than by individual vowels. Formants also can be used to identify the nasal phones `n`, `m`, and `ng` and the liquids `l` and `r`.
+
 # References
 1. (Shoup, 1980): Shoup, J. E. 1980. Phonological aspects of speech recognition. In W. A. Lea, editor, Trends in Speech Recognition, pages 125–138. Prentice Hall.
 2. (CMU, 1993): CMU. 1993. The Carnegie Mellon Pronouncing Dictionary v0.1. Carnegie Mellon University.
-3. (Price et al. 1991): Price, P. J., M. Ostendorf, S. Shattuck- Hufnagel, and C. Fong. 1991. The use of prosody in syntactic disambiguation. JASA, 90(6).
+3. (Price et al. 1991): Price, P. J., M. Ostendorf, S. Shattuck-Hufnagel, and C. Fong. 1991. The use of prosody in syntactic disambiguation. JASA, 90(6).
 4. (Bennett and Elfner 2019): Bennett, R. and E. Elfner. 2019. The syntax–prosody interface. Annual Review of Linguistics, 5:151–171.
 5. (Ostendorf et al., 1995): Ostendorf, M., P. Price, and S. Shattuck-Hufnagel. 1995. The Boston University Radio News Corpus. Technical Report ECS-95-001, Boston University.
 6. (Xu, 2005): Xu, Y. 2005. Speech melody as articulatorily implemented communicative functions. Speech communication, 46(3-4):220–251.

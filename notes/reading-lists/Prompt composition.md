@@ -32,7 +32,7 @@
 31. https://bigthink.com/the-future/ai-problems-solutions-framework/
 32. https://www.strangeloopcanon.com/p/how-do-you-govern-something-thats
 33. https://twitter.com/growing_daniel/status/1667380340346765313?s=20
-34. 
+34. https://www.lesswrong.com/posts/7qSHKYRnqyrumEfbt/remarks-1-18-on-gpt-compressed#Remark_6__Waluigi_absorbing_sets
 
 # Mode collapse
 1. [Visualizing mode collapse with block multiverse plots :: — Moire (generative.ink)](https://generative.ink/plots/block-multiverse-mode-collapse/)

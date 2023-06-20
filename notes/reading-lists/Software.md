@@ -15,6 +15,10 @@
 3. [Reason · Reason lets you write simple, fast and quality type safe code while leveraging both the JavaScript & OCaml ecosystems.](https://reasonml.github.io/)
 4. https://developer.apple.com/download/all/
 5. [GitHub - gonzalezreal/swift-composable-architecture: A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.](https://github.com/gonzalezreal/swift-composable-architecture)
+6. [ØMQ - The Guide](https://zguide.zeromq.org/docs/preface/)
+7. https://www.w3.org/TR/webauthn-2/
+    1. https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication
+8. 
 ## javascript
 1. [Motivation | pnpm](https://pnpm.io/motivation)
 2. [How To Use The Guides - Getting Started - Ember Guides](https://guides.emberjs.com/release/getting-started/)
@@ -76,6 +80,7 @@
     2. [GitHub - tleb/awesome-mastodon: Curated list of awesome Mastodon-related stuff!](https://github.com/tleb/awesome-mastodon)
 37. [GitHub - facebook/docusaurus: Easy to maintain open source documentation websites.](https://github.com/facebook/docusaurus)
 38. [GitHub - sparkle-project/Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
+39. https://github.com/mulle-kybernetik/mkconsole
 
 ![Apple](notes/reading-lists/Software/Apple.md)
 
@@ -84,9 +89,11 @@
 2. [Chapter 0 - Getting Started | ziglearn.org](https://ziglearn.org/)
 3. [The V Programming Language](https://vlang.io/)
 4. [The Elixir programming language](https://elixir-lang.org/)
-    1. [Phoenix Framework](https://www.phoenixframework.org/)
-5. [The Crystal Programming LanguageCrystal | The Crystal Programming Language](https://crystal-lang.org/)
-6. [Nim Programming Language](https://nim-lang.org/)
+    1. https://github.com/starbelly/erlang-companies
+    2. [Phoenix Framework](https://www.phoenixframework.org/)
+6. [The Crystal Programming LanguageCrystal | The Crystal Programming Language](https://crystal-lang.org/)
+7. [Nim Programming Language](https://nim-lang.org/)
+8. 
 
 # Videos
 1. [In-Network Machine Learning for Market Prediction Using Limit Order Books](https://www.cl.cam.ac.uk/research/srg/seminars/videos/2023-05-18.mp4)

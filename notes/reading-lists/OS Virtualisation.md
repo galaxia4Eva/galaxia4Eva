@@ -42,4 +42,18 @@
 2. https://dhiyaneshgeek.github.io/mobile/security/2021/12/25/hopper-disassembler/
     1. https://github.com/phracker/HopperScripts
 
+# Forensics
+1. [The Sleuth Kit · GitHub](https://github.com/sleuthkit)
+2. [GitHub - ReFirmLabs/binwalk: Firmware Analysis Tool](https://github.com/ReFirmLabs/binwalk)
+3. [GitHub - radareorg/radare2: UNIX-like reverse engineering framework and command-line toolset](https://github.com/radareorg/radare2)
+    1. [GitHub - ahroach/hexdiff: Hexadecimal differencing program](https://github.com/ahroach/hexdiff)
+4. https://github.com/sveinbjornt/Sloth
+5. https://github.com/wtfutil/wtf
+6. https://github.com/ip2location
+    1. https://dazzlepod.com/ip/
+    2. https://github.com/ayeowch/traceroute/commits/master
+7. https://github.com/saulpw/visidata
+8. `port search gnu-pw-mgr`
+9. `port search zeek`
+
 [developer.apple:hypervisor]: https://developer.apple.com/documentation/hypervisor

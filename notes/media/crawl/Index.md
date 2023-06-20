@@ -1,11 +1,28 @@
-# Youtube
+# HTTP Streaming
+1. [RFC 8216 - HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216)
+2. [RFC 7826 - Real-Time Streaming Protocol Version 2.0](https://datatracker.ietf.org/doc/html/rfc7826)
+
+# Processing
+1. https://forum.videohelp.com/threads/383986-Best-Solutions-to-Encrypt-Video
+2. `port search mp3unicode`
+
+# Crawlers
+1. https://github.com/ytdl-org/youtube-dl
+2. https://github.com/Zibbp/ganymede
+3. https://github.com/MrBrax/LiveStreamDVR
+4. https://github.com/streamlink/streamlink
+5. https://github.com/eneserdogan/trino
+6. 
+
+# Media triage
+## Youtube
 1. [GitHub - Abstraxt-AA/playlist-youtube-vlc: Lua plugin to parse Youtube playlists](https://github.com/Abstraxt-AA/playlist-youtube-vlc)
 2. [GitHub - Acconut/polyplayer: Rule YouTube, Soundcloud and Vimeo player with one API](https://github.com/Acconut/polyplayer)
 3. [GitHub - leandromoreira/ffmpeg-libav-tutorial: FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 4. [Transistor Bass | Introduction - YouTube](https://www.youtube.com/watch?v=doqLWb5ghCI&t=137s)
-5. 
+5. [Andy Clark - What is Extended Mind? - YouTube](https://youtu.be/kc-TdMjuJRU)
 
-# Twitter
+## Twitter
 > - Network panel %s/TweetDetail/
 1. https://twitter.com/nocontexthumans/status/1663822600395542529?s=12&t=P-3qTnyuf57SquPZFW5aMQ
 2. https://twitter.com/shouldhaveanima/status/1663717510678728704?s=12&t=P-3qTnyuf57SquPZFW5aMQ
@@ -32,6 +49,11 @@
 23. https://twitter.com/HumansNoContext/status/1666139463750123520?s=20
 5. https://twitter.com/shouldhaveanima/status/1666188837352267776?s=20
 24. https://twitter.com/todayyearsoldig/status/1666178329811243010?s=20
+25. https://twitter.com/ImperatorOfPuns/status/1669541815509217281?s=20
+26. https://twitter.com/SmokeAwayyy/status/1670282312913940482?s=20
+27. https://twitter.com/Rainmaker1973/status/1670477575452237826?s=20
+28. https://twitter.com/ArmasUpdates/status/1670195723571286016?s=20
+29. 
 
 # Reddit
 1. https://www.reddit.com/r/YUROP/comments/13py38s/the_greeks_are_not_happy/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&utm_content=1&utm_term=15

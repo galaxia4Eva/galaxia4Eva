@@ -17,3 +17,6 @@
 15. [Emotion prediction as computation over a generative theory of mind](https://doi.org/10.1098/rsta.2022.0047)
 16. [Sequence variants affecting voice pitch in humans | Science Advances](https://doi.org/10.1126/sciadv.abq2969)
 17. [Emerging frontiers in regenerative medicine | Science](https://doi.org/10.1126/science.add6492)
+18. https://www.linsladephysiotherapy.co.uk/physio4u/wp-content/uploads/2014/07/rpsm.2011.09.1933_secure.pdf
+19. https://oscillations.one/Assets/Oscillations
+20. 
