@@ -33,6 +33,11 @@
 32. https://www.strangeloopcanon.com/p/how-do-you-govern-something-thats
 33. https://twitter.com/growing_daniel/status/1667380340346765313?s=20
 34. https://www.lesswrong.com/posts/7qSHKYRnqyrumEfbt/remarks-1-18-on-gpt-compressed#Remark_6__Waluigi_absorbing_sets
+35. https://en.wikipedia.org/wiki/Walter_Benjamin
+36. https://doi.org/10.1145/3544548.3581388
+37. https://twitter.com/lumpenspace/status/1672029396595625985?s=20
+38. https://betterwithout.ai
+39. https://twitter.com/repligate/status/1673093594713051136?s=12&t=P-3qTnyuf57SquPZFW5aMQ - note $\psi$ letter
 
 # Mode collapse
 1. [Visualizing mode collapse with block multiverse plots :: — Moire (generative.ink)](https://generative.ink/plots/block-multiverse-mode-collapse/)

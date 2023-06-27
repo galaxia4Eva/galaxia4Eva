@@ -97,7 +97,13 @@
 84. https://doi.org/10.48550/arXiv.2306.08302
 85. https://wayve.ai/thinking/introducing-gaia1/
 86. https://doi.org/10.48550/arXiv.2306.09896
-87. 
+87. https://huggingface.co/papers/2306.11644
+88. https://doi.org/10.48550/arXiv.2306.12156
+89. https://doi.org/10.48550/arXiv.2306.11987
+90. https://doi.org/10.48550/arXiv.2306.10193
+91. https://doi.org/10.48550/arXiv.2306.12672
+92. https://www.nature.com/articles/s41746-023-00840-9?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=CONR_JRNLS_AWA1_GL_SCON_SMEDA_NATUREPORTFOLIO
+93. https://doi.org/10.48550/arXiv.2306.13651
 
 # Tutorials and courses
 1. [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)

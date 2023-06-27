@@ -1,7 +1,8 @@
 #plugins #reading-list 
 # Triage
 1. https://twitter.com/amasad/status/1663332051582619648?s=12
-2. 
+2. https://twitter.com/lisperati/status/1671304178705248256?s=20
+3. 
 # tty
 1. [fish shell](https://fishshell.com/)
 2. [GitHub - jorgebucaran/fisher: A plugin manager for Fish](https://github.com/jorgebucaran/fisher)
@@ -13,7 +14,8 @@
 6. https://github.com/agarrharr/awesome-cli-apps
 7. https://github.com/lsd-rs/lsd
 8. https://charm.sh/apps/
-9. diff
+9. https://github.com/kovidgoyal/kitty
+10. diff
     - [ ] `port search dhex`
     - [ ] `port search diffoscope`
     - [ ] `port search diffutils`
@@ -75,25 +77,26 @@
 4. `port search nvimpager`
 5. https://github.com/macvim-dev/macvim
 ## Interesting Plugins
-1. https://github.com/puremourning/vimspector
+1. https://github.com/neovim/nvim-lspconfig
+2. https://github.com/puremourning/vimspector
     1. https://puremourning.github.io/vimspector-web/
     2. https://www.reddit.com/r/vim/comments/mrdp69/debug_in_vim/
-2. [GitHub - lambdalisue/fern.vim: 🌿 General purpose asynchronous tree viewer written in Pure Vim script](https://github.com/lambdalisue/fern.vim)
-3. [GitHub - yuki-yano/ai-review.nvim](https://github.com/yuki-yano/ai-review.nvim)
-4. [GitHub - yuki-yano/fzf-preview.vim: The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.](https://github.com/yuki-yano/fzf-preview.vim)
-5. [GitHub - Shougo/ddu.vim: Dark deno-powered UI framework for neovim/Vim8](https://github.com/Shougo/ddu.vim)
-6. [GitHub - tyru/caw.vim: Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes](https://github.com/tyru/caw.vim)
-7. [GitHub - yuki-yano/lightline.vim: A light and configurable statusline/tabline plugin for Vim](https://github.com/yuki-yano/lightline.vim)
-8. [GitHub - hrsh7th/vim-eft: enhanced f/t](https://github.com/hrsh7th/vim-eft)
-9. [GitHub - hashue/Defie.vim: Vim/Neovim non-tree-view filer](https://github.com/hashue/Defie.vim)
-10. [GitHub - RRethy/vim-illuminate: illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.](https://github.com/RRethy/vim-illuminate)
-11. [GitHub - rbtnn/vim-jumptoline: Jump to the line if cursorline includes a filename with lnum such as a line of build errors](https://github.com/rbtnn/vim-jumptoline)
-12. [Timeplotters: two data visualization tools for analysis of logs and time series — timeplotters 1.0 documentation](http://jkff.info/software/timeplotters/)
-13. [GitHub - rbtnn/vim-vimconsole: This is immediate-window for Vim script. It is like Google Chrome Developer Console.](https://github.com/rbtnn/vim-vimconsole)
-14. [GitHub - gregsexton/VimCalc: A Vim plugin that provides a convenient interactive calculator inside a buffer.](https://github.com/gregsexton/VimCalc)
-15. [GitHub - Zabanaa/neuromancer.vim: Cyberpunk themed vim colorscheme](https://github.com/Zabanaa/neuromancer.vim)
-16. `port search paracode`
-17. `port search plconv` 
+3. [GitHub - lambdalisue/fern.vim: 🌿 General purpose asynchronous tree viewer written in Pure Vim script](https://github.com/lambdalisue/fern.vim)
+4. [GitHub - yuki-yano/ai-review.nvim](https://github.com/yuki-yano/ai-review.nvim)
+5. [GitHub - yuki-yano/fzf-preview.vim: The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.](https://github.com/yuki-yano/fzf-preview.vim)
+6. [GitHub - Shougo/ddu.vim: Dark deno-powered UI framework for neovim/Vim8](https://github.com/Shougo/ddu.vim)
+7. [GitHub - tyru/caw.vim: Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes](https://github.com/tyru/caw.vim)
+8. [GitHub - yuki-yano/lightline.vim: A light and configurable statusline/tabline plugin for Vim](https://github.com/yuki-yano/lightline.vim)
+9. [GitHub - hrsh7th/vim-eft: enhanced f/t](https://github.com/hrsh7th/vim-eft)
+10. [GitHub - hashue/Defie.vim: Vim/Neovim non-tree-view filer](https://github.com/hashue/Defie.vim)
+11. [GitHub - RRethy/vim-illuminate: illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.](https://github.com/RRethy/vim-illuminate)
+12. [GitHub - rbtnn/vim-jumptoline: Jump to the line if cursorline includes a filename with lnum such as a line of build errors](https://github.com/rbtnn/vim-jumptoline)
+13. [Timeplotters: two data visualization tools for analysis of logs and time series — timeplotters 1.0 documentation](http://jkff.info/software/timeplotters/)
+14. [GitHub - rbtnn/vim-vimconsole: This is immediate-window for Vim script. It is like Google Chrome Developer Console.](https://github.com/rbtnn/vim-vimconsole)
+15. [GitHub - gregsexton/VimCalc: A Vim plugin that provides a convenient interactive calculator inside a buffer.](https://github.com/gregsexton/VimCalc)
+16. [GitHub - Zabanaa/neuromancer.vim: Cyberpunk themed vim colorscheme](https://github.com/Zabanaa/neuromancer.vim)
+17. `port search paracode`
+18. `port search plconv` 
 > gnustep-make has the following notes:
 >
 >   ##########################################################
@@ -143,6 +146,8 @@
     13. 
 3. [GitHub - byrongibson/fonts](https://github.com/byrongibson/fonts)
 4. [Ansilove · GitHub](https://github.com/ansilove)
+5. https://rentafont.com.ua/fonts/lugatype/regular
+6. https://github.com/Twixes/SF-Mono-Powerline
 
 # pdf
 1. [Download Xpdf and XpdfReader](https://www.xpdfreader.com/download.html)?

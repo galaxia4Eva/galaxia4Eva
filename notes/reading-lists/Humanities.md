@@ -19,4 +19,6 @@
 17. [Emerging frontiers in regenerative medicine | Science](https://doi.org/10.1126/science.add6492)
 18. https://www.linsladephysiotherapy.co.uk/physio4u/wp-content/uploads/2014/07/rpsm.2011.09.1933_secure.pdf
 19. https://oscillations.one/Assets/Oscillations
-20. 
+20. https://www.quantamagazine.org/the-cause-of-depression-is-probably-not-what-you-think-20230126/
+21. https://www.nejm.org/doi/full/10.1056/NEJMoa2302392?query=featured_home
+22. 

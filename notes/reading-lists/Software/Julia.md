@@ -16,3 +16,6 @@
 9. https://github.com/AlgebraicJulia/CompTime.jl
 10. https://github.com/queryverse/Query.jl
 11. https://github.com/aviatesk/JET.jl
+12. https://docs.julialang.org/en/v1/manual/embedding/
+13. https://github.com/korsbo/Latexify.jl
+14. https://github.com/simonschoelly/KittyTerminalImages.jl

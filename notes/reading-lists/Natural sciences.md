@@ -104,12 +104,31 @@
 96. https://www.quantamagazine.org/memories-help-brains-recognize-new-events-worth-remembering-20230517/
 97. https://www.sciencenews.org/article/one-photon-photosynthesis-light
 98. https://atmos.earth/overview-spider-web-consciousness-extended-cognition/
-99. 
+99. https://youtu.be/A7NTNkYPr9Q
+100. https://www.quantamagazine.org/new-number-systems-point-geometry-problem-toward-a-real-solution-20220726
+101. https://www.quantamagazine.org/why-mathematicians-re-prove-what-they-already-know-20230426/
+102. https://www.quantamagazine.org/how-the-brain-protects-itself-from-blood-borne-threats-20230620/
+103. https://www.quantamagazine.org/mathematicians-discover-new-way-to-predict-structure-in-graphs-20230622/
+104. https://www.quantamagazine.org/weather-data-reveals-long-predicted-pressure-waves-20200813/
+105. https://www.quantamagazine.org/the-simple-geometry-that-predicts-molecular-mosaics-20230621/
+106. https://www.quantamagazine.org/computer-scientists-inch-closer-to-major-algorithmic-goal-20230623/
+107. https://www.quantamagazine.org/the-near-magical-mystery-of-quasiparticles-20210324/
+108. https://www.quantamagazine.org/standard-model-of-cosmology-survives-jwsts-surprising-finds-20230120/
+109. https://www.quantamagazine.org/new-science-shows-immune-memory-in-the-brain-20211108/
+110. https://www.quantamagazine.org/fullertubes-join-the-family-of-carbon-crystals-20221220/
+111. https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/
+112. https://commons.wikimedia.org/wiki/File:Hyper_Wormhole.jpg
+113. https://www.scientificamerican.com/article/to-find-life-in-the-universe-find-the-computation/
+114. https://www.quantamagazine.org/computer-scientists-inch-closer-to-major-algorithmic-goal-20230623/
+115. https://www.quantamagazine.org/the-simple-geometry-that-predicts-molecular-mosaics-20230621/
+116. https://www.sciencenews.org/article/star-cluster-milky-way-old-universe
+117. https://www.quantamagazine.org/biodiversity-may-thrive-through-games-of-rock-paper-scissors-20200305/
 
 # Mathematics
 1. https://www.whitman.edu/mathematics/multivariable/multivariable.pdf
 2. https://web.stanford.edu/~boyd/vmls/vmls.pdf
-3. 
+3. http://zmievski.org/2010/08/the-prime-that-wasnt/
+4. 
 
 # Type theory
 1. [Type theory - Wikipedia](https://en.wikipedia.org/wiki/Type_theory)
