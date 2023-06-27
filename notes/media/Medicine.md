@@ -34,4 +34,24 @@
 34. https://twitter.com/chrost_hugo/status/1670455075947331586?s=20
 35. https://twitter.com/chrost_hugo/status/1670581911368998913?s=20
 36. https://twitter.com/chrost_hugo/status/1670785502721503232?s=20
-37. 
+37. https://twitter.com/OGdukeneurosurg/status/1670940418194669568?s=20
+38. https://twitter.com/OGdukeneurosurg/status/1671093268451405825?s=20
+39. https://twitter.com/OGdukeneurosurg/status/1670850494187569171?s=20
+40. https://twitter.com/chrost_hugo/status/1670934987892310016?s=20
+41. https://twitter.com/OGdukeneurosurg/status/1670877967075930143?s=20
+42. https://twitter.com/chrost_hugo/status/1671234461294272517?s=20
+43. https://twitter.com/OGdukeneurosurg/status/1671325445227175938?s=20
+44. https://twitter.com/OGdukeneurosurg/status/1671447478388895745?s=20
+45. https://twitter.com/chrost_hugo/status/1671507007323373569?s=20
+46. https://twitter.com/chrost_hugo/status/1671643405859041282?s=20
+47. https://twitter.com/chrost_hugo/status/1671899594156830723?s=20
+48. https://twitter.com/OGdukeneurosurg/status/1671838943862456321?s=20
+49. https://twitter.com/chrost_hugo/status/1671955965367779354?s=20
+50. https://twitter.com/chrost_hugo/status/1672026429591257088?s=20
+51. https://twitter.com/OGdukeneurosurg/status/1672060344624095233?s=20
+52. https://twitter.com/chrost_hugo/status/1672234550955773954?s=20
+53. https://twitter.com/OGdukeneurosurg/status/1671960507446861825?s=20
+54. https://twitter.com/OGdukeneurosurg/status/1671971786211074080?s=20
+55. https://twitter.com/OGdukeneurosurg/status/1672285337387712516?s=20
+56. https://twitter.com/chrost_hugo/status/1672567494773551108?s=20
+57. 
