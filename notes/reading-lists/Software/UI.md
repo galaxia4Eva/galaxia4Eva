@@ -8,6 +8,7 @@
 4. https://github.com/AquaTerm
 5. https://rensbr.eu/blog/swiftui-diffing/
     1. https://github.com/rensbreur/SwiftTUI
+6. https://github.com/chase/awrit
 
 # funny
 1. https://github.com/GeertJohan/gomatrix

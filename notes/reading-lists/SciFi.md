@@ -5,7 +5,8 @@
 4. [Robots and Empire - Wikipedia](https://en.m.wikipedia.org/wiki/Robots_and_Empire)
 5. [Lena](https://qntm.org/mmacevedo)
 6. https://i.4pcdn.org/tg/1599529933107.pdf
-7. 
+7. https://www.royalroad.com/fiction/25137/worth-the-candle
+8. 
 
 # Writing
 1. [Write & Improve with Cambridge](https://writeandimprove.com/)

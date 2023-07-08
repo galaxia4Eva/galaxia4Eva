@@ -54,4 +54,20 @@
 54. https://twitter.com/OGdukeneurosurg/status/1671971786211074080?s=20
 55. https://twitter.com/OGdukeneurosurg/status/1672285337387712516?s=20
 56. https://twitter.com/chrost_hugo/status/1672567494773551108?s=20
-57. 
+57. https://twitter.com/chrost_hugo/status/1673660446761533441?s=20
+58. https://twitter.com/chrost_hugo/status/1673979297437208576?s=20
+59. https://portal.dimdi.de/amispb/doc/2018/06/13/0373669/O3ccc873802704b559946ce965f1903b7.pdf
+60. https://twitter.com/chrost_hugo/status/1674397302159704064?s=20
+61. https://twitter.com/chrost_hugo/status/1674564402924883968?s=20
+62. https://twitter.com/chrost_hugo/status/1674859849736409088?s=20
+63. https://twitter.com/Rainmaker1973/status/1674689233519362048?s=20
+64. https://twitter.com/chrost_hugo/status/1675103203472420864?s=20
+65. https://twitter.com/chrost_hugo/status/1675518439526391809?s=20
+66. https://twitter.com/chrost_hugo/status/1675459803487916038?s=20
+67. https://twitter.com/chrost_hugo/status/1675498558332588032?s=20
+68. https://twitter.com/chrost_hugo/status/1675942986923016192?s=20
+69. https://twitter.com/chrost_hugo/status/1676246486806396932?s=20
+70. https://twitter.com/chrost_hugo/status/1676368037631361024?s=20
+71. https://twitter.com/chrost_hugo/status/1676579933911658501?s=20
+72. https://twitter.com/chrost_hugo/status/1676670782422896663?s=20
+73. 

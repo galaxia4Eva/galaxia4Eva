@@ -123,12 +123,47 @@
 115. https://www.quantamagazine.org/the-simple-geometry-that-predicts-molecular-mosaics-20230621/
 116. https://www.sciencenews.org/article/star-cluster-milky-way-old-universe
 117. https://www.quantamagazine.org/biodiversity-may-thrive-through-games-of-rock-paper-scissors-20200305/
+118. https://www.scientificamerican.com/article/a-25-year-old-bet-about-consciousness-has-finally-been-settled/
+119. https://www.quantamagazine.org/recounting-the-history-of-maths-transcendental-numbers-20230627/
+120. https://www.quantamagazine.org/the-new-math-of-wrinkling-patterns-20220922/
+121. https://www.scientificamerican.com/article/we-live-in-the-rarest-type-of-planetary-system1/
+122. https://www.quantamagazine.org/the-simple-geometry-that-predicts-molecular-mosaics-20230621/
+123. https://www.science.org/content/article/why-dna-spelled-atgc
+124. https://www.quantamagazine.org/a-new-map-of-the-universe-painted-with-cosmic-neutrinos-20230629/
+125. https://www.quantamagazine.org/starfish-whisperer-develops-a-physical-language-of-life-20230111/
+126. https://www.quantamagazine.org/computer-scientists-prove-certain-problems-are-truly-hard-20220511
+127. https://www.quantamagazine.org/quantum-field-theory-pries-open-mathematical-puzzle-20230216/
+128. https://www.quantamagazine.org/recounting-the-history-of-maths-transcendental-numbers-20230627/
+129. https://www.quantamagazine.org/computer-scientists-break-traveling-salesperson-record-20201008/
+130. https://www.quantamagazine.org/why-cant-we-find-planet-nine-20180703/
+131. https://www.quantamagazine.org/an-enormous-gravity-hum-moves-through-the-universe-20230628/
+132. https://www.quantamagazine.org/embryo-models-challenge-legal-ethical-and-biological-concepts-20230613/
+133. https://www.quantamagazine.org/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe-20220926/
+134. https://www.quantamagazine.org/a-new-map-of-the-universe-painted-with-cosmic-neutrinos-20230629/
+135. https://doi.org/10.1134/S2070046613040055
+136. https://www.quantamagazine.org/a-new-map-of-the-universe-painted-with-cosmic-neutrinos-20230629/
+137. https://www.quantamagazine.org/recounting-the-history-of-maths-transcendental-numbers-20230627/
+138. https://www.quantamagazine.org/peptides-on-stardust-may-have-provided-a-shortcut-to-life-20220308/
+139. https://www.quantamagazine.org/physicists-discover-exotic-patterns-of-synchronization-20190404/
+140. https://www.quantamagazine.org/the-simple-geometry-that-predicts-molecular-mosaics-20230621/
+141. https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/
+142. https://www.quantamagazine.org/microbes-gained-photosynthesis-superpowers-from-a-proton-pump-20230705/
+143. https://www.quantamagazine.org/microbes-gained-photosynthesis-superpowers-from-a-proton-pump-20230705/
+144. https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/
+145. https://www.quantamagazine.org/elliptic-curves-yield-their-secrets-in-a-new-number-system-20230706/
+146. https://www.quantamagazine.org/how-lossless-data-compression-works-20230531/
+147. https://www.quantamagazine.org/mathematical-tricks-for-taming-the-middle-distance-20230707/
+148. https://www.quantamagazine.org/a-new-map-of-the-universe-painted-with-cosmic-neutrinos-20230629/
+149. https://www.quantamagazine.org/the-simple-geometry-that-predicts-molecular-mosaics-20230621/
+150. 
 
 # Mathematics
 1. https://www.whitman.edu/mathematics/multivariable/multivariable.pdf
 2. https://web.stanford.edu/~boyd/vmls/vmls.pdf
 3. http://zmievski.org/2010/08/the-prime-that-wasnt/
-4. 
+4. https://www.peakmath.org
+5. https://math.uchicago.edu/~emerton/
+6. 
 
 # Type theory
 1. [Type theory - Wikipedia](https://en.wikipedia.org/wiki/Type_theory)

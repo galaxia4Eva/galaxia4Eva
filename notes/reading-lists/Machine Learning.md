@@ -104,6 +104,12 @@
 91. https://doi.org/10.48550/arXiv.2306.12672
 92. https://www.nature.com/articles/s41746-023-00840-9?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=CONR_JRNLS_AWA1_GL_SCON_SMEDA_NATUREPORTFOLIO
 93. https://doi.org/10.48550/arXiv.2306.13651
+94. https://doi.org/10.48550/arXiv.2306.15595
+95. https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/
+96. https://doi.org/10.48550/arXiv.2306.16564
+97. https://doi.org/10.48550/arXiv.2306.16527
+98. https://doi.org/10.48550/arXiv.2307.02486
+99. 
 
 # Tutorials and courses
 1. [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)
@@ -123,7 +129,8 @@
 11. [Transcribing Audio locally in realtime with a OpenAI's Whisper Project - YouTube](https://youtu.be/RS5RSCRpasA)
 12. [Tree of Thoughts: Deliberate Problem Solving with Large Language Models (Full Paper Review) - YouTube](https://www.youtube.com/watch?v=ut5kp56wW_4)
 13. https://www.altdeep.ai/p/causalml
-14. 
+14. https://doi.org/10.48550/arXiv.2306.12456
+15. 
 
 # Books
 1. https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf

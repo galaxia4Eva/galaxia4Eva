@@ -21,6 +21,11 @@
 3. [GitHub - leandromoreira/ffmpeg-libav-tutorial: FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 4. [Transistor Bass | Introduction - YouTube](https://www.youtube.com/watch?v=doqLWb5ghCI&t=137s)
 5. [Andy Clark - What is Extended Mind? - YouTube](https://youtu.be/kc-TdMjuJRU)
+6. https://t.co/QQ9drqRUHt
+7. [How They Fool Ya (live) | Math parody of Hallelujah - YouTube](https://youtu.be/NOCsdhzo6Jg)
+8. [30 min of PURE GENIUS - Alan Watts on "The Gateless Gate" (RARE) - YouTube](https://youtu.be/N-Mav6EKxOc)
+9. https://www.youtube.com/live/N0sR0WFxx4Y?feature=share
+10. 
 
 ## Twitter
 > - Network panel %s/TweetDetail/
@@ -53,7 +58,9 @@
 26. https://twitter.com/SmokeAwayyy/status/1670282312913940482?s=20
 27. https://twitter.com/Rainmaker1973/status/1670477575452237826?s=20
 28. https://twitter.com/ArmasUpdates/status/1670195723571286016?s=20
-29. 
+29. https://twitter.com/chiefEoSh/status/1674736487684767747?s=20
+30. https://twitter.com/chovnovyi/status/1677181519197003776?s=20
+31. 
 
 # Reddit
 1. https://www.reddit.com/r/YUROP/comments/13py38s/the_greeks_are_not_happy/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&utm_content=1&utm_term=15

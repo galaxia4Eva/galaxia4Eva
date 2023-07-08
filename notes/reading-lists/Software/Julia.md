@@ -19,3 +19,4 @@
 12. https://docs.julialang.org/en/v1/manual/embedding/
 13. https://github.com/korsbo/Latexify.jl
 14. https://github.com/simonschoelly/KittyTerminalImages.jl
+15. https://github.com/MakieOrg/Makie.jl

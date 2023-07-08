@@ -148,6 +148,11 @@
 4. [Ansilove · GitHub](https://github.com/ansilove)
 5. https://rentafont.com.ua/fonts/lugatype/regular
 6. https://github.com/Twixes/SF-Mono-Powerline
+7. https://twitter.com/viterzbayraku/status/1676341611792400384?s=20
+    1. https://alfabravo.design/ua/fonts/monofontis/#!/tab/236090603-1
+    2. https://minttype.com/monospaceland/
+    3. https://minttype.com/ki
+    4. https://minttype.com/vin-mono-pro
 
 # pdf
 1. [Download Xpdf and XpdfReader](https://www.xpdfreader.com/download.html)?

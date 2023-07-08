@@ -3,7 +3,6 @@
 1. [Moira Weigel — Palantir Goes to the Frankfurt School | boundary 2](https://www.boundary2.org/2020/07/moira-weigel-palantir-goes-to-the-frankfurt-school/)
 2. [Dynamicland](https://dynamicland.org/)
 3. [An Experiment with Time - Wikipedia](https://en.m.wikipedia.org/wiki/An_Experiment_with_Time)
-4. [Going Beyond Mercenaries: Is Prigozhin Preparing for a Power Struggle in Russia? (Part One) - Jamestown](https://jamestown.org/program/going-beyond-mercenaries-is-prigozhin-preparing-for-a-power-struggle-in-russia-part-one/)
 5. [TEAM 10 ONLINE](http://www.team10online.org/)
 6. [The Tao Teh King, by Lao-tse](https://www.gutenberg.org/cache/epub/216/pg216-images.html)
 7. [The Physicalist Worldview as Neurotic Ego-Defense Mechanism - Bernardo Kastrup, 2016](https://journals.sagepub.com/doi/full/10.1177/2158244016674515)
@@ -21,4 +20,15 @@
 19. https://oscillations.one/Assets/Oscillations
 20. https://www.quantamagazine.org/the-cause-of-depression-is-probably-not-what-you-think-20230126/
 21. https://www.nejm.org/doi/full/10.1056/NEJMoa2302392?query=featured_home
-22. 
+22. https://uk.wikipedia.org/wiki/Стаффорд_Бір
+    1. https://amzn.eu/d/h2hexMk
+23. https://www.quantamagazine.org/how-loneliness-reshapes-the-brain-20230228/
+24. https://www.quantamagazine.org/the-gut-microbiome-helps-social-skills-develop-in-the-brain-20221115/
+25. https://www.quantamagazine.org/how-the-brain-protects-itself-from-blood-borne-threats-20230620/
+26. https://www.quantamagazine.org/mobile-genes-from-the-mother-shape-the-babys-microbiome-20230117/
+27. https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(23)00083-1/fulltext
+    1. https://neurosciencenews.com/cognition-exercise-sleep-23584/
+28. https://neurosciencenews.com/genetic-non-inherited-schizophrenia-23586/
+    1. https://www.sciencedirect.com/science/article/pii/S2666979X23001398
+29. https://www.nature.com/articles/d41586-023-02222-3
+30. 

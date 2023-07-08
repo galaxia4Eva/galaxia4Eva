@@ -1,6 +1,7 @@
 #folklore #poop-culture
-# Твоя підпільна гуманітарка
+# Твоя Підпільна Гуманітарка
 1. https://humanitarka.com
+2. https://alanwatts.com
 
 # Triage
 1. https://en.m.wikipedia.org/wiki/Let_It_Bleed
@@ -46,4 +47,8 @@
 38. https://www.quantamagazine.org/embryo-models-challenge-legal-ethical-and-biological-concepts-20230613/
 39. https://www.nature.com/articles/s41586-023-06204-3
 40. https://www.quantamagazine.org/embryo-models-challenge-legal-ethical-and-biological-concepts-20230613/
-41. 
+41. https://my.etnoua.info/novyny/ihor-shramko-pro-ukrajinski-duhovi-instrumenty/
+42. https://midnightwaterbook.com
+43. https://neurosciencenews.com/controlled-breathing-health-23594/
+44. https://inteltechniques.com/book7.html
+45. 

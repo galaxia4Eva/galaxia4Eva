@@ -38,6 +38,10 @@
 37. https://twitter.com/lumpenspace/status/1672029396595625985?s=20
 38. https://betterwithout.ai
 39. https://twitter.com/repligate/status/1673093594713051136?s=12&t=P-3qTnyuf57SquPZFW5aMQ - note $\psi$ letter
+40. https://www.lesswrong.com/posts/kAmgdEjq2eYQkB5PP/douglas-hofstadter-changes-his-mind-on-deep-learning-and-ai
+41. https://doi.org/10.48550/arXiv.2306.17194
+42. https://www.quantamagazine.org/what-does-it-mean-to-align-ai-with-human-values-20221213/
+43. 
 
 # Mode collapse
 1. [Visualizing mode collapse with block multiverse plots :: — Moire (generative.ink)](https://generative.ink/plots/block-multiverse-mode-collapse/)

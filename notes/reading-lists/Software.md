@@ -84,7 +84,7 @@
 
 ![Apple](notes/reading-lists/Software/Apple.md)
 
-# under-dog languages
+# underdog languages
 1. [The Julia Programming Language](https://julialang.org/)
 2. [Chapter 0 - Getting Started | ziglearn.org](https://ziglearn.org/)
 3. [The V Programming Language](https://vlang.io/)
@@ -93,9 +93,13 @@
     2. [Phoenix Framework](https://www.phoenixframework.org/)
 6. [The Crystal Programming LanguageCrystal | The Crystal Programming Language](https://crystal-lang.org/)
 7. [Nim Programming Language](https://nim-lang.org/)
-8. 
+8. [Lean](https://leanprover.github.io/)
+9. [Mojo 🔥: Programming language for all of AI](https://www.modular.com/mojo)
+10. 
 
 # Videos
 1. [In-Network Machine Learning for Market Prediction Using Limit Order Books](https://www.cl.cam.ac.uk/research/srg/seminars/videos/2023-05-18.mp4)
 2.  [Follow the Transistors, a New Approach to Systems Software](https://www.cl.cam.ac.uk/research/srg/seminars/videos/2023-05-02.mp4)
-3. https://github.com/google/comprehensive-rust
+3. [GitHub - google/comprehensive-rust: This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.](https://github.com/google/comprehensive-rust)
+4. [Intentional Code - Minimalism in a World of Dogmatic Design - David Whitney - NDC London 2023 - YouTube](https://youtu.be/vw2XffPmlYo)
+5. [Designing in 2023: 10 Problems to Solve w/ Jim Keller - YouTube](https://youtu.be/o70yKYWgtVI)
