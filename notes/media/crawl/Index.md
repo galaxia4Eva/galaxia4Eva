@@ -25,7 +25,8 @@
 7. [How They Fool Ya (live) | Math parody of Hallelujah - YouTube](https://youtu.be/NOCsdhzo6Jg)
 8. [30 min of PURE GENIUS - Alan Watts on "The Gateless Gate" (RARE) - YouTube](https://youtu.be/N-Mav6EKxOc)
 9. https://www.youtube.com/live/N0sR0WFxx4Y?feature=share
-10. 
+10. https://youtu.be/q0GozF9oK2A
+11. 
 
 ## Twitter
 > - Network panel %s/TweetDetail/
@@ -60,7 +61,21 @@
 28. https://twitter.com/ArmasUpdates/status/1670195723571286016?s=20
 29. https://twitter.com/chiefEoSh/status/1674736487684767747?s=20
 30. https://twitter.com/chovnovyi/status/1677181519197003776?s=20
-31. 
+31. https://twitter.com/PulseOfUkraine/status/1678429737394360320?s=20
+32. https://twitter.com/EasternOoC/status/1677672950110072833?s=20
+33. https://twitter.com/buitengebieden/status/1678017815813537792?s=20
+34. https://twitter.com/fasc1nate/status/1678497574431629312?s=20
+35. https://twitter.com/drmikehart/status/1678779478787620865?s=20
+36. https://twitter.com/memecrashes/status/1679423628356509697?s=20
+37. https://twitter.com/AMAZlNGNATURE/status/1679384983406796800?s=20
+38. https://twitter.com/khris_lu/status/1679823570409488390?s=20
+39. https://twitter.com/shouldhaveanima/status/1680905456389361671?s=20
+40. https://twitter.com/Figensport/status/1680293886307041280?s=20
+41. https://twitter.com/Rainmaker1973/status/1680159368950546433?s=20
+42. 
 
 # Reddit
 1. https://www.reddit.com/r/YUROP/comments/13py38s/the_greeks_are_not_happy/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&utm_content=1&utm_term=15
+
+# Bandcamp
+1. https://taphrogen.bandcamp.com/album/bardo-thodol-liberation-through-hearing-during-the-intermediate-state

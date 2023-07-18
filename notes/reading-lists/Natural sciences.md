@@ -155,7 +155,33 @@
 147. https://www.quantamagazine.org/mathematical-tricks-for-taming-the-middle-distance-20230707/
 148. https://www.quantamagazine.org/a-new-map-of-the-universe-painted-with-cosmic-neutrinos-20230629/
 149. https://www.quantamagazine.org/the-simple-geometry-that-predicts-molecular-mosaics-20230621/
-150. 
+150. https://www.quantamagazine.org/the-key-to-species-diversity-may-be-in-their-similarities-20230626/
+151. https://www.quantamagazine.org/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe-20220926/
+152. https://doi.org/10.1126/science.abq4137
+153. https://doi.org/10.1038/s41386-023-01643-y
+154. https://doi.org/10.48550/arXiv.2306.14267
+155. https://www.construction-physics.com/p/the-story-of-titanium?utm_campaign=post&utm_medium=web
+156. https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/
+157. https://www.quantamagazine.org/the-key-to-species-diversity-may-be-in-their-similarities-20230626/
+158. https://www.nasa.gov/feature/goddard/2022/new-webb-image-captures-clearest-view-of-neptune-s-rings-in-decades
+159. https://www.quantamagazine.org/mathematical-tricks-for-taming-the-middle-distance-20230707/
+160. https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/
+161. https://twitter.com/lordgrilo/status/1678685715192770560?s=20
+162. https://www.quantamagazine.org/new-proof-threads-the-needle-on-a-sticky-geometry-problem-20230711/
+163. https://www.quantamagazine.org/searching-the-dark-side-of-the-moon-for-clues-to-a-cataclysm-20161222/
+164. https://www.quantamagazine.org/impossible-seeming-surfaces-confirmed-decades-after-conjecture-20220602/
+165. https://www.quantamagazine.org/alan-turings-most-important-machine-was-never-built-20230503/
+166. https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/
+167. https://www.quantamagazine.org/mathematical-tricks-for-taming-the-middle-distance-20230707/
+168. https://www.quantamagazine.org/how-to-build-a-big-prime-number-20230713/
+169. https://doi.org/10.1038/s41467-023-39832-4
+170. https://doi.org/10.3390/e25071059
+171. https://www.quantamagazine.org/the-cartoon-picture-of-magnets-that-has-transformed-science-20200624/
+172. https://doi.org/10.1016%2Fj.bbrep.2020.100798
+173. https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/
+174. https://doi.org/10.1093/mnras/stad2032
+175. https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419
+176. 
 
 # Mathematics
 1. https://www.whitman.edu/mathematics/multivariable/multivariable.pdf
@@ -163,7 +189,9 @@
 3. http://zmievski.org/2010/08/the-prime-that-wasnt/
 4. https://www.peakmath.org
 5. https://math.uchicago.edu/~emerton/
-6. 
+6. https://en.wikipedia.org/wiki/Hyperdimensional_computing
+7. https://www.youtube.com/live/4CBFUojXoq4?feature=share
+8. 
 
 # Type theory
 1. [Type theory - Wikipedia](https://en.wikipedia.org/wiki/Type_theory)

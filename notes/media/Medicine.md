@@ -70,4 +70,15 @@
 70. https://twitter.com/chrost_hugo/status/1676368037631361024?s=20
 71. https://twitter.com/chrost_hugo/status/1676579933911658501?s=20
 72. https://twitter.com/chrost_hugo/status/1676670782422896663?s=20
-73. 
+73. https://twitter.com/Rainmaker1973/status/1678440478214070272?s=20
+74. https://twitter.com/TheFigen_/status/1677319558380625922?s=20
+75. https://twitter.com/horror4kids/status/1678186706095292419?s=20
+76. https://twitter.com/Rainmaker1973/status/1678079048969232386?s=20
+77. https://twitter.com/Rainmaker1973/status/1678006080968744960?s=20
+78. https://twitter.com/OGdukeneurosurg/status/1677755305474621442?s=20
+79. https://twitter.com/OGdukeneurosurg/status/1677798103405953024?s=20
+80. https://twitter.com/OGdukeneurosurg/status/1677499512980422656?s=20
+81. https://twitter.com/slava__bobrov/status/1678373894636331010?s=20
+82. https://www.quantamagazine.org/how-the-brain-protects-itself-from-blood-borne-threats-20230620/
+83. https://twitter.com/slava__bobrov/status/1679824212549070849?s=20
+84. 

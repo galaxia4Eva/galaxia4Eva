@@ -51,4 +51,22 @@
 42. https://midnightwaterbook.com
 43. https://neurosciencenews.com/controlled-breathing-health-23594/
 44. https://inteltechniques.com/book7.html
-45. 
+45. https://twitter.com/mattx1b/status/1678483403123879943?s=12&t=P-3qTnyuf57SquPZFW5aMQ
+46. https://doi.org/10.1177/01461672231181162
+47. https://twitter.com/paulg/status/1678036027401707521?s=20
+48. https://twitter.com/KathaSchmack/status/1677965244331618304?s=20
+49. https://israelbiblicalstudies.com/biblical-languages/
+50. https://twitter.com/mwilcox/status/1677899462944096256?s=20
+51. https://doi.org/10.1186/s13010-023-00137-5
+52. https://www.ams.org/journals/notices/202307/noti2736/noti2736.html?adat=August%202023&trk=2736&galt=none&cat=news&pdfissue=202307&pdffile=rnoti-p1045.pdf
+53. https://alicemaz.substack.com/p/toward-a-system-of-neo-xunism
+54. https://mitpress.mit.edu/9780262536165/energy-and-civilization/
+55. https://www.science.org/content/article/fraudulent-data-set-raise-questions-about-superstar-honesty-researcher
+56. https://www.strangeloopcanon.com/p/the-creator-economy-needs-fatter
+57. https://www.afmc.af.mil/News/Article-Display/Article/3447834/edwards-stands-up-air-dominance-combined-test-force-for-next-generation-testing/
+58. https://vividness.live/non-statement
+59. https://en.wikipedia.org/wiki/The_85_Ways_to_Tie_a_Tie
+60. http://www.ithkuil.net
+61. http://selfassemblingbrain.com
+62. https://en.wikipedia.org/wiki/Monadology
+63. 

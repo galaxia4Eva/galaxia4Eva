@@ -109,7 +109,30 @@
 96. https://doi.org/10.48550/arXiv.2306.16564
 97. https://doi.org/10.48550/arXiv.2306.16527
 98. https://doi.org/10.48550/arXiv.2307.02486
-99. 
+99. https://doi.org/10.48550/arXiv.2307.03381
+100. https://doi.org/10.48550/arXiv.2303.18223
+    1. https://github.com/RUCAIBox/LLMSurvey
+101. https://transformer-circuits.pub/2021/framework/index.html
+102. https://doi.org/10.48550/arXiv.2304.14997
+103. https://doi.org/10.48550/arXiv.2307.03718
+104. https://news.mit.edu/2023/magnetic-robots-walk-crawl-swim-0707
+105. https://www.cantorsparadise.com/1994-a-brief-introduction-to-shors-algorithm-for-quantum-computers-37ae871a727e
+106. https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/
+107. https://doi.org/10.48550/arXiv.2307.05695
+108. https://doi.org/10.1073/pnas.2117484120
+109. https://doi.org/10.48550/arXiv.2307.05300
+110. https://doi.org/10.48550/arXiv.2306.12456
+111. https://doi.org/10.48550/arXiv.2307.06962
+112. https://doi.org/10.1126/science.adj5957
+113. https://doi.org/10.48550/arXiv.1602.02068
+114. https://doi.org/10.48550/arXiv.2307.01928
+115. https://doi.org/10.48550/arXiv.1705.07704
+116. https://doi.org/10.48550/arXiv.1802.03676
+117. https://doi.org/10.48550/arXiv.1802.04223
+118. https://doi.org/10.48550/arXiv.1703.10987
+119. https://aclanthology.org/2023.findings-acl.426.pdf
+    1. https://aclanthology.org/2023.findings-acl.426/
+120. 
 
 # Tutorials and courses
 1. [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)
@@ -129,14 +152,19 @@
 11. [Transcribing Audio locally in realtime with a OpenAI's Whisper Project - YouTube](https://youtu.be/RS5RSCRpasA)
 12. [Tree of Thoughts: Deliberate Problem Solving with Large Language Models (Full Paper Review) - YouTube](https://www.youtube.com/watch?v=ut5kp56wW_4)
 13. https://www.altdeep.ai/p/causalml
-14. https://doi.org/10.48550/arXiv.2306.12456
-15. 
+14. 
 
 # Books
 1. https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
 
 # Source code
 1. [The Unicode Consortium · GitHubTwitterYouTube](https://github.com/unicode-org)
+2. https://github.com/a16z-infra/companion-app
+3. https://simonwillison.net/2023/Jul/12/llm/
+4. https://github.com/TimDettmers/bitsandbytes/releases/tag/0.40.0
+5. https://github.com/MikeWangWZHL/Solo-Performance-Prompting
+6. https://github.com/yacineMTB/talk
+7. 
 
 ## Triage
 1. [SIL LSDev · GitHub](https://github.com/orgs/sillsdev/)

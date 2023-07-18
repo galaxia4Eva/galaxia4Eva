@@ -41,7 +41,20 @@
 40. https://www.lesswrong.com/posts/kAmgdEjq2eYQkB5PP/douglas-hofstadter-changes-his-mind-on-deep-learning-and-ai
 41. https://doi.org/10.48550/arXiv.2306.17194
 42. https://www.quantamagazine.org/what-does-it-mean-to-align-ai-with-human-values-20221213/
-43. 
+43. https://hyperturing.com
+    1. https://twitter.com/nyxtelius/status/1678280517010214913?s=20
+44. https://doi.org/10.1145/3593013.3594033
+45. https://doi.org/10.48550/arXiv.2307.03718
+46. https://twitter.com/Plinz/status/1674179638019465216?s=20
+47. https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/
+48. https://en.wikipedia.org/wiki/BLEU
+49. https://bigthink.com/the-future/ai-translates-cuneiform/
+50. https://twitter.com/lumpenspace/status/1677689188949295106?s=20
+51. https://yifever.substack.com/p/ragnarok
+52. https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind
+53. https://astralcodexten.substack.com/p/prediction-market-faq
+54. https://gist.github.com/lumpenspace/30ff83b66f6fc8d5358c66e92b6bdc6f
+55. 
 
 # Mode collapse
 1. [Visualizing mode collapse with block multiverse plots :: — Moire (generative.ink)](https://generative.ink/plots/block-multiverse-mode-collapse/)

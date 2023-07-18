@@ -2,7 +2,12 @@
 1. https://www.linkedin.com/posts/adrianolszewski_challenging-the-cult-o-the-normal-distribution-activity-7075735748548698112-_rkU?utm_source=share&utm_medium=member_desktop
 2. https://www.linkedin.com/posts/danleedata_whats-your-favorite-probability-distribution-activity-7080226069580001280-KEK_?utm_source=share&utm_medium=member_desktop
 3. https://www.linkedin.com/posts/adrianolszewski_machinelearning-regression-logisticregression-activity-7082297997459415040--oRS?utm_source=share&utm_medium=member_desktop
-4. 
+4. https://en.wikipedia.org/wiki/Haar_wavelet
+5. https://twitter.com/j_bertolotti/status/1249341481057468417?s=20
+6. http://datacolada.org/toc
+    1. https://www.science.org/content/article/fraudulent-data-set-raise-questions-about-superstar-honesty-researcher
+7. https://doi.org/10.3390/jintelligence11070141
+8. 
 
 # Books
 1. [Elements of Statistical inference][eosi]

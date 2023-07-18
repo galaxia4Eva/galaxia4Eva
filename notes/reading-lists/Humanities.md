@@ -31,4 +31,10 @@
 28. https://neurosciencenews.com/genetic-non-inherited-schizophrenia-23586/
     1. https://www.sciencedirect.com/science/article/pii/S2666979X23001398
 29. https://www.nature.com/articles/d41586-023-02222-3
-30. 
+30. https://doi.org/10.1093/cercor/bhad251
+31. https://twitter.com/NatureNeuro/status/1678754764824387584?s=20
+32. https://www.nature.com/articles/s41586-023-06098-1
+33. https://doi.org/10.1136/bmj.315.7123.1685
+    1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2128009/
+34. https://doi.org/10.1016/j.neubiorev.2023.105262
+35. 
