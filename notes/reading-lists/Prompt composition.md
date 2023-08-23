@@ -54,7 +54,22 @@
 52. https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind
 53. https://astralcodexten.substack.com/p/prediction-market-faq
 54. https://gist.github.com/lumpenspace/30ff83b66f6fc8d5358c66e92b6bdc6f
-55. 
+55. https://doi.org/10.48550/arXiv.2304.11111
+56. https://www.shrimpwelfareproject.org
+57. https://twitter.com/deepfates/status/1682757734385745920?s=20
+    1. https://pbs.twimg.com/media/F1pbOmmagAAffua?format=jpg&name=large
+    2. https://pbs.twimg.com/media/F1pbPGZaEAQz4XQ?format=jpg&name=large
+    3. https://pbs.twimg.com/media/F1pbPf2aUAEhKay?format=jpg&name=large
+58. https://arxiv.org/pdf/2307.07871.pdf
+59. https://www.researchgate.net/publication/251290254_Tabletop_An_Emergent_Stochastic_Model_of_Analogy-Making
+60. https://doi.org/10.48550/arXiv.2307.15043
+61. https://doi.org/10.48550/arXiv.2307.15771
+62. https://doi.org/10.48550/arXiv.2308.00304
+63. https://doi.org/10.31234/osf.io/4cbuv
+64. https://doi.org/10.48550/arXiv.2304.03442
+65. https://doi.org/10.48550/arXiv.1410.0369
+66. https://doi.org/10.48550/arXiv.2308.08708
+67. 
 
 # Mode collapse
 1. [Visualizing mode collapse with block multiverse plots :: — Moire (generative.ink)](https://generative.ink/plots/block-multiverse-mode-collapse/)

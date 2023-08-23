@@ -1,7 +1,19 @@
 #folklore #poop-culture
 # Твоя Підпільна Гуманітарка
 1. https://humanitarka.com
-2. https://alanwatts.com
+    1. https://rentafont.com.ua/blog/znadibky-Istorychni/vasyl-yakovych-chebanyk
+    2. http://luc.devroye.org/ukraine.html
+    3. https://mala.storinka.org/леся-воронина-повість-у-залізних-нетрях-історія-четверта-героїчна-з-книги-суперагент-000-таємниця-золотого-кенгуру.html
+    4. https://www.myfonts.com/pages/newsletters-cc-201202
+    5. https://twitter.com/viterzbayraku/status/1692820110556172382?s=20
+2. http://litopys.org.ua/ukrmova/um43.htm
+    1. https://esu.com.ua/search_articles.php?id=60959
+    2. http://litopys.org.ua/rizne/maks_osn.htm
+    3. https://archive.org/details/zapysky7/zapysky165/page/n75/mode/2up?view=theater
+3. https://alanwatts.com
+4. https://www.crosswire.org/sword/index.jsp
+5. http://www.voka.at
+6. 
 
 # Triage
 1. https://en.m.wikipedia.org/wiki/Let_It_Bleed
@@ -69,4 +81,18 @@
 60. http://www.ithkuil.net
 61. http://selfassemblingbrain.com
 62. https://en.wikipedia.org/wiki/Monadology
-63. 
+63. https://twitter.com/ChrisPalmerMD/status/1681435397065433089?s=20
+64. https://doi.org/10.1126/science.aay3701
+    1. https://sinews.siam.org/Details-Page/predicting-the-unexpected-early-warning-of-impending-climate-tipping-points
+    2. https://doi.org/10.1126/science.ade4248
+65. https://doi.org/10.1038/s41586-023-06331-x
+66. https://zn.ua/ukr/SOCIUM/tragediya_kubanskoyi_stanitsi_poltavska__yak_svidchennya_genotsidu_ukrayinstva.html
+67. https://youtu.be/ItMyy6Zh--0
+68. https://www.moinkultur.de
+69. https://doi.org/10.1126/science.abn4189
+70. https://www.theguardian.com/books/2023/jul/22/pro-extinctionis-longtermim-effective-altruism-human-extinction-emile-torres
+71. https://suspilne.media/536117-ukrainskij-stil-pro-srifti-ak-castinu-vizualnoi-kulturi/
+72. https://www.quantamagazine.org/can-a-fungus-really-take-over-our-brains-20230223/
+73. https://www.erowid.org/library/books_online/tihkal/tihkal.shtml
+74. https://www.biointelligence-explosion.com
+75. 

@@ -37,4 +37,12 @@
 33. https://doi.org/10.1136/bmj.315.7123.1685
     1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2128009/
 34. https://doi.org/10.1016/j.neubiorev.2023.105262
-35. 
+35. https://doi.org/10.1007/s40473-023-00259-2
+36. https://doi.org/10.48550/arXiv.2307.13157
+37. https://www.quantamagazine.org/how-loneliness-reshapes-the-brain-20230228/
+38. https://www.cell.com/cell-chemical-biology/pdfExtended/S2451-9456(23)00221-0
+39. https://doi.org/10.1162/REST_a_00565
+40. https://doi.org/10.31234/osf.io/jhrp6
+41. https://doi.org/10.31234/osf.io/6tgau
+42. https://news.berkeley.edu/2023/08/15/releases-20230811
+43. 

@@ -97,21 +97,6 @@
 16. [GitHub - Zabanaa/neuromancer.vim: Cyberpunk themed vim colorscheme](https://github.com/Zabanaa/neuromancer.vim)
 17. `port search paracode`
 18. `port search plconv` 
-> gnustep-make has the following notes:
->
->   ##########################################################
->
->   To have a fully working GNUstep make system, please add
->
->    '. /opt/local/GNUstep/share/GNUstep/Makefiles/GNUstep.sh'
->
->    to your shell login (in ~/.profile)
->
->    You may also want to set up your MANPATH :
->
->    export MANPATH=$GNUSTEP_LOCAL_ROOT/Library/Documentation/man:$GNUSTEP_SYSTEM_ROOT/Library/Documentation/man:/opt/local/share/man:/usr/share/man>
->
->    ##########################################################
 
 # Sublime text
 1. [GitHub - SublimeLinter/SublimeLinter: The code linting framework for Sublime Text](https://github.com/SublimeLinter/SublimeLinter)
@@ -128,27 +113,29 @@
     1. [The Bates LaTeX Manual | Mathematics | Bates College](https://www.bates.edu/mathematics/resources/latex-manual/)
     2. `port search latexdiff`
 2. [GitHub - typst/typst: A new markup-based typesetting system that is powerful and easy to learn.](https://github.com/typst/typst)
-    1. [GitHub - Cubxity/typstudio: A W.I.P desktop application for a new typesetting language, typst.](https://github.com/Cubxity/typstudio)
-    2. [GitHub - qjcg/awesome-typst: Awesome Typst Links](https://github.com/qjcg/awesome-typst)
-    3. [3d rendering in typst](https://gitlab.com/Gutawer/typst-3d)
-    4. [GitHub - pascal-huber/typst-letter-template: Extendable typst letter template with some standardized defaults.](https://github.com/pascal-huber/typst-letter-template)
-    5. https://github.com/Myriad-Dreamin/typst.ts/tree/main/packages/hexo-renderer-typst
-    6. https://github.com/jomaway/typst-teacher-templates
-    7. https://github.com/crdevio/typst-themes/tree/main/typing-course%20template
-    8. https://github.com/elteammate/typst-shell-escape
-    9. https://github.com/Mc-Zen/typst-doc
-    10. https://github.com/Swordfish90/cool-retro-term/blob/master/app/qml/fonts/1971-ibm-3278/README.md
-    11. CV Templates
+    1. [GitHub - jneug/typst-tools4typst: An utility package for typst package authors.](https://github.com/jneug/typst-tools4typst)
+    2. [GitHub - Cubxity/typstudio: A W.I.P desktop application for a new typesetting language, typst.](https://github.com/Cubxity/typstudio)
+    3. [GitHub - qjcg/awesome-typst: Awesome Typst Links](https://github.com/qjcg/awesome-typst)
+    4. [3d rendering in typst](https://gitlab.com/Gutawer/typst-3d)
+    5. [GitHub - pascal-huber/typst-letter-template: Extendable typst letter template with some standardized defaults.](https://github.com/pascal-huber/typst-letter-template)
+    6. https://github.com/Myriad-Dreamin/typst.ts/tree/main/packages/hexo-renderer-typst
+    7. https://github.com/jomaway/typst-teacher-templates
+    8. https://github.com/crdevio/typst-themes/tree/main/typing-course%20template
+    9. https://github.com/elteammate/typst-shell-escape
+    10. https://github.com/Mc-Zen/typst-doc
+    11. https://github.com/Swordfish90/cool-retro-term/blob/master/app/qml/fonts/1971-ibm-3278/README.md
+    12. CV Templates
         1. https://github.com/ice-kylin/typst-cv-miku
         2. https://github.com/skyzh/typst-cv-template
         3. https://github.com/bamboovir/typst-resume-template
-    12. https://github.com/Cubxity/typstudio
-    13. 
-3. [GitHub - byrongibson/fonts](https://github.com/byrongibson/fonts)
-4. [Ansilove · GitHub](https://github.com/ansilove)
-5. https://rentafont.com.ua/fonts/lugatype/regular
-6. https://github.com/Twixes/SF-Mono-Powerline
-7. https://twitter.com/viterzbayraku/status/1676341611792400384?s=20
+    13. https://github.com/Cubxity/typstudio
+    14. https://github.com/MuShann/typst-graph
+    15. 
+4. [GitHub - byrongibson/fonts](https://github.com/byrongibson/fonts)
+5. [Ansilove · GitHub](https://github.com/ansilove)
+6. https://rentafont.com.ua/fonts/lugatype/regular
+7. https://github.com/Twixes/SF-Mono-Powerline
+8. https://twitter.com/viterzbayraku/status/1676341611792400384?s=20
     1. https://alfabravo.design/ua/fonts/monofontis/#!/tab/236090603-1
     2. https://minttype.com/monospaceland/
     3. https://minttype.com/ki

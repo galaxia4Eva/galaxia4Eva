@@ -1,4 +1,4 @@
-#reading-list #nlp #transformers #triage
+\#reading-list #nlp #transformers #triage
 # News
 1. https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-puts-pressure-on-google-and
 # Triage
@@ -132,7 +132,37 @@
 118. https://doi.org/10.48550/arXiv.1703.10987
 119. https://aclanthology.org/2023.findings-acl.426.pdf
     1. https://aclanthology.org/2023.findings-acl.426/
-120. 
+120. https://doi.org/10.48550/arXiv.2307.07970
+121. https://scontent-ham3-1.xx.fbcdn.net/v/t39.2365-6/10000000_663429262362723_1696968207443577320_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5ol-jUSglG4AX90MqW3&_nc_ht=scontent-ham3-1.xx&oh=00_AfDaHo3xPEwrDEFcMBEpYqtFfnBr82DKXbw1H1W8uArHXA&oe=64BBB691
+122. https://doi.org/10.1093/cercor/bhad251
+123. https://doi.org/10.48550/arXiv.2306.12943
+124. https://doi.org/10.48550/arXiv.2307.11795
+125. https://doi.org/10.48550/arXiv.2307.14995
+126. https://doi.org/10.48550/arXiv.2307.14430
+127. https://doi.org/10.48550/arXiv.2308.01904
+128. https://doi.org/10.48550/arXiv.2308.01399
+129. https://doi.org/10.1126/science.adg7314
+130. https://doi.org/10.48550/arXiv.2308.01074
+131. https://doi.org/10.48550/arXiv.2308.03526
+132. https://arxiv.org/pdf/2308.03028.pdf
+133. https://github.com/Stability-AI/stablediffusion
+134. https://doi.org/10.48550/arXiv.2205.14135
+135. https://doi.org/10.48550/arXiv.2306.15595
+136. https://doi.org/10.48550/arXiv.2305.18654
+137. https://doi.org/10.48550/arXiv.2308.07037
+138. https://doi.org/10.48550/arXiv.2303.13506
+139. https://ieeexplore.ieee.org/abstract/document/6023908
+140. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9118943
+141. https://doi.org/10.48550/arXiv.1810.01075
+142. https://doi.org/10.48550/arXiv.2308.08536
+143. https://bellard.org/ts_server/ts_zip.html
+144. https://doi.org/10.48550/arXiv.2306.07195
+    1. https://doi.org/10.48550/arXiv.2305.00948
+    2. https://www.youtube.com/live/c_UqS54ZA5o?feature=share
+    3. https://simons.berkeley.edu/workshops/large-language-models-transformers
+145. https://openreview.net/forum?id=BZ5a1r-kVsf
+    1. https://acrobat.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3A8c5260f5-8959-3f11-bb3b-befb3bc65f13
+146. 
 
 # Tutorials and courses
 1. [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)
@@ -164,7 +194,13 @@
 4. https://github.com/TimDettmers/bitsandbytes/releases/tag/0.40.0
 5. https://github.com/MikeWangWZHL/Solo-Performance-Prompting
 6. https://github.com/yacineMTB/talk
-7. 
+7. https://github.com/nomic-ai/gpt4all
+8. https://tgb.complexdatalab.com/docs/home/
+    1. https://github.com/shenyangHuang/TGB
+9. https://audiocraft.metademolab.com/?utm_source=twitter&utm_medium=organic_social&utm_campaign=audiocraft&utm_content=card
+    1. https://github.com/facebookresearch/audiocraft/
+10. https://twitter.com/bio_bootloader/status/1683906735248125955?s=20
+11. 
 
 ## Triage
 1. [SIL LSDev · GitHub](https://github.com/orgs/sillsdev/)
@@ -220,4 +256,5 @@
 50. https://pytorch.org/get-started/locally/
 51. https://gist.github.com/danwritecode/c98e895c84d883467112ece495c295f5
 52. https://huggingface.co/openlm-research/open_llama_13b
-53. 
+53. https://doi.org/10.48550/arXiv.2308.05177
+54. 

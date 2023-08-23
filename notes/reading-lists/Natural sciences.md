@@ -181,7 +181,64 @@
 173. https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/
 174. https://doi.org/10.1093/mnras/stad2032
 175. https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419
-176. 
+176. https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/
+177. https://www.quantamagazine.org/cosmic-rays-may-explain-lifes-bias-for-right-handed-dna-20200629/
+178. https://www.quantamagazine.org/quantum-simulators-create-a-totally-new-phase-of-matter-20211202/
+179. https://www.quantamagazine.org/math-that-lets-you-think-locally-but-act-globally-20230721/
+180. https://doi.org/10.1080/17513472.2023.2233883
+    1. https://www.ams.org/bookstore/pspdf/mbk-145-prev.pdf
+181. https://www.quantamagazine.org/how-genes-can-leap-from-snakes-to-frogs-20221027/
+182. https://www.quantamagazine.org/to-move-fast-quantum-maze-solvers-must-forget-the-past-20230720/
+183. https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/
+184. https://doi.org/10.48550/arXiv.2307.10070
+185. https://doi.org/10.1016/j.mrl.2023.03.010
+186. https://www.quantamagazine.org/new-proof-threads-the-needle-on-a-sticky-geometry-problem-20230711/
+187. https://arxiv.org/pdf/2303.16774.pdf
+188. https://twitter.com/martinmbauer/status/1681592457031548931?s=20
+189. http://www.jstor.org/stable/24975914
+190. https://www.quantamagazine.org/underground-cells-make-dark-oxygen-without-light-20230717/
+191. https://www.quantamagazine.org/new-proof-shows-that-expander-graphs-synchronize-20230724/
+192. https://doi.org/10.48550/arXiv.2307.12008
+193. https://doi.org/10.1016/j.plrev.2023.07.011
+194. https://www.quantamagazine.org/most-complete-simulation-of-a-cell-probes-lifes-hidden-rules-20220224/
+195. https://www.quantamagazine.org/insect-brains-melt-and-rewire-during-metamorphosis-20230726/
+196. https://www.quantamagazine.org/is-it-real-or-imagined-how-your-brain-tells-the-difference-20230524/
+197. https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/
+198. https://www.quantamagazine.org/how-nearly-nothing-might-solve-cosmologys-biggest-questions-20230725/
+199. https://www.quantamagazine.org/long-sought-math-proof-unlocks-more-mysterious-modular-forms-20230309/
+200. https://www.quantamagazine.org/a-new-map-of-the-universe-painted-with-cosmic-neutrinos-20230629/
+201. https://www.scientificamerican.com/article/the-most-surprising-discoveries-in-physics/
+202. https://doi.org/10.48550/arXiv.2307.16892
+203. https://www.quantamagazine.org/a-new-theory-for-the-assembly-of-life-in-the-universe-20230504/
+204. https://arxiv.org/pdf/2307.16040.pdf
+205. https://doi.org/10.48550/arXiv.2307.16892
+206. https://doi.org/10.48550/arXiv.2307.15780
+207. https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/
+208. https://www.quantamagazine.org/the-cryptographer-who-ensures-we-can-trust-our-computers-20230727/
+209. https://doi.org/10.1016/j.cell.2023.07.006
+210. https://www.quantamagazine.org/new-calculations-show-how-to-escape-hawkings-black-hole-paradox-20230802/
+211. https://doi.org/10.48550/arXiv.2308.01516
+212. https://doi.org/10.48550/arXiv.2307.16040
+213. https://mathematical-tours.github.io/book-sources/optim-ml/OptimML-DiffusionModels.pdf
+214. https://doi.org/10.48550/arXiv.2308.01892
+215. https://www.quantamagazine.org/how-genetic-surprises-complicate-the-old-doctrine-of-dna-20230731/
+216. https://www.ceremade.dauphine.fr/~carlier/toland.pdf
+217. https://doi.org/10.1098/rsos.230175
+218. https://www.quantamagazine.org/secret-messages-can-hide-in-ai-generated-media-20230518/
+219. https://www.quantamagazine.org/some-neural-networks-learn-language-like-humans-20230522/
+220. https://link.aps.org/doi/10.1103/PRXLife.1.013008
+221. https://www.quantamagazine.org/new-entanglement-results-hint-at-better-quantum-codes-20221024/
+222. https://www.quantamagazine.org/even-synthetic-life-forms-with-a-tiny-genome-can-evolve-20230809/
+223. https://doi.org/10.48550/arXiv.2308.05660
+    1. https://twitter.com/MaxAifer/status/1690070556509392896?s=20
+224. https://doi.org/10.48550/arXiv.2308.05841
+225. https://www.quantamagazine.org/computer-science-and-biology-explore-algorithmic-evolution-20181129/
+226. https://doi.org/10.48550/arXiv.2209.07867
+227. https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/
+228. https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/
+229. https://doi.org/10.1137/22M1507565
+230. https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/
+231. 
 
 # Mathematics
 1. https://www.whitman.edu/mathematics/multivariable/multivariable.pdf
@@ -191,7 +248,17 @@
 5. https://math.uchicago.edu/~emerton/
 6. https://en.wikipedia.org/wiki/Hyperdimensional_computing
 7. https://www.youtube.com/live/4CBFUojXoq4?feature=share
-8. 
+8. https://www.ams.org/journals/notices/202307/noti2739/noti2739.html?adat=August%202023&trk=2739&galt=none&cat=interest&pdfissue=202307&pdffile=rnoti-p1130.pdf
+9. https://twitter.com/C4COMPUTATION/status/1173282088994295808?s=20
+10. https://www.logicmatters.net/categories/
+11. https://doi.org/10.48550/arXiv.2308.01376
+12. https://math.mit.edu/~shor/435-LN/
+13. https://doi.org/10.1017/CBO9780511618635
+14. 
+
+# Wolfram
+1. [Mystery of Entropy FINALLY Solved After 50 Years? (STEPHEN WOLFRAM) - YouTube](https://youtu.be/dkpDjd2nHgo)
+2. 
 
 # Type theory
 1. [Type theory - Wikipedia](https://en.wikipedia.org/wiki/Type_theory)
@@ -214,3 +281,4 @@
 10. https://github.com/patrick-kidger/equinox
 13. https://github.com/sanjoy/pyano
 14. https://github.com/lattice
+15. https://github.com/SquidSinker/Euterpe.jl

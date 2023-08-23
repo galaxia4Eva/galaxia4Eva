@@ -7,7 +7,12 @@
 6. http://datacolada.org/toc
     1. https://www.science.org/content/article/fraudulent-data-set-raise-questions-about-superstar-honesty-researcher
 7. https://doi.org/10.3390/jintelligence11070141
-8. 
+8. https://en.wikipedia.org/wiki/Fisher_information_metric
+9. https://psycnet.apa.org/record/1995-12080-001
+10. 
+
+# p-hacking
+1. https://datacolada.org/109
 
 # Books
 1. [Elements of Statistical inference][eosi]
