@@ -26,7 +26,9 @@
 8. [30 min of PURE GENIUS - Alan Watts on "The Gateless Gate" (RARE) - YouTube](https://youtu.be/N-Mav6EKxOc)
 9. https://www.youtube.com/live/N0sR0WFxx4Y?feature=share
 10. https://youtu.be/q0GozF9oK2A
-11. 
+11. https://youtu.be/loay2imHq5E
+12. https://youtu.be/uc8ceRYTbtU
+13. 
 
 ## Twitter
 > - Network panel %s/TweetDetail/
@@ -72,7 +74,26 @@
 39. https://twitter.com/shouldhaveanima/status/1680905456389361671?s=20
 40. https://twitter.com/Figensport/status/1680293886307041280?s=20
 41. https://twitter.com/Rainmaker1973/status/1680159368950546433?s=20
-42. 
+42. https://twitter.com/xXshink3nXx/status/1681405224051720203?s=20
+43. https://twitter.com/ZeroZhvk/status/1681340641735847938?s=20
+44. https://twitter.com/tvtoront/status/1681270756028608516?s=20
+45. https://twitter.com/cheerfulclips/status/1682106600398659585?s=20
+46. https://twitter.com/nocontextfooty/status/1681763281965293568?s=20
+47. https://twitter.com/Rainmaker1973/status/1681630400790032384?s=20
+48. https://twitter.com/goth600/status/1681880103150813188?s=20
+49. https://twitter.com/HowThingsWork_/status/1683241828236009476?s=20
+50. https://twitter.com/stephen_wolfram/status/1682440598656278528?s=20
+51. https://twitter.com/HumansNoContext/status/1683409229619634176?s=20
+52. https://twitter.com/buitengebieden/status/1685021499357380608?s=20
+53. https://twitter.com/OGdukeneurosurg/status/1686830281322295297?s=20
+54. https://twitter.com/OGdukeneurosurg/status/1687852090024931328?s=20
+55. https://twitter.com/OGdukeneurosurg/status/1687822515748446208?s=20
+56. https://twitter.com/awkwardgoogle/status/1687659697736994816?s=20
+57. https://twitter.com/OGdukeneurosurg/status/1687598373451288576?s=20
+58. https://twitter.com/nocontextfooty/status/1691198844296409088?s=20
+59. https://twitter.com/Enezator/status/1691902654274740372?s=20
+60. https://twitter.com/shouldhaveanima/status/1693241476493553704?s=20
+61. 
 
 # Reddit
 1. https://www.reddit.com/r/YUROP/comments/13py38s/the_greeks_are_not_happy/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&utm_content=1&utm_term=15
