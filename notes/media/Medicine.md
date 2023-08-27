@@ -93,4 +93,6 @@
 93. https://twitter.com/OGdukeneurosurg/status/1692261666992349649?s=20
 94. https://twitter.com/OGdukeneurosurg/status/1692875460609270041?s=20
 95. https://twitter.com/OGdukeneurosurg/status/1692971247712301143?s=20
-96. 
+96. https://twitter.com/Homoplasm8/status/1694692687503376707?s=20
+97. https://twitter.com/OGdukeneurosurg/status/1695411338640597483?s=20
+98. 
