@@ -68,6 +68,7 @@
     1. `port search git-delta`
     2. `port search git-latexdiff`
 5. `port search reposurgeon`
+6. multissh: https://gist.github.com/jexchan/2351996
 # vim
 #vim
 1. [Using coc extensions · neoclide/coc.nvim Wiki · GitHub](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions)
