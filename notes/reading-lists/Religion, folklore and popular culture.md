@@ -95,4 +95,6 @@
 72. https://www.quantamagazine.org/can-a-fungus-really-take-over-our-brains-20230223/
 73. https://www.erowid.org/library/books_online/tihkal/tihkal.shtml
 74. https://www.biointelligence-explosion.com
-75. 
+75. https://ourworldindata.org/wild-mammals-birds-biomass
+76. https://csmfht.substack.com/p/why-rome-classics-and-alt-right-part?utm_source=substack&utm_medium=email
+77. 

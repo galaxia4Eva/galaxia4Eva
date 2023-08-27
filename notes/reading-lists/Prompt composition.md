@@ -69,7 +69,11 @@
 64. https://doi.org/10.48550/arXiv.2304.03442
 65. https://doi.org/10.48550/arXiv.1410.0369
 66. https://doi.org/10.48550/arXiv.2308.08708
-67. 
+67. https://doi.org/10.48550/arXiv.2304.14094
+68. https://en.wikipedia.org/wiki/Hindsight_bias
+    1. [https://doi.org/10.1037/a0029461](https://psycnet.apa.org/doi/10.1037/a0029461)
+69. https://youtu.be/7qhwWJ1IyZc?si=oiXqPCcmpbloUbuV
+70. 
 
 # Mode collapse
 1. [Visualizing mode collapse with block multiverse plots :: — Moire (generative.ink)](https://generative.ink/plots/block-multiverse-mode-collapse/)

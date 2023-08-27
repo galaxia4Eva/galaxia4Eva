@@ -9,7 +9,9 @@
 7. https://doi.org/10.3390/jintelligence11070141
 8. https://en.wikipedia.org/wiki/Fisher_information_metric
 9. https://psycnet.apa.org/record/1995-12080-001
-10. 
+10. https://doi.org/10.1371/journal.pgen.1009590
+    1. https://doi.org/10.1038/s41576-018-0020-3
+11. 
 
 # p-hacking
 1. https://datacolada.org/109

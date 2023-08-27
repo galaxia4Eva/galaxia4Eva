@@ -4,6 +4,15 @@
 1. [Linux Containers - LXD - Introduction](https://linuxcontainers.org/lxd/introduction/)
 2. [Vagrant by HashiCorp](https://www.vagrantup.com/)
 3. [GitHub - moby/moby: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems](https://github.com/moby/moby)
+4. https://github.com/containers/buildah
+5. https://github.com/containers/podman
+6. https://www.redhat.com/sysadmin/install-openshift-local
+    1. https://www.redhat.com/sysadmin/build-deploy-application-openshift
+    2. https://www.redhat.com/sysadmin/ansible-podman-container-deployment
+    3. https://www.redhat.com/sysadmin/low-cost-openshift-cluster
+    4. https://www.redhat.com/sysadmin/podman-nginx-multidomain-applications
+    5. https://www.redhat.com/sysadmin/run-containers-mac-podman
+    6. https://www.redhat.com/sysadmin/ansible-vault-bash-encrypt
 
 # macOS
 Про рідну підтримку віртуалізації в OSX можна почитати  в [developer.apple:hypervisor]
@@ -11,7 +20,11 @@
 2. [GitHub - moby/vpnkit: A toolkit for embedding VPN capabilities in your application](https://github.com/moby/vpnkit)
 3. [GitHub - JackieXie168/libbsd: This library provides useful functions commonly found on BSD systems, and lacking on others like GNU systems, thus making it easier to port projects with strong BSD origins, without needing to embed the same code over and over again on each project.](https://github.com/JackieXie168/libbsd)
 4. https://en.wikipedia.org/wiki/AArch64
-5. 
+5. https://github.com/containers/podman-desktop
+    1. https://github.com/lima-vm/lima
+    2. https://github.com/abiosoft/colima
+    3. https://rancherdesktop.io
+6. https://gist.github.com/aserhat/91c1d5633d395d45dc8e5ab12c6b4767
 
 # Distributed
 1. [GitHub - aurae-runtime/aurae: Distributed systems runtime daemon written in Rust.](https://github.com/aurae-runtime/aurae)

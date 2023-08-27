@@ -45,4 +45,5 @@
 40. https://doi.org/10.31234/osf.io/jhrp6
 41. https://doi.org/10.31234/osf.io/6tgau
 42. https://news.berkeley.edu/2023/08/15/releases-20230811
-43. 
+43. https://onlinelibrary.wiley.com/doi/10.1111/ijsa.12450
+44. 

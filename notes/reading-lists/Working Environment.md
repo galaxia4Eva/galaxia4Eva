@@ -62,10 +62,12 @@
 # git
 1. [GitHub - stefanha/git-publish: Prepare and store patch revisions as git tags](https://github.com/stefanha/git-publish)
 2. https://github.com/nektos/act
-3. git-diff
+3. lazygit
+    1. https://www.youtube.com/watch?v=CPLdltN7wgE
+4. git-diff
     1. `port search git-delta`
     2. `port search git-latexdiff`
-4. `port search reposurgeon`
+5. `port search reposurgeon`
 # vim
 #vim
 1. [Using coc extensions · neoclide/coc.nvim Wiki · GitHub](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions)

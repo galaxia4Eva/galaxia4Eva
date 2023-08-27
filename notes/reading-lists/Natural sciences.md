@@ -238,7 +238,12 @@
 228. https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/
 229. https://doi.org/10.1137/22M1507565
 230. https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/
-231. 
+231. https://www.quantamagazine.org/quaking-giants-might-solve-the-mysteries-of-stellar-magnetism-20230821/
+232. https://www.quantamagazine.org/an-old-conjecture-falls-making-spheres-a-lot-more-complicated-20230822/
+233. https://www.quantamagazine.org/what-a-contest-of-consciousness-theories-really-proved-20230824/
+234. https://doi.org/10.1016/j.rser.2023.113358
+    1. https://youtu.be/DqOzsqT9QNQ?si=n-GhBV3dFdU_6UNE
+235. 
 
 # Mathematics
 1. https://www.whitman.edu/mathematics/multivariable/multivariable.pdf
@@ -260,7 +265,10 @@
 1. [Mystery of Entropy FINALLY Solved After 50 Years? (STEPHEN WOLFRAM) - YouTube](https://youtu.be/dkpDjd2nHgo)
 2. 
 
-# Type theory
+# CompSci
+## Operations research
+1. https://cs.adelaide.edu.au/~zbyszek/Papers/TTP.pdf
+## Type theory
 1. [Type theory - Wikipedia](https://en.wikipedia.org/wiki/Type_theory)
 2. [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system)
 3. https://us.metamath.org/downloads/metamath.pdf

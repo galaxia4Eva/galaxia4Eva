@@ -162,7 +162,9 @@
     3. https://simons.berkeley.edu/workshops/large-language-models-transformers
 145. https://openreview.net/forum?id=BZ5a1r-kVsf
     1. https://acrobat.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3A8c5260f5-8959-3f11-bb3b-befb3bc65f13
-146. 
+146. https://doi.org/10.48550/arXiv.2308.07037
+147. https://doi.org/10.48550/arXiv.2307.04721
+148. http://starai.cs.ucla.edu/papers/ZhangIJCAI23.pdf
 
 # Tutorials and courses
 1. [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)
