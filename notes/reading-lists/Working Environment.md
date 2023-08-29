@@ -2,20 +2,23 @@
 # Triage
 1. https://twitter.com/amasad/status/1663332051582619648?s=12
 2. https://twitter.com/lisperati/status/1671304178705248256?s=20
-3. 
+
 # tty
+1. https://github.com/kovidgoyal/kitty
+
+# cli
 1. [fish shell](https://fishshell.com/)
-2. [GitHub - jorgebucaran/fisher: A plugin manager for Fish](https://github.com/jorgebucaran/fisher)
+2. https://github.com/elves/elvish
+3. [GitHub - jorgebucaran/fisher: A plugin manager for Fish](https://github.com/jorgebucaran/fisher)
 	1. [GitHub - jorgebucaran/awsm.fish: A curation of prompts, plugins & other Fish treasures 🐚💎](https://github.com/jorgebucaran/awsm.fish)
 	2. [GitHub - jorgebucaran/hydro: Ultra-pure, lag-free prompt with async Git status—just for Fish](https://github.com/jorgebucaran/hydro)
-3. [GitHub - starship/starship: ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!](https://github.com/starship/starship)
-4. [GitHub - julienXX/terminal-notifier: Send User Notifications on macOS from the command-line.](https://github.com/julienXX/terminal-notifier)
-5. [ogham (Benjamin Sago) · GitHub](https://github.com/ogham)
-6. https://github.com/agarrharr/awesome-cli-apps
-7. https://github.com/lsd-rs/lsd
-8. https://charm.sh/apps/
-9. https://github.com/kovidgoyal/kitty
-10. diff
+4. [GitHub - starship/starship: ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!](https://github.com/starship/starship)
+5. [GitHub - julienXX/terminal-notifier: Send User Notifications on macOS from the command-line.](https://github.com/julienXX/terminal-notifier)
+6. [ogham (Benjamin Sago) · GitHub](https://github.com/ogham)
+7. https://github.com/agarrharr/awesome-cli-apps
+8. https://github.com/lsd-rs/lsd
+9. https://charm.sh/apps/
+11. diff
     - [ ] `port search dhex`
     - [ ] `port search diffoscope`
     - [ ] `port search diffutils`

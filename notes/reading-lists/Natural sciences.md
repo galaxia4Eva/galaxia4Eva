@@ -243,7 +243,7 @@
 233. https://www.quantamagazine.org/what-a-contest-of-consciousness-theories-really-proved-20230824/
 234. https://doi.org/10.1016/j.rser.2023.113358
     1. https://youtu.be/DqOzsqT9QNQ?si=n-GhBV3dFdU_6UNE
-235. 
+235. https://www.quantamagazine.org/recounting-the-history-of-maths-transcendental-numbers-20230627/
 
 # Mathematics
 1. https://www.whitman.edu/mathematics/multivariable/multivariable.pdf
