@@ -74,6 +74,7 @@
 5. `port search reposurgeon`
 6. multissh: https://gist.github.com/jexchan/2351996
 7. https://lib.rs/crates/gitoxide
+8. https://github.com/go-gitea/gitea
 # vim
 #vim
 1. [Using coc extensions · neoclide/coc.nvim Wiki · GitHub](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions)
