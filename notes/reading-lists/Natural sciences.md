@@ -244,6 +244,7 @@
 234. https://doi.org/10.1016/j.rser.2023.113358
     1. https://youtu.be/DqOzsqT9QNQ?si=n-GhBV3dFdU_6UNE
 235. https://www.quantamagazine.org/recounting-the-history-of-maths-transcendental-numbers-20230627/
+234. https://en.m.wikipedia.org/wiki/Levi_graph
 
 # Mathematics
 1. https://www.whitman.edu/mathematics/multivariable/multivariable.pdf
