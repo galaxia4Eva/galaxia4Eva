@@ -2,6 +2,7 @@
 # Triage
 1. https://twitter.com/amasad/status/1663332051582619648?s=12
 2. https://twitter.com/lisperati/status/1671304178705248256?s=20
+3. https://colemak.com/FAQ
 
 # tty
 1. https://github.com/kovidgoyal/kitty
@@ -72,6 +73,7 @@
     2. `port search git-latexdiff`
 5. `port search reposurgeon`
 6. multissh: https://gist.github.com/jexchan/2351996
+7. https://lib.rs/crates/gitoxide
 # vim
 #vim
 1. [Using coc extensions · neoclide/coc.nvim Wiki · GitHub](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions)
