@@ -1,4 +1,4 @@
-\#reading-list #nlp #transformers #triage
+#reading-list #nlp #transformers #triage
 # News
 1. https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-puts-pressure-on-google-and
 # Triage
@@ -165,6 +165,8 @@
 146. https://doi.org/10.48550/arXiv.2308.07037
 147. https://doi.org/10.48550/arXiv.2307.04721
 148. http://starai.cs.ucla.edu/papers/ZhangIJCAI23.pdf
+149. https://doi.org/10.48550/arXiv.2302.12469
+150. 
 
 # Tutorials and courses
 1. [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)

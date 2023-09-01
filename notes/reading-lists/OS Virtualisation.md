@@ -13,6 +13,13 @@
     4. https://www.redhat.com/sysadmin/podman-nginx-multidomain-applications
     5. https://www.redhat.com/sysadmin/run-containers-mac-podman
     6. https://www.redhat.com/sysadmin/ansible-vault-bash-encrypt
+7. https://stackoverflow.com/questions/41645665/how-containerd-compares-to-runc
+8. https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/building_running_and_managing_containers/index
+9. https://phoenixnap.com/kb/docker-vs-containerd-vs-cri-o
+    1. https://gvisor.dev/docs/
+    2. https://github.com/containers/crun
+    3. https://github.com/firecracker-microvm/firecracker-containerd
+10. 
 
 # macOS
 Про рідну підтримку віртуалізації в OSX можна почитати  в [developer.apple:hypervisor]
@@ -25,6 +32,7 @@
     2. https://github.com/abiosoft/colima
     3. https://rancherdesktop.io
 6. https://gist.github.com/aserhat/91c1d5633d395d45dc8e5ab12c6b4767
+7. https://github.com/opencontainers/runc/issues/1733
 
 # Distributed
 1. [GitHub - aurae-runtime/aurae: Distributed systems runtime daemon written in Rust.](https://github.com/aurae-runtime/aurae)
@@ -37,6 +45,8 @@
     1. [GitHub - axboe/liburing](https://github.com/axboe/liburing)
 2. [GitHub - linuxkit/linuxkit: A toolkit for building secure, portable and lean operating systems for containers](https://github.com/linuxkit/linuxkit)
 3. https://www.ieee-security.org/TC/SP2014/papers/Not-So-RandomNumbersinVirtualizedLinuxandtheWhirlwindRNG.pdf
+4. https://busybox.net/about.html
+5. 
 
 # UNIX
 1. [GitHub - mirage/mirage: MirageOS is a library operating system that constructs unikernels](https://github.com/mirage/mirage)
@@ -45,6 +55,7 @@
 4. [Department of Computer Science and Technology: Temporally Enhanced Security Logic Assertions (TESLA)](https://www.cl.cam.ac.uk/research/security/ctsrd/tesla/)
 5. https://wiki.lustre.org/Main_Page
 6. https://superuser.com/questions/945910/how-to-select-paravirtualization-interface-in-virtualbox
+7. 
 
 # Hypervise macOS from Linux on Mac platform
 1. https://kubadownload.com/news/setting-up-arch-linux-on-your-macbook/

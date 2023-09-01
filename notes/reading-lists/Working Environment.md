@@ -77,14 +77,15 @@
 8. https://github.com/go-gitea/gitea
 # vim
 #vim
-1. [Using coc extensions · neoclide/coc.nvim Wiki · GitHub](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions)
+1. https://learnvimscriptthehardway.stevelosh.com/chapters/10.html
+2. [Using coc extensions · neoclide/coc.nvim Wiki · GitHub](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions)
 	1. [Completion with sources · neoclide/coc.nvim Wiki · GitHub](https://github.com/neoclide/coc.nvim/wiki/Completion-with-sources#more-sources)
 	2. [Create coc.nvim extension to improve vim experience | by chemzqm | Medium](https://medium.com/@chemzqm/create-coc-nvim-extension-to-improve-vim-experience-4461df269173)
 	3. [How to write a coc.nvim extension | Sam's world](https://samroeca.com/coc-plugin.html)
-2. [GitHub - lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.](https://github.com/lervag/vimtex)
-3. https://github.com/helix-editor/helix
-4. `port search nvimpager`
-5. https://github.com/macvim-dev/macvim
+3. [GitHub - lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.](https://github.com/lervag/vimtex)
+4. https://github.com/helix-editor/helix
+5. `port search nvimpager`
+6. https://github.com/macvim-dev/macvim
 ## Interesting Plugins
 1. https://github.com/neovim/nvim-lspconfig
 2. https://github.com/puremourning/vimspector
