@@ -97,3 +97,6 @@
 97. https://twitter.com/OGdukeneurosurg/status/1695411338640597483?s=20
 98. https://twitter.com/OGdukeneurosurg/status/1696524441919041683?s=20
 99. https://twitter.com/OGdukeneurosurg/status/1696836902547050841?s=20
+100. https://twitter.com/OGdukeneurosurg/status/1696969707901890926?s=20
+101. https://twitter.com/OGdukeneurosurg/status/1697353507999727898?s=20
+102. 
