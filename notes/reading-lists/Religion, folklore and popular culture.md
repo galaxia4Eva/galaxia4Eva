@@ -14,6 +14,9 @@
 4. https://www.crosswire.org/sword/index.jsp
 5. http://www.voka.at
 6. http://htck.github.io/bayeux/#!/%23/
+7. https://tyzhden.ua/dorosli-multfilmy/
+8. https://twitter.com/ygnatyuk_/status/1697883309571768354?s=20
+9. 
 
 # Triage
 1. https://en.m.wikipedia.org/wiki/Let_It_Bleed
