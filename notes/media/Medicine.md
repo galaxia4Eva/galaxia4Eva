@@ -99,4 +99,12 @@
 99. https://twitter.com/OGdukeneurosurg/status/1696836902547050841?s=20
 100. https://twitter.com/OGdukeneurosurg/status/1696969707901890926?s=20
 101. https://twitter.com/OGdukeneurosurg/status/1697353507999727898?s=20
-102. 
+102. https://twitter.com/OGdukeneurosurg/status/1697716409629819339?s=20
+103. https://twitter.com/OGdukeneurosurg/status/1697761870193545349?s=20
+104. https://twitter.com/OGdukeneurosurg/status/1697720896109121689?s=20
+105. https://twitter.com/OGdukeneurosurg/status/1698134909540266352?s=20
+106. https://twitter.com/OGdukeneurosurg/status/1698149061558214828?s=20
+107. https://twitter.com/OGdukeneurosurg/status/1698022438150250781?s=20
+108. https://twitter.com/OGdukeneurosurg/status/1698075689201582587?s=20
+109. https://twitter.com/OGdukeneurosurg/status/1698797139399258159?s=20
+110. 

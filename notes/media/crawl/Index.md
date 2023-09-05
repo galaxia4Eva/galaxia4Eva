@@ -93,7 +93,14 @@
 58. https://twitter.com/nocontextfooty/status/1691198844296409088?s=20
 59. https://twitter.com/Enezator/status/1691902654274740372?s=20
 60. https://twitter.com/shouldhaveanima/status/1693241476493553704?s=20
-61. 
+61. https://twitter.com/Rainmaker1973/status/1697875304356704594?s=20
+62. https://twitter.com/catshouldnt/status/1697893157445513456?s=20
+63. https://twitter.com/Rainmaker1973/status/1698062705599402200?s=20
+64. https://twitter.com/ShouldHaveCat/status/1698112985556754904?s=20
+65. https://twitter.com/slava__bobrov/status/1697938361195864247?s=20
+66. https://twitter.com/qikipedia/status/1698002849941143557?s=20
+67. https://twitter.com/olunja_kizunja/status/1698300919853519015?s=20
+68. 
 
 # Reddit
 1. https://www.reddit.com/r/YUROP/comments/13py38s/the_greeks_are_not_happy/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&utm_content=1&utm_term=15
