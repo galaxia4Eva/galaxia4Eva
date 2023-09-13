@@ -16,7 +16,8 @@
 6. http://htck.github.io/bayeux/#!/%23/
 7. https://tyzhden.ua/dorosli-multfilmy/
 8. https://twitter.com/ygnatyuk_/status/1697883309571768354?s=20
-9. 
+9. https://www.goodreads.com/book/show/17280561
+10. 
 
 # Triage
 1. https://en.m.wikipedia.org/wiki/Let_It_Bleed
