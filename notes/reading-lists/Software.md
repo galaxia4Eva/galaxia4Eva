@@ -98,7 +98,8 @@
 10. https://nix.dev/tutorials/first-steps/
 11. https://guix.gnu.org/manual/devel/en/html_node/Invoking-guix-shell.html
 12. https://bun.sh
-13. 
+13. https://github.com/kchanqvq/CSP
+14. https://github.com/eudoxia0/cmacro
 
 # Videos
 1. [In-Network Machine Learning for Market Prediction Using Limit Order Books](https://www.cl.cam.ac.uk/research/srg/seminars/videos/2023-05-18.mp4)
