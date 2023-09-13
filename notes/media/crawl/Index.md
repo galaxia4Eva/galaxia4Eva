@@ -5,6 +5,8 @@
 # Processing
 1. https://forum.videohelp.com/threads/383986-Best-Solutions-to-Encrypt-Video
 2. `port search mp3unicode`
+3. https://superuser.com/a/556031
+4. 
 
 # Crawlers
 1. https://github.com/ytdl-org/youtube-dl
