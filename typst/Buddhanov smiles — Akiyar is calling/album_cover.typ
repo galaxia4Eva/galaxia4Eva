@@ -3,13 +3,11 @@
 #set page(width:941pt, height:941pt, margin: 0pt, background: image("media/album_cover.jpeg"))
 #stack(dir:ttb)[
 #v(42pt)
-#align(center)[ #text(font:"Samarkan", fill:rgb(214,163,50).darken(14%))[Buddhanov Smiles] ]
+#align(center)[ #text(font:"Samarkan", fill:rgb(255, 215, 0))[Buddha'nov smiles] ]
 #v(42pt)
 #v(42pt)
 #v(42pt)
 #v(42pt)
 #v(42pt)
-#v(42pt)
-#v(42pt)
-#align(center)[ #text(font:"Bulan Ramadhan", fill:rgb(0,49,83).lighten(7%))[Axmedzhit is Calling] ]
+#align(center)[ #text(font:"Bulan Ramadhan", fill:rgb(0, 87, 183))[Akiyar is callinG] ]
 ]
