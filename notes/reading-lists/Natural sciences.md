@@ -245,6 +245,9 @@
     1. https://youtu.be/DqOzsqT9QNQ?si=n-GhBV3dFdU_6UNE
 235. https://www.quantamagazine.org/recounting-the-history-of-maths-transcendental-numbers-20230627/
 234. https://en.m.wikipedia.org/wiki/Levi_graph
+235. https://www.quantamagazine.org/physicists-observe-unobservable-quantum-phase-transition-20230911/
+236. https://www.quantamagazine.org/a-tower-of-conjectures-that-rests-upon-a-needle-20230912/
+237. 
 
 # Mathematics
 1. https://www.whitman.edu/mathematics/multivariable/multivariable.pdf
