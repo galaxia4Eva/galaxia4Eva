@@ -107,4 +107,5 @@
 107. https://twitter.com/OGdukeneurosurg/status/1698022438150250781?s=20
 108. https://twitter.com/OGdukeneurosurg/status/1698075689201582587?s=20
 109. https://twitter.com/OGdukeneurosurg/status/1698797139399258159?s=20
-110. 
+110. https://x.com/OGdukeneurosurg/status/1702829162333864055?s=20
+111. 

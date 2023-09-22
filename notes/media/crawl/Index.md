@@ -14,7 +14,8 @@
 3. https://github.com/MrBrax/LiveStreamDVR
 4. https://github.com/streamlink/streamlink
 5. https://github.com/eneserdogan/trino
-6. 
+6. https://superuser.com/q/1661048
+7. 
 
 # Media triage
 ## Youtube
@@ -102,7 +103,9 @@
 65. https://twitter.com/slava__bobrov/status/1697938361195864247?s=20
 66. https://twitter.com/qikipedia/status/1698002849941143557?s=20
 67. https://twitter.com/olunja_kizunja/status/1698300919853519015?s=20
-68. 
+68. https://x.com/contextdogs/status/1702336408109891663?s=20
+69. https://x.com/TheFigen_/status/1703032602993541535?s=20
+70. https://x.com/LongFormMath/status/1703155340320387481?s=20
 
 # Reddit
 1. https://www.reddit.com/r/YUROP/comments/13py38s/the_greeks_are_not_happy/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&utm_content=1&utm_term=15
