@@ -108,4 +108,10 @@
 108. https://twitter.com/OGdukeneurosurg/status/1698075689201582587?s=20
 109. https://twitter.com/OGdukeneurosurg/status/1698797139399258159?s=20
 110. https://x.com/OGdukeneurosurg/status/1702829162333864055?s=20
-111. 
+111. https://x.com/OGdukeneurosurg/status/1706796153101324638?s=20
+112. https://x.com/OGdukeneurosurg/status/1707456631502405815?s=20
+113. https://x.com/chrost_hugo/status/1709864756071501950?s=20
+114. https://x.com/chrost_hugo/status/1710580975602688357?s=20
+115. https://x.com/Dovzhenko_C/status/1711022240706216322?s=20
+116. https://youtu.be/X_Mmfw3GSi8?si=ZxAwSm__Zf853uC9
+117. 

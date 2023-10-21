@@ -8,6 +8,8 @@
 7. [GitHub - typst/typst: A new markup-based typesetting system that is powerful and easy to learn.](https://github.com/typst/typst)
 8. [GitHub - amaxwell/tlutility: TeX Live Utility, a Mac OS GUI for the TeX Live Manager](https://github.com/amaxwell/tlutility)
 9. https://twitter.com/scientistswrite/status/1684939984267030528?s=20
+10. https://www.edwardfrenkel.com
+11. 
 
 # meta-irony
 1. https://jabde.com

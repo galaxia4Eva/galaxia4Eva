@@ -19,7 +19,22 @@
     1. https://gvisor.dev/docs/
     2. https://github.com/containers/crun
     3. https://github.com/firecracker-microvm/firecracker-containerd
-10. 
+
+# Linux networking
+1. https://youtu.be/x1npPrzyKfs?si=laAtX08dOUQ8yK2n
+2. https://youtu.be/InZVNuKY5GY?si=OvLhtHqcEtuX2YNY
+3. https://youtu.be/EnAZB8GI97c?si=Gg4NnJrHTc3O98X2
+    1. https://youtu.be/5WNEpE1vLvc?si=y288bZE20O2PgBVp
+5. https://www.youtube.com/watch?v=MpjlWt7fvrw&t=15s
+6. https://www.youtube.com/watch?v=0Omvgd7Hg1I
+7. https://www.youtube.com/watch?v=NZlbyoHgYjk&list=PL2TXDotVKyDCuM7-MShb_9y2g6LQjVDxw
+8. https://www.youtube.com/watch?v=KobYWL1LtW4
+9. https://www.youtube.com/watch?v=z-ITjDQT7DU
+10. https://www.youtube.com/watch?v=tq9ng_Nz9j8
+11. https://www.youtube.com/watch?v=_WgUwUf1d34
+12. https://www.youtube.com/watch?v=73nB9-HYbAI
+13. https://youtu.be/biLvsbn3gN4?si=86a5BZ-ZL-aZXT3I
+14. 
 
 # macOS
 Про рідну підтримку віртуалізації в OSX можна почитати  в [developer.apple:hypervisor]
@@ -33,6 +48,11 @@
     3. https://rancherdesktop.io
 6. https://gist.github.com/aserhat/91c1d5633d395d45dc8e5ab12c6b4767
 7. https://github.com/opencontainers/runc/issues/1733
+8. https://a.co/d/1vh0tym
+
+## Darwin  Networking
+1. https://newosxbook.com/bonus/vol1ch16.html
+2. 
 
 # Distributed
 1. [GitHub - aurae-runtime/aurae: Distributed systems runtime daemon written in Rust.](https://github.com/aurae-runtime/aurae)

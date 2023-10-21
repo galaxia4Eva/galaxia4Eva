@@ -11,7 +11,7 @@ online: gather.town
 6. https://www.amazon.com/Algorithm-Design-Haskell-Richard-Bird-ebook/dp/B08BKXJ1N3?ref_=ast_author_mpb
 7. https://www.amazon.com/Algorithm-Design-Haskell-Richard-Bird-ebook/dp/B08BKXJ1N3?ref_=ast_author_mpb
 8. https://www.cambridge.org/core/books/joy-of-abstraction/00D9AFD3046A406CB85D1AFF5450E657
-9. https://julesh.com/the-art-of-string-diagrams/
+9. https://julesh.com/the-art-of-string-diagrams/ **!**
 10. https://www.researchgate.net/publication/340637947_An_Introduction_to_Residuality_Theory_Software_Design_Heuristics_for_Complex_Systems
 11. https://queue.acm.org/detail.cfm?id=3380777
 12. https://en.wikipedia.org/wiki/TRIZ
@@ -21,4 +21,7 @@ online: gather.town
 2. https://www.amazon.de/gp/product/1529050863/ref=pe_1040631_845698371_em_1p_1_lm
 3. https://huggingface.co/papers/2309.10668
 4. https://datatracker.ietf.org/doc/rfc9114/
-5. 
+
+# Tangent
+1. https://www.liberatingstructures.com
+2. 

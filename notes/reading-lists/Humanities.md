@@ -47,4 +47,5 @@
 42. [# Brain recordings capture musicality of speech — with help from Pink Floyd](https://news.berkeley.edu/2023/08/15/releases-20230811)
 43. [# Can we playfully measure cognitive ability? Construct-related validity and applicant reactions](https://onlinelibrary.wiley.com/doi/10.1111/ijsa.12450)
 44. [# Toward Parsimony in Bias Research: A Proposed Common Framework of Belief-Consistent Information Processing for a Set of Biases](https://journals.sagepub.com/doi/10.1177/17456916221148147)
-45. 
+45. https://www.youtube.com/live/EIb5-LJbcIM?si=mqN3sszUnZWP59eG
+    1. https://www.youtube.com/live/XFILvlrXCAc?si=xgpqTsK-gIJBnnDi

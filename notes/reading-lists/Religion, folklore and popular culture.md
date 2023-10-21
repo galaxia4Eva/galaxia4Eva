@@ -17,7 +17,9 @@
 7. https://tyzhden.ua/dorosli-multfilmy/
 8. https://twitter.com/ygnatyuk_/status/1697883309571768354?s=20
 9. https://www.goodreads.com/book/show/17280561
-10. 
+10. https://www.krytyka.com/ua/articles/pershyi-sezon-skasuvannia-rosiiskoi-kultury-abo-v-chomu-milan-kundera-mav-ratsiiu-shchodo-dostoievskoho
+11. https://youtu.be/NAFxyew6ueE?si=D5-wUjrdWA6UwstE
+12. 
 
 # Triage
 1. https://en.m.wikipedia.org/wiki/Let_It_Bleed
@@ -101,4 +103,5 @@
 74. https://www.biointelligence-explosion.com
 75. https://ourworldindata.org/wild-mammals-birds-biomass
 76. https://csmfht.substack.com/p/why-rome-classics-and-alt-right-part?utm_source=substack&utm_medium=email
-77. 
+77. https://francesco215.github.io/Language_CA/
+78. 

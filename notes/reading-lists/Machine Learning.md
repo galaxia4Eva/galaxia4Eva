@@ -167,7 +167,8 @@
 148. http://starai.cs.ucla.edu/papers/ZhangIJCAI23.pdf
 149. https://doi.org/10.48550/arXiv.2302.12469
 150. https://ieeexplore.ieee.org/document/1556108/citations?tabFilter=papers#citations
-151. 
+151. https://doi.org/10.48550/arXiv.2310.11453
+152. 
 
 # Tutorials and courses
 1. [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)

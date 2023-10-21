@@ -31,7 +31,7 @@
 10. https://youtu.be/q0GozF9oK2A
 11. https://youtu.be/loay2imHq5E
 12. https://youtu.be/uc8ceRYTbtU
-13. 
+13. https://youtu.be/X_Mmfw3GSi8?si=l9IaluoA1gaxV93z - This machine may hold secrets to Time
 
 ## Twitter
 > - Network panel %s/TweetDetail/
@@ -106,6 +106,8 @@
 68. https://x.com/contextdogs/status/1702336408109891663?s=20
 69. https://x.com/TheFigen_/status/1703032602993541535?s=20
 70. https://x.com/LongFormMath/status/1703155340320387481?s=20
+71. https://x.com/AMAZlNGNATURE/status/1705638155615953173?s=20
+72. https://x.com/matthen2/status/1714328216645550575?s=20
 
 # Reddit
 1. https://www.reddit.com/r/YUROP/comments/13py38s/the_greeks_are_not_happy/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&utm_content=1&utm_term=15

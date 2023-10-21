@@ -19,6 +19,8 @@
 
 # Books
 1. [Elements of Statistical inference][eosi]
+2. https://www.coursera.org/learn/quantitative-methods?authMode=login#modules
+3. 
 
 # Code
 1. julialang

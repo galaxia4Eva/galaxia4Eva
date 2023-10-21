@@ -73,7 +73,12 @@
 68. https://en.wikipedia.org/wiki/Hindsight_bias
     1. [https://doi.org/10.1037/a0029461](https://psycnet.apa.org/doi/10.1037/a0029461)
 69. https://youtu.be/7qhwWJ1IyZc?si=oiXqPCcmpbloUbuV
-70. 
+70. https://doi.org/10.48550/arXiv.2310.02238
+71. [“What's wrong with LLMs and what we should be building instead” - Tom Dietterich - #VSCF2023 - YouTube](https://youtu.be/cEyHsMzbZBs?si=KHO2er5QSepYOd7A)
+72. https://x.com/bryced8/status/1710140618641653924?s=20
+73. https://www.sciencedirect.com/science/article/abs/pii/S0004370223001777
+74. https://doi.org/10.48550/arXiv.2310.10348
+75. 
 
 # Mode collapse
 1. [Visualizing mode collapse with block multiverse plots :: — Moire (generative.ink)](https://generative.ink/plots/block-multiverse-mode-collapse/)

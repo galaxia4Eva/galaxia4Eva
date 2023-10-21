@@ -100,6 +100,14 @@
 12. https://bun.sh
 13. https://github.com/kchanqvq/CSP
 14. https://github.com/eudoxia0/cmacro
+15. APL
+    1. https://github.com/zoomlogo/vim-apl
+    2. https://github.com/baruchel/vim-notebook#configuring-gnu-apl
+    3. https://github.com/be5invis/Iosevka/tree/main
+    4. https://aplwiki.com/wiki/Fonts
+    5. https://github.com/abrudz/kbd
+    6. https://youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM&si=WhB9sSpBK9nU_yke
+    7. 
 
 # Videos
 1. [In-Network Machine Learning for Market Prediction Using Limit Order Books](https://www.cl.cam.ac.uk/research/srg/seminars/videos/2023-05-18.mp4)
