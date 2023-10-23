@@ -251,7 +251,9 @@
 238. https://www.quantamagazine.org/cryptographers-show-how-to-hide-invisible-backdoors-in-ai-20230302/
 239. https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/
 240. https://www.quantamagazine.org/thirty-years-later-a-speed-boost-for-quantum-factoring-20231017
-241. 
+241. https://www.quantamagazine.org/thirty-years-later-a-speed-boost-for-quantum-factoring-20231017
+242. https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/
+243. 
 
 # Mathematics
 1. https://www.whitman.edu/mathematics/multivariable/multivariable.pdf
@@ -268,7 +270,7 @@
 12. https://math.mit.edu/~shor/435-LN/
 13. https://doi.org/10.1017/CBO9780511618635
 14. https://www.youtube.com/watch?v=CnYPducycSU
-15. 
+15. https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/
 16. 
 
 # Wolfram

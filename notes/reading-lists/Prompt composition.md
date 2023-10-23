@@ -78,7 +78,9 @@
 72. https://x.com/bryced8/status/1710140618641653924?s=20
 73. https://www.sciencedirect.com/science/article/abs/pii/S0004370223001777
 74. https://doi.org/10.48550/arXiv.2310.10348
-75. 
+75. https://youtu.be/eYMD5e5wHUc?si=u-DOy5WMtGppfPCi
+76. https://x.com/goblinodds/status/1716245293589840351?s=20
+77. 
 
 # Mode collapse
 1. [Visualizing mode collapse with block multiverse plots :: — Moire (generative.ink)](https://generative.ink/plots/block-multiverse-mode-collapse/)

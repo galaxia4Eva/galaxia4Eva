@@ -188,7 +188,8 @@
 11. [Transcribing Audio locally in realtime with a OpenAI's Whisper Project - YouTube](https://youtu.be/RS5RSCRpasA)
 12. [Tree of Thoughts: Deliberate Problem Solving with Large Language Models (Full Paper Review) - YouTube](https://www.youtube.com/watch?v=ut5kp56wW_4)
 13. https://www.altdeep.ai/p/causalml
-14. 
+14. https://youtu.be/ec56a8wmfRk?si=kTZoerxXQJK66kRP
+15. 
 
 # Books
 1. https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
