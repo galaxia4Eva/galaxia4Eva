@@ -108,6 +108,10 @@
 70. https://x.com/LongFormMath/status/1703155340320387481?s=20
 71. https://x.com/AMAZlNGNATURE/status/1705638155615953173?s=20
 72. https://x.com/matthen2/status/1714328216645550575?s=20
+73. https://x.com/nocontextfooty/status/1716054290400219502?s=20
+74. https://x.com/gunsnrosesgirl3/status/1716105629121581526?s=20
+75. https://x.com/pickover/status/1716238382928412715?s=20
+76. 
 
 # Reddit
 1. https://www.reddit.com/r/YUROP/comments/13py38s/the_greeks_are_not_happy/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&utm_content=1&utm_term=15
