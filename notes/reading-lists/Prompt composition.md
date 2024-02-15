@@ -5,6 +5,8 @@
 4. https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
 5. https://thingsiwasntsupposedtotalkabout.com/2023/05/21/11-the-divine-comedy-inferno-purgatorio-and-paradiso-from-the-perspective-of-neural-annealing/
 6. https://en.m.wikipedia.org/wiki/Adaptive_resonance_theory
+    1. https://en.wikipedia.org/wiki/Stephen_Grossberg
+    2. 
 7. https://notacult.notion.site/Waluigi-chess-does-not-require-a-genius-ffc8cde5b4ce4a38a9c4905ff76dc187
 8. https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc
 9. https://thezvi.wordpress.com/2023/03/30/ai-5-level-one-bard/
@@ -80,7 +82,27 @@
 74. https://doi.org/10.48550/arXiv.2310.10348
 75. https://youtu.be/eYMD5e5wHUc?si=u-DOy5WMtGppfPCi
 76. https://x.com/goblinodds/status/1716245293589840351?s=20
-77. 
+77. https://x.com/thatroblennon/status/1717312851281654173?s=20
+78. https://doi.org/10.1126/science.adi8678
+79. https://x.com/Thom_Wolf/status/1717821614467739796?s=20
+80. [Shogtongue](https://x.com/JeremyNguyenPhD/status/1645428739885416451?s=20)
+81. https://makepixelsdance.github.io
+82. https://simulation-argument.com
+83. https://doi.org/10.48550/arXiv.2311.09766
+84. https://youtu.be/Y-nGDiRC_kU?si=OrUrYY0CEQ9HO8y9
+85. https://doi.org/10.48550/arXiv.2303.14310
+86. https://doi.org/10.1093/oxfordhb/9780197579329.013.22
+87. https://x.com/AnEmergentI/status/1730250649298710917?s=20
+88. https://arxiv.org/abs/2311.14097
+89. [arXiv:2307.03172](https://arxiv.org/abs/2307.03172)
+90. https://generative.ink/trees/phaedrus
+91. https://ar5iv.labs.arxiv.org/html/2310.20059
+92. https://arxiv.org/abs/2312.03746
+93. https://doi.org/10.48550/arXiv.2309.08632
+94. https://doi.org/10.48550/arXiv.2304.15004
+95. https://www.marktechpost.com/2023/12/25/can-machine-learning-predict-chaos-this-paper-from-ut-austin-performs-a-large-scale-comparison-of-modern-forecasting-methods-on-a-giant-dataset-of-135-chaotic-systems/?utm_source=pocket_saves
+96. https://generative.ink/posts/language-models-are-multiverse-generators/
+97. 
 
 # Mode collapse
 1. [Visualizing mode collapse with block multiverse plots :: — Moire (generative.ink)](https://generative.ink/plots/block-multiverse-mode-collapse/)
@@ -88,3 +110,7 @@
 3. [RLHF does not appear to differentially cause mode-collapse - LessWrong](https://www.lesswrong.com/posts/pjesEx526ngE6dnmr/rlhf-does-not-appear-to-differentially-cause-mode-collapse)
 4. [Mysteries of mode collapse - LessWrong](https://www.lesswrong.com/posts/t9svvNPNmFf5Qa3TA/mysteries-of-mode-collapse)
 5. [Mysteries of mode collapse - LessWrong](https://www.lesswrong.com/posts/t9svvNPNmFf5Qa3TA/mysteries-of-mode-collapse)
+
+# Safety
+1. https://www.alignment-workshop.com/nola-2023
+2. 

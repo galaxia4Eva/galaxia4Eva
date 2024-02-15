@@ -10,16 +10,28 @@
     1. https://esu.com.ua/search_articles.php?id=60959
     2. http://litopys.org.ua/rizne/maks_osn.htm
     3. https://archive.org/details/zapysky7/zapysky165/page/n75/mode/2up?view=theater
-3. https://alanwatts.com
-4. https://www.crosswire.org/sword/index.jsp
-5. http://www.voka.at
-6. http://htck.github.io/bayeux/#!/%23/
-7. https://tyzhden.ua/dorosli-multfilmy/
-8. https://twitter.com/ygnatyuk_/status/1697883309571768354?s=20
-9. https://www.goodreads.com/book/show/17280561
-10. https://www.krytyka.com/ua/articles/pershyi-sezon-skasuvannia-rosiiskoi-kultury-abo-v-chomu-milan-kundera-mav-ratsiiu-shchodo-dostoievskoho
-11. https://youtu.be/NAFxyew6ueE?si=D5-wUjrdWA6UwstE
-12. 
+3. https://vovk.archive.iananu.com/?fbclid=IwAR1s7wgZUPBFAbmAZwTVXhFPdKkXSVrnrL21Q5efJSYFG9FMgl7ycXiSgTk
+4. https://alanwatts.com
+5. https://www.crosswire.org/sword/index.jsp
+6. http://www.voka.at
+7. http://htck.github.io/bayeux/#!/%23/
+8. https://tyzhden.ua/dorosli-multfilmy/
+9. https://twitter.com/ygnatyuk_/status/1697883309571768354?s=20
+10. https://www.goodreads.com/book/show/17280561
+11. https://www.krytyka.com/ua/articles/pershyi-sezon-skasuvannia-rosiiskoi-kultury-abo-v-chomu-milan-kundera-mav-ratsiiu-shchodo-dostoievskoho
+12. https://youtu.be/NAFxyew6ueE?si=D5-wUjrdWA6UwstE
+13. https://x.com/avedjema/status/1717517768839319958?s=20
+14. https://x.com/Dovzhenko_C/status/1718283644928708914?s=20
+15. https://chytomo.com/z-iavyvsia-test-dlia-vyznachennia-rivnia-ukrainskoi-movy-navishcho-prokhodyty/
+16. https://savchook.com/books/vysha-mystecka-shkola-kharkova/
+17. https://holodomormuseum.org.ua/hololomor/natsionalna-knyha-pam-iati-zhertv-holodomoru-1932-1933/
+18. https://x.com/SDoroncenko/status/1738837461122335045?s=20
+19. https://x.com/sens_kyiv/status/1738875916279845039?s=20
+20. https://x.com/madamAdelaida/status/1738977273951187125?s=20
+21. https://vechir.media/guczulka-ksenya-kozaky-moloda-rotaru-shho-podyvytysya-na-svyata-zamist-rosijskyh-myuzykliv/
+22. https://x.com/Ukrostap/status/1745455166772711430?s=20
+23. https://books.huri.harvard.edu/books/the-city
+24. 
 
 # Triage
 1. https://en.m.wikipedia.org/wiki/Let_It_Bleed
@@ -104,4 +116,16 @@
 75. https://ourworldindata.org/wild-mammals-birds-biomass
 76. https://csmfht.substack.com/p/why-rome-classics-and-alt-right-part?utm_source=substack&utm_medium=email
 77. https://francesco215.github.io/Language_CA/
-78. 
+78. https://youtu.be/cygVfH5TNIY?si=yPsOFfRPu1IaVG3u
+79. https://tasshin.com/blog/discovering-bliss-states/
+80. https://x.com/HumanProgress/status/1719255636884484307?s=20
+81. https://circeinstitute.org/blog/lets-talk-about-dark-music-dark-tv-shows-and-whatnot/
+82. https://x.com/neovictorian23/status/1722338538585530660?s=20
+83. https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/2/334/files/2017/09/1700-Animated-Linkages.pdf
+84. https://en.wikipedia.org/wiki/Ignaz_Trebitsch-Lincoln
+85. https://youtu.be/UXOH1a1h_IA?si=A1ipRaSh1dcXnDEL
+    1. https://unsongbook.com
+86. https://x.com/pitdesi/status/1728100348668309758?s=20
+87. https://x.com/the_wilderless/status/1739306642108268827?s=20
+88. https://web.law.duke.edu/cspd/mickey/
+89. https://doi.org/10.48550/arXiv.0902.3825

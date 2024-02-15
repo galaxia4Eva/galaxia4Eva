@@ -150,6 +150,8 @@
     2. https://minttype.com/monospaceland/
     3. https://minttype.com/ki
     4. https://minttype.com/vin-mono-pro
+9. https://vimeo.com/798919118
+10. 
 
 # pdf
 1. [Download Xpdf and XpdfReader](https://www.xpdfreader.com/download.html)?

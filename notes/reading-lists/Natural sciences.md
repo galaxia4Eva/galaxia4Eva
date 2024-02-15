@@ -253,7 +253,46 @@
 240. https://www.quantamagazine.org/thirty-years-later-a-speed-boost-for-quantum-factoring-20231017
 241. https://www.quantamagazine.org/thirty-years-later-a-speed-boost-for-quantum-factoring-20231017
 242. https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/
-243. 
+243. https://x.com/Andercot/status/1717057484626776453?s=20
+244. https://www.quantamagazine.org/the-computing-pioneer-helping-ai-see-20231024/
+245. https://doi.org/10.1038/s41583-023-00756-z
+246. https://www.quantamagazine.org/biophysicists-uncover-powerful-symmetries-in-living-tissue-20231025/
+247. https://www.quantamagazine.org/a-new-generation-of-mathematicians-pushes-prime-number-barriers-20231026/
+248. https://doi.org/10.1137/22M150650X
+249. https://iopscience.iop.org/article/10.1088/2632-072X/ad0390
+    1. **DOI** 10.1088/2632-072X/ad0390
+250. https://x.com/martinmbauer/status/1719326395489190215?s=20
+251. https://www.quantamagazine.org/the-hidden-connection-that-changed-number-theory-20231101/
+252. https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/
+253. https://www.quantamagazine.org/the-quest-to-quantify-quantumness-20231019/
+254. https://doi.org/10.1103/PhysRevE.108.044407
+255. https://doi.org/10.48550/arXiv.2310.15894
+256. https://doi.org/10.1371/journal.pcbi.1011528
+257. https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/
+258. https://doi.org/10.1038/s41467-023-42856-5
+259. https://www.quantamagazine.org/in-the-wild-west-of-geometry-mathematicians-redefine-the-sphere-20231107/
+260. https://www.quantamagazine.org/even-synthetic-life-forms-with-a-tiny-genome-can-evolve-20230809/
+261. https://doi.org/10.48550/arXiv.2311.12442
+262. https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/
+263. https://doi.org/10.1126/science.abl7152
+    1. https://arxiv.org/pdf/1304.4736.pdf
+264. https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/
+265. https://youtu.be/2nbsFS_rfqM?si=4o-yH7nBM4owiYQI
+266. https://doi.org/10.48550/arXiv.2311.14826
+267. https://doi.org/10.1103/PhysRevX.13.041038
+268. https://doi.org/10.1103/PhysRevLett.131.210201
+269. https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/
+270. https://doi.org/10.48550/arXiv.2401.00999
+271. https://doi.org/10.48550/arXiv.1610.05318
+272. https://doi.org/10.48550/arXiv.2201.03593
+273. https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/
+274. https://doi.org/10.48550/arXiv.2401.07046
+275. https://doi.org/10.48550/arXiv.2004.14192
+276. https://doi.org/10.48550/arXiv.2401.06735
+277. https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/
+278. https://www.quantamagazine.org/what-your-brain-is-doing-when-youre-not-doing-anything-20240205/
+279. https://www.quantamagazine.org/a-lobby-where-a-molecule-mob-tells-genes-what-to-do-20240214/
+280. 
 
 # Mathematics
 1. https://www.whitman.edu/mathematics/multivariable/multivariable.pdf
@@ -271,7 +310,20 @@
 13. https://doi.org/10.1017/CBO9780511618635
 14. https://www.youtube.com/watch?v=CnYPducycSU
 15. https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/
-16. 
+16. https://x.com/gabrielpeyre/status/1717043307098845330?s=20
+    1. https://arxiv.org/pdf/2310.05570.pdf
+17. http://www.dimensions-math.org/Dim_E.htm
+18. https://doi.org/10.48550/arXiv.2311.12446
+19. https://arxiv.org/abs/2311.15152
+20. https://doi.org/10.48550/arXiv.2302.01481
+21. https://doi.org/10.48550/arXiv.2310.10983
+22. https://www.ams.org/journals/ert/2022-26-37/S1088-4165-2022-00624-8/?active=current
+23. https://doi.org/10.48550/arXiv.2312.14338
+24. https://arxiv.org/abs/2312.14688
+25. https://doi.org/10.48550/arXiv.2201.04923
+26. https://arxiv.org/abs/2401.14311v1
+27. https://doi.org/10.48550/arXiv.2204.00948
+28. 
 
 # Wolfram
 1. [Mystery of Entropy FINALLY Solved After 50 Years? (STEPHEN WOLFRAM) - YouTube](https://youtu.be/dkpDjd2nHgo)
@@ -284,6 +336,8 @@
 1. [Type theory - Wikipedia](https://en.wikipedia.org/wiki/Type_theory)
 2. [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system)
 3. https://us.metamath.org/downloads/metamath.pdf
+4. https://doi.org/10.48550/arXiv.2312.11257
+5. 
 
 # Source code
 ## Triage
@@ -302,3 +356,5 @@
 13. https://github.com/sanjoy/pyano
 14. https://github.com/lattice
 15. https://github.com/SquidSinker/Euterpe.jl
+16. https://mitchellslapik.github.io/dynamical_motifs/
+17. 

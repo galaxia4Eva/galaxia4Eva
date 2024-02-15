@@ -168,7 +168,24 @@
 149. https://doi.org/10.48550/arXiv.2302.12469
 150. https://ieeexplore.ieee.org/document/1556108/citations?tabFilter=papers#citations
 151. https://doi.org/10.48550/arXiv.2310.11453
-152. 
+152. https://doi.org/10.48550/arXiv.2311.11829
+153. https://youtu.be/zjkBMFhNj_g?si=b6701ey6G3HPKI2Q
+154. https://doi.org/10.48550/arXiv.2308.16848
+155. https://maurice-weiler.gitlab.io/blog_post/cnn-book_1_equivariant_networks/
+156. https://doi.org/10.48550/arXiv.1511.09249
+157. https://doi.org/10.48550/arXiv.2312.00752
+158. https://doi.org/10.48550/arXiv.2302.06706
+159. https://doi.org/10.48550/arXiv.1709.04057
+160. https://doi.org/10.48550/arXiv.2311.00636
+161. https://ludwigwinkler.github.io/blog/
+162. https://doi.org/10.48550/arXiv.2312.09187
+163. https://doi.org/10.48550/arXiv.2205.11275
+164. https://doi.org/10.48550/arXiv.2206.11267
+165. https://ar5iv.labs.arxiv.org/html/2310.14422
+166. https://doi.org/10.1038/s42256-023-00749-8
+167. https://doi.org/10.48550/arXiv.2301.12767
+168. https://doi.org/10.48550/arXiv.2306.15364
+169. 
 
 # Tutorials and courses
 1. [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)
@@ -189,7 +206,7 @@
 12. [Tree of Thoughts: Deliberate Problem Solving with Large Language Models (Full Paper Review) - YouTube](https://www.youtube.com/watch?v=ut5kp56wW_4)
 13. https://www.altdeep.ai/p/causalml
 14. https://youtu.be/ec56a8wmfRk?si=kTZoerxXQJK66kRP
-15. 
+15. [# Unifying complexity science and machine learning](https://doi.org/10.3389/fcpxs.2023.1235202)
 
 # Books
 1. https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
@@ -207,7 +224,8 @@
 9. https://audiocraft.metademolab.com/?utm_source=twitter&utm_medium=organic_social&utm_campaign=audiocraft&utm_content=card
     1. https://github.com/facebookresearch/audiocraft/
 10. https://twitter.com/bio_bootloader/status/1683906735248125955?s=20
-11. 
+11. https://github.com/blakelaw/Manifold-Data
+12. 
 
 ## Triage
 1. [SIL LSDev · GitHub](https://github.com/orgs/sillsdev/)

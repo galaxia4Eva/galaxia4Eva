@@ -50,4 +50,9 @@
 45. https://www.youtube.com/live/EIb5-LJbcIM?si=mqN3sszUnZWP59eG
     1. https://www.youtube.com/live/XFILvlrXCAc?si=xgpqTsK-gIJBnnDi
 46. https://www.quantamagazine.org/the-cause-of-depression-is-probably-not-what-you-think-20230126/
-47. 
+47. https://doi.org/10.1098/rsos.231240
+48. https://doi.org/10.1111/j.1365-2125.2005.02467.x
+49. https://doi.org/10.1038/s41586-023-06810-1
+50. https://www.newscientist.com/article/2409180-probiotics-helped-reduce-fatigue-and-memory-loss-from-long-covid/?utm_term=Autofeed&utm_campaign=echobox&utm_medium=social&utm_source=Twitter#Echobox=1703595862
+51. https://doi.org/10.48550/arXiv.2401.01257
+52. 

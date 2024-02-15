@@ -5,7 +5,10 @@
 1. [Learn about machine learning](https://developer.apple.com/machine-learning/)
 2. [Learn about Metal](https://developer.apple.com/metal/)
     1. https://developer.apple.com/metal/tensorflow-plugin/
-3. 
+3. https://ml-explore.github.io/mlx/build/html/index.html
+    1. https://github.com/ml-explore
+    2. https://developer.apple.com/documentation/metal/performing_calculations_on_a_gpu
+    3. https://developer.apple.com/metal/Metal-Shading-Language-Specification.pdf
 # Technical
 ## OSS
 1. https://github.com/apple/coremltools

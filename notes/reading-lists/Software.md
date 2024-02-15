@@ -86,28 +86,32 @@
 
 # underdog languages
 1. [The Julia Programming Language](https://julialang.org/)
+    1. https://github.com/sunoru/NodeCall.jl
+    2. 
 2. [Chapter 0 - Getting Started | ziglearn.org](https://ziglearn.org/)
 3. [The V Programming Language](https://vlang.io/)
 4. [The Elixir programming language](https://elixir-lang.org/)
     1. https://github.com/starbelly/erlang-companies
     2. [Phoenix Framework](https://www.phoenixframework.org/)
-6. [The Crystal Programming LanguageCrystal | The Crystal Programming Language](https://crystal-lang.org/)
-7. [Nim Programming Language](https://nim-lang.org/)
-8. [Lean](https://leanprover.github.io/)
-9. [Mojo 🔥: Programming language for all of AI](https://www.modular.com/mojo)
-10. https://nix.dev/tutorials/first-steps/
-11. https://guix.gnu.org/manual/devel/en/html_node/Invoking-guix-shell.html
-12. https://bun.sh
-13. https://github.com/kchanqvq/CSP
-14. https://github.com/eudoxia0/cmacro
-15. APL
+5. [The Crystal Programming LanguageCrystal | The Crystal Programming Language](https://crystal-lang.org/)
+6. [Nim Programming Language](https://nim-lang.org/)
+7. [Lean](https://leanprover.github.io/)
+8. [Mojo 🔥: Programming language for all of AI](https://www.modular.com/mojo)
+9. https://nix.dev/tutorials/first-steps/
+10. https://guix.gnu.org/manual/devel/en/html_node/Invoking-guix-shell.html
+11. https://bun.sh
+12. https://github.com/kchanqvq/CSP
+13. https://github.com/eudoxia0/cmacro
+14. APL
     1. https://github.com/zoomlogo/vim-apl
     2. https://github.com/baruchel/vim-notebook#configuring-gnu-apl
     3. https://github.com/be5invis/Iosevka/tree/main
     4. https://aplwiki.com/wiki/Fonts
     5. https://github.com/abrudz/kbd
     6. https://youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM&si=WhB9sSpBK9nU_yke
-    7. 
+    7. https://hexdocs.pm/elixir/1.16/keywords-and-maps.html
+15. https://chapel-lang.org
+16. 
 
 # Videos
 1. [In-Network Machine Learning for Market Prediction Using Limit Order Books](https://www.cl.cam.ac.uk/research/srg/seminars/videos/2023-05-18.mp4)

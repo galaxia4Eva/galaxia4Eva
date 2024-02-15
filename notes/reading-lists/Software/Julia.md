@@ -20,3 +20,6 @@
 13. https://github.com/korsbo/Latexify.jl
 14. https://github.com/simonschoelly/KittyTerminalImages.jl
 15. https://github.com/MakieOrg/Makie.jl
+16. https://ahsmart.com/assets/pages/data-wrangling-with-data-frames-jl-cheat-sheet/DataFramesCheatSheet_v1.x_rev1.pdf
+17. https://www.youtube.com/watch?v=Q8fj8QbVpZM
+18. 

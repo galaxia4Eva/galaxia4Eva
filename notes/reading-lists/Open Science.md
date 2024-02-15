@@ -9,7 +9,13 @@
 8. [GitHub - amaxwell/tlutility: TeX Live Utility, a Mac OS GUI for the TeX Live Manager](https://github.com/amaxwell/tlutility)
 9. https://twitter.com/scientistswrite/status/1684939984267030528?s=20
 10. https://www.edwardfrenkel.com
-11. 
+11. https://gograd.binghamton.edu/portal/watson-ssie-info
+12. https://researchrabbitapp.com
+13. https://iraf.noirlab.edu
+14. 
 
 # meta-irony
 1. https://jabde.com
+2. https://annas-archive.org/
+3. https://youtu.be/kya_LXa_y1E?si=QRoXEVQYn2O_WW8y
+4. 

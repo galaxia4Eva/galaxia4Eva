@@ -67,7 +67,9 @@
 3. https://www.ieee-security.org/TC/SP2014/papers/Not-So-RandomNumbersinVirtualizedLinuxandtheWhirlwindRNG.pdf
 4. https://busybox.net/about.html
 5. https://docs.alpinelinux.org/user-handbook/0.1a/Installing/medium.html
-6. 
+6. https://wiki.osdev.org/Expanded_Main_Page
+7. https://blog.lenot.re/a/introduction?ref=console.dev
+8. 
 
 # UNIX
 1. [GitHub - mirage/mirage: MirageOS is a library operating system that constructs unikernels](https://github.com/mirage/mirage)
@@ -76,7 +78,12 @@
 4. [Department of Computer Science and Technology: Temporally Enhanced Security Logic Assertions (TESLA)](https://www.cl.cam.ac.uk/research/security/ctsrd/tesla/)
 5. https://wiki.lustre.org/Main_Page
 6. https://superuser.com/questions/945910/how-to-select-paravirtualization-interface-in-virtualbox
-7. 
+7. https://doc.redox-os.org/book/
+
+# RTOS
+1. https://github.com/BUPT-OS/RROS
+2. https://bern-rtos.org
+3. 
 
 # Hypervise macOS from Linux on Mac platform
 1. https://kubadownload.com/news/setting-up-arch-linux-on-your-macbook/
@@ -102,5 +109,8 @@
 7. https://github.com/saulpw/visidata
 8. `port search gnu-pw-mgr`
 9. `port search zeek`
+10. https://www.blackhat.com/docs/us-16/materials/us-16-Mandt-Demystifying-The-Secure-Enclave-Processor.pdf
+11. https://doi.org/10.48550/arXiv.2312.07921
+12. 
 
 [developer.apple:hypervisor]: https://developer.apple.com/documentation/hypervisor
