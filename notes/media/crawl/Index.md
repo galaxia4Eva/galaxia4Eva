@@ -111,7 +111,19 @@
 73. https://x.com/nocontextfooty/status/1716054290400219502?s=20
 74. https://x.com/gunsnrosesgirl3/status/1716105629121581526?s=20
 75. https://x.com/pickover/status/1716238382928412715?s=20
-76. 
+76. https://x.com/EfraSereno/status/1706056919520272762?s=20
+77. https://x.com/historyinmemes/status/1718346430216081746?s=20
+78. https://x.com/Enezator/status/1718266370884882452?s=20
+79. https://x.com/Rainmaker1973/status/1718525501227082107?s=20
+80. https://x.com/OGdukeneurosurg/status/1718728475358417278?s=20
+81. https://x.com/Rainmaker1973/status/1722538107059274003?s=20
+82. https://x.com/CorwinEternal/status/1722585691475853323?s=20
+83. https://x.com/gunsnrosesgirl3/status/1722615826891866136?s=20
+84. https://x.com/HumansNoContext/status/1727477160783270299?s=20
+85. https://x.com/BrennpunktUA/status/1617946143039836160?s=20
+86. https://x.com/OGdukeneurosurg/status/1728501516556779649?s=20
+87. https://x.com/buitengebieden/status/1734630443532652685?s=20
+
 
 # Reddit
 1. https://www.reddit.com/r/YUROP/comments/13py38s/the_greeks_are_not_happy/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&utm_content=1&utm_term=15

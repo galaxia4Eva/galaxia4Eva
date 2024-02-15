@@ -114,4 +114,16 @@
 114. https://x.com/chrost_hugo/status/1710580975602688357?s=20
 115. https://x.com/Dovzhenko_C/status/1711022240706216322?s=20
 116. https://youtu.be/X_Mmfw3GSi8?si=ZxAwSm__Zf853uC9
-117. 
+117. https://x.com/OGdukeneurosurg/status/1717254952253362658?s=20
+118. https://x.com/OGdukeneurosurg/status/1717497224953802853?s=20
+119. https://x.com/OGdukeneurosurg/status/1718750041353994504?s=20
+120. https://x.com/MindblowingClip/status/1720789844933378272?s=20
+121. https://x.com/SteveStuWill/status/1721195669854273667?s=20
+122. https://x.com/OGdukeneurosurg/status/1722626302279053341?s=20
+123. https://x.com/OGdukeneurosurg/status/1728801823094362312?s=20
+124. https://x.com/OGdukeneurosurg/status/1730406040737292473?s=20
+125. https://x.com/OGdukeneurosurg/status/1733088630934028757?s=20
+126. https://x.com/OGdukeneurosurg/status/1734742384703856805?s=20
+127. https://x.com/OGdukeneurosurg/status/1737052689626693847?s=20
+128. https://x.com/OGdukeneurosurg/status/1737518733302612032?s=20
+129. 
