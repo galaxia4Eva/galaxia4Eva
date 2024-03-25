@@ -21,7 +21,7 @@
 # Books
 1. [Elements of Statistical inference][eosi]
 2. https://www.coursera.org/learn/quantitative-methods?authMode=login#modules
-3. 
+3. https://statmodeling.stat.columbia.edu/2024/03/04/our-new-book-active-statistics-is-now-available/
 
 # Code
 1. julialang

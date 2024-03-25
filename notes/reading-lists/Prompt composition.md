@@ -102,7 +102,9 @@
 94. https://doi.org/10.48550/arXiv.2304.15004
 95. https://www.marktechpost.com/2023/12/25/can-machine-learning-predict-chaos-this-paper-from-ut-austin-performs-a-large-scale-comparison-of-modern-forecasting-methods-on-a-giant-dataset-of-135-chaotic-systems/?utm_source=pocket_saves
 96. https://generative.ink/posts/language-models-are-multiverse-generators/
-97. 
+97. https://doi.org/10.48550/arXiv.2403.02817
+98. https://doi.org/10.48550/arXiv.2310.17467
+99. 
 
 # Mode collapse
 1. [Visualizing mode collapse with block multiverse plots :: — Moire (generative.ink)](https://generative.ink/plots/block-multiverse-mode-collapse/)
