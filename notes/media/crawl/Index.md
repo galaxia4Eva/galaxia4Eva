@@ -123,6 +123,8 @@
 85. https://x.com/BrennpunktUA/status/1617946143039836160?s=20
 86. https://x.com/OGdukeneurosurg/status/1728501516556779649?s=20
 87. https://x.com/buitengebieden/status/1734630443532652685?s=20
+88. https://x.com/HowThingsWork_/status/1758423723475087750?s=20
+89. 
 
 
 # Reddit
