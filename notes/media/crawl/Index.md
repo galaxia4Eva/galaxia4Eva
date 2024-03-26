@@ -124,7 +124,11 @@
 86. https://x.com/OGdukeneurosurg/status/1728501516556779649?s=20
 87. https://x.com/buitengebieden/status/1734630443532652685?s=20
 88. https://x.com/HowThingsWork_/status/1758423723475087750?s=20
-89. 
+89. https://x.com/TwiyKyivstar/status/1772739957267849353?s=20
+90. https://x.com/Rainmaker1973/status/1772533856500924487?s=20
+91. https://x.com/megogo_ua/status/1772740076306350410?s=20
+92. https://x.com/megogo_ua/status/1772731981932961990?s=20
+93. 
 
 
 # Reddit
