@@ -104,7 +104,8 @@
 96. https://generative.ink/posts/language-models-are-multiverse-generators/
 97. https://doi.org/10.48550/arXiv.2403.02817
 98. https://doi.org/10.48550/arXiv.2310.17467
-99. 
+99. https://doi.org/10.48550/arXiv.2403.08882
+100. 
 
 # Mode collapse
 1. [Visualizing mode collapse with block multiverse plots :: — Moire (generative.ink)](https://generative.ink/plots/block-multiverse-mode-collapse/)
