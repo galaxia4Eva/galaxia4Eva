@@ -36,7 +36,8 @@
 27. https://youtu.be/pK6hB3OuCTI?si=bSmiRABZF68ZulwK
 28. https://www.vikhola.com/product-page/istoria-arkhitekturnykh-styliv-book
 29. https://existentialcomics.com
-30. 
+30. https://en.wikipedia.org/wiki/Alejandro_Jodorowsky
+31. 
 
 # Triage
 1. https://en.m.wikipedia.org/wiki/Let_It_Bleed
