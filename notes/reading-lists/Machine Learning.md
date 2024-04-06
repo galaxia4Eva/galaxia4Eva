@@ -189,7 +189,8 @@
 170. https://doi.org/10.48550/arXiv.2403.03122
 171. https://doi.org/10.48550/arXiv.2301.00942
 172. https://doi.org/10.1145/3589335.3651526
-173. 
+173. https://arxiv.org/abs/2404.02258
+174. 
 
 # Tutorials and courses
 1. [Summary of the tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)
