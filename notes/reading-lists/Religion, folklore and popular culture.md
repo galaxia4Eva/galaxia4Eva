@@ -1,44 +1,4 @@
 #folklore #poop-culture
-# Твоя Підпільна Гуманітарка
-1. https://humanitarka.com
-    1. https://rentafont.com.ua/blog/znadibky-Istorychni/vasyl-yakovych-chebanyk
-    2. http://luc.devroye.org/ukraine.html
-    3. https://mala.storinka.org/леся-воронина-повість-у-залізних-нетрях-історія-четверта-героїчна-з-книги-суперагент-000-таємниця-золотого-кенгуру.html
-    4. https://www.myfonts.com/pages/newsletters-cc-201202
-    5. https://twitter.com/viterzbayraku/status/1692820110556172382?s=20
-2. https://lcorp.ulif.org.ua/dictua/
-3. http://litopys.org.ua/ukrmova/um43.htm
-    1. https://esu.com.ua/search_articles.php?id=60959
-    2. http://litopys.org.ua/rizne/maks_osn.htm
-    3. https://archive.org/details/zapysky7/zapysky165/page/n75/mode/2up?view=theater
-5. https://italianpoetry.it
-6. https://vovk.archive.iananu.com/?fbclid=IwAR1s7wgZUPBFAbmAZwTVXhFPdKkXSVrnrL21Q5efJSYFG9FMgl7ycXiSgTk
-7. https://alanwatts.com
-8. https://www.crosswire.org/sword/index.jsp
-9. http://www.voka.at
-10. http://htck.github.io/bayeux/#!/%23/
-11. https://tyzhden.ua/dorosli-multfilmy/
-12. https://twitter.com/ygnatyuk_/status/1697883309571768354?s=20
-13. https://www.goodreads.com/book/show/17280561
-14. https://www.krytyka.com/ua/articles/pershyi-sezon-skasuvannia-rosiiskoi-kultury-abo-v-chomu-milan-kundera-mav-ratsiiu-shchodo-dostoievskoho
-15. https://youtu.be/NAFxyew6ueE?si=D5-wUjrdWA6UwstE
-16. https://x.com/avedjema/status/1717517768839319958?s=20
-17. https://x.com/Dovzhenko_C/status/1718283644928708914?s=20
-18. https://chytomo.com/z-iavyvsia-test-dlia-vyznachennia-rivnia-ukrainskoi-movy-navishcho-prokhodyty/
-19. https://savchook.com/books/vysha-mystecka-shkola-kharkova/
-20. https://holodomormuseum.org.ua/hololomor/natsionalna-knyha-pam-iati-zhertv-holodomoru-1932-1933/
-21. https://x.com/SDoroncenko/status/1738837461122335045?s=20
-22. https://x.com/sens_kyiv/status/1738875916279845039?s=20
-23. https://x.com/madamAdelaida/status/1738977273951187125?s=20
-24. https://vechir.media/guczulka-ksenya-kozaky-moloda-rotaru-shho-podyvytysya-na-svyata-zamist-rosijskyh-myuzykliv/
-25. https://x.com/Ukrostap/status/1745455166772711430?s=20
-26. https://books.huri.harvard.edu/books/the-city
-27. https://youtu.be/pK6hB3OuCTI?si=bSmiRABZF68ZulwK
-28. https://www.vikhola.com/product-page/istoria-arkhitekturnykh-styliv-book
-29. https://existentialcomics.com
-30. https://en.wikipedia.org/wiki/Alejandro_Jodorowsky
-31. https://youtu.be/pOIS4zD-G_A
-
 # Triage
 1. https://en.m.wikipedia.org/wiki/Let_It_Bleed
 2. https://en.m.wikipedia.org/wiki/Shapeshifting
