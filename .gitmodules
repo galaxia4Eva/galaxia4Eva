@@ -4,6 +4,3 @@
 [submodule ".obsidian"]
 	path = .obsidian
 	url = git@bitbucket.org:galaxia4eva/.obsidian.git
-[submodule "dnsguide"]
-	path = dnsguide
-	url = git@github.com:EmilHernvall/dnsguide.git
