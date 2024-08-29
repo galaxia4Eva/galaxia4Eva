@@ -294,7 +294,8 @@
 279. https://www.quantamagazine.org/a-lobby-where-a-molecule-mob-tells-genes-what-to-do-20240214/
 280. https://doi.org/10.48550/arXiv.2402.19459
 281. https://doi.org/10.31219/osf.io/4b2wj
-282. 
+282. https://youtu.be/eZAeTAbRmMs?si=2BGEdqH_TsiquPh4
+283. 
 
 # Mathematics
 1. https://www.whitman.edu/mathematics/multivariable/multivariable.pdf
@@ -325,7 +326,8 @@
 25. https://doi.org/10.48550/arXiv.2201.04923
 26. https://arxiv.org/abs/2401.14311v1
 27. https://doi.org/10.48550/arXiv.2204.00948
-28. 
+28. https://youtu.be/WLAW5yz5O3E?si=hWkp7zYSl6xxAPcP
+29. 
 
 # Wolfram
 1. [Mystery of Entropy FINALLY Solved After 50 Years? (STEPHEN WOLFRAM) - YouTube](https://youtu.be/dkpDjd2nHgo)
