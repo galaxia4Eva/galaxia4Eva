@@ -128,7 +128,8 @@
 90. https://x.com/Rainmaker1973/status/1772533856500924487?s=20
 91. https://x.com/megogo_ua/status/1772740076306350410?s=20
 92. https://x.com/megogo_ua/status/1772731981932961990?s=20
-93. 
+93. https://x.com/ume_poison0/status/1865929547981734368
+94. 
 
 
 # Reddit
