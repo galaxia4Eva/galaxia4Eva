@@ -129,7 +129,7 @@
 91. https://x.com/megogo_ua/status/1772740076306350410?s=20
 92. https://x.com/megogo_ua/status/1772731981932961990?s=20
 93. https://x.com/ume_poison0/status/1865929547981734368
-94. 
+94. https://x.com/twinewss/status/1885084020427677779
 
 
 # Reddit
