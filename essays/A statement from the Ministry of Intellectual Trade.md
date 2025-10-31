@@ -16,7 +16,7 @@ The Ministry advises applying a reduced Cognitive Tax while reading this documen
         </p>
     </div>
     <img align="right" style="padding: 0 1em 0 1em"
-    src="essays/attachments/Ministry_of_Intellectual_Trade_Logo.png"
+    src="./attachments/Ministry_of_Intellectual_Trade_Logo.png"
     alt="Official Seal of the Ministry of Intellectual Trade"
     width="30%"
     />
